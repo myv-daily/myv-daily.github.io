@@ -1,5 +1,18 @@
 [
   {
+    "channel": "games",
+    "channel_title": "独立游戏观察",
+    "type": "daily",
+    "type_label": "日报",
+    "report_date": "2026-08-12",
+    "coverage_start": "2026-08-12",
+    "coverage_end": "2026-08-12",
+    "generated_at": "2026-08-12T10:41:16+08:00",
+    "title": "《No More Room in Hell 2》走出灾难性抢先体验，联网故障仍卡在撤离路上",
+    "excerpt": "《No More Room in Hell 2》在抢先体验中挣扎近两年后，终于随 1.0 版本登陆 PC、PS5 和 Xbox。仅看 Steam 的累计评价，它仍是一款“褒贬不一”的游戏：截至今天上午，21,466 条评价里有 10,595 条推荐、10,871 条不推荐。但…",
+    "public_path": "/games/daily/2026-08-12/"
+  },
+  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -24,19 +37,6 @@
     "title": "MiniMax、智谱合计融资逾473亿港元，AI模型竞争从缺钱转向兑现",
     "excerpt": "8月12日上午，MiniMax与智谱股价分别一度上涨5.85%和5.54%，但比盘中涨幅更值得注意的，是两家公司刚刚完成的资本补给。MiniMax通过配售和零息可转债净募资约159.57亿港元，智谱一次配售净募资约313.75亿港元；合计超过473亿港元。对于收入仍远小于研发…",
     "public_path": "/stocks/daily/2026-08-12/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-12",
-    "coverage_start": "2026-08-12",
-    "coverage_end": "2026-08-12",
-    "generated_at": "2026-08-12T10:02:19+08:00",
-    "title": "《Echoes of Mystralia》的法术很自由，成长路线却把自由藏得太深",
-    "excerpt": "今天最值得继续看的新作不是评价最高的一款，而是评价分歧最能暴露设计矛盾的一款。8 月 11 日进入抢先体验的《Echoes of Mystralia》，截至今早已有 104 条 Steam 全语言评价，其中 77 条好评、27 条差评。这个样本还不足以判断它能否支撑长期游玩，…",
-    "public_path": "/games/daily/2026-08-12/"
   },
   {
     "channel": "general",
