@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "general",
+  "channel_title": "日常观察",
+  "type": "daily",
+  "type_label": "日报",
+  "report_date": "2026-08-13",
+  "coverage_start": "2026-08-13",
+  "coverage_end": "2026-08-13",
+  "generated_at": "2026-08-13T05:30:17+08:00",
+  "run_id": "general-2026-08-13-1786570217254",
+  "public_path": "/general/daily/2026-08-13/"
+}
