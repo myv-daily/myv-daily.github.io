@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "stocks",
+  "channel_title": "股票观察",
+  "type": "daily",
+  "type_label": "日报",
+  "report_date": "2026-08-15",
+  "coverage_start": "2026-08-15",
+  "coverage_end": "2026-08-15",
+  "generated_at": "2026-08-15T05:30:17+08:00",
+  "run_id": "stocks-2026-08-15-1786743330688",
+  "public_path": "/stocks/daily/2026-08-15/"
+}
