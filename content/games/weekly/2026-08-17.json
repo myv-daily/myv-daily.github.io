@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "games",
+  "channel_title": "独立游戏观察",
+  "type": "weekly",
+  "type_label": "周报",
+  "report_date": "2026-08-17",
+  "coverage_start": "2026-08-10",
+  "coverage_end": "2026-08-16",
+  "generated_at": "2026-08-17T05:30:12+08:00",
+  "run_id": "games-2026-08-17-1786917396718",
+  "public_path": "/games/weekly/2026-08-17/"
+}
