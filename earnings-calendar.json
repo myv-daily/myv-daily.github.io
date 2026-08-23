@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T08:36:26.831Z",
+  "generated_at": "2026-08-23T08:39:13.896Z",
   "today": "2026-08-23",
   "coverage_start": "2026-08-08",
   "coverage_end": "2026-09-07",
@@ -20011,7 +20011,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Accuray Incorporated (Nasdaq: ARAY) is committed to expanding the powerful potential of radiation therapy to improve as many lives as possible. We invent unique, market-changing…"
     },
     {
       "market": "US",
@@ -20022,7 +20023,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alvotech is a biotechnology company, founded by Robert Wessman, focused solely on the development and manufacture of biosimilar medicines for patients worldwide. Alvotech seeks …"
     },
     {
       "market": "US",
@@ -20033,7 +20035,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines an…"
     },
     {
       "market": "US",
@@ -20044,7 +20047,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Antalpha is a leading fintech company specializing in providing financing, technology, and risk management solutions to the Web3 industry. Antalpha offers Bitcoin supply chain a…"
     },
     {
       "market": "US",
@@ -20055,7 +20059,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ascentage Pharma Group International (NASDAQ: AAPG; HKEX: 6855) (\"Ascentage Pharma\" or the \"Company\") is a global, commercial stage, integrated biopharmaceutical company engaged…"
     },
     {
       "market": "US",
@@ -20066,7 +20071,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Avalanche is a technology platform built for business. Enterprises, financial institutions, consumer applications, and governments run core infrastructure on Avalanche as it pro…"
     },
     {
       "market": "US",
@@ -20077,7 +20083,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "is a sustainable technology innovator which develops and manufactures infrastructure products and technologies. We operate at the nexus of innovative and reliable energy, transp…"
     },
     {
       "market": "US",
@@ -20088,7 +20095,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BILL (NYSE: BILL) the intelligent finance platform trusted by nearly half a million businesses and their accountants to manage, move, and maximize their money. BILL powers busin…"
     },
     {
       "market": "US",
@@ -20099,7 +20107,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BiomX Inc. is a technology company focused on building a diversified platform across defense, security and critical infrastructure technologies. Through its subsidiaries and str…"
     },
     {
       "market": "US",
@@ -20110,7 +20119,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BTCS Inc. ('BTCS' or the 'Company'), short for Blockchain Technology Consensus Solutions, is a U.S.-based Ethereum-first blockchain technology company committed to driving scala…"
     },
     {
       "market": "US",
@@ -20121,7 +20131,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The investment seeks income.The fund invests substantially all its assets in incomeproducing first lien whole loans secured by residential real estate. Up to 10% of the loans ma…"
     },
     {
       "market": "US",
@@ -20132,7 +20143,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Chemomab is a clinical stage biotechnology company developing innovative therapeutics for immune-fibrotic diseases with high unmet need. Based on the unique role of the soluble …"
     },
     {
       "market": "US",
@@ -20143,7 +20155,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Circle8 Group Inc. (Nasdaq: CIRC) is a global provider of technology talent, consulting enablement and workforce solutions operating across the United States and Europe. Through…"
     },
     {
       "market": "US",
@@ -20154,7 +20167,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Irvine, California, Clean Energy Technologies, Inc. (CETY) is a rising leader in the zero-emission revolution by offering eco-friendly green energy solutions, c…"
     },
     {
       "market": "US",
@@ -20165,7 +20179,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CollPlant is a regenerative and aesthetic medicine company ushering in a new era of medical solutions with a focus on 3D bioprinting of tissues and organs, tissue repair and med…"
     },
     {
       "market": "US",
@@ -20176,7 +20191,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cosmos Health Inc. (Nasdaq:COSM), incorporated in 2009 in Nevada, is a diversified, vertically integrated global healthcare group. The Company owns a portfolio of proprietary ph…"
     },
     {
       "market": "US",
@@ -20187,7 +20203,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in Paris in 1904, Coty is one of the world's largest beauty companies with a portfolio of iconic brands across fragrance, color cosmetics, and skin and body care. Coty s…"
     },
     {
       "market": "US",
@@ -20198,7 +20215,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Datavault AI Inc. (Nasdaq: DVLT) is an Artificial Intelligence Platform ('AIP') company focused on transforming data and real-world assets into intelligent, secure and monetizab…"
     },
     {
       "market": "US",
@@ -20209,7 +20227,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Digital Brands Group, Inc. (NASDAQ: DBGI) operates a curated portfolio of luxury and lifestyle apparel brands, leveraging a digitally native e-commerce ecosystem and selective w…"
     },
     {
       "market": "US",
@@ -20220,7 +20239,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "DNA X, Inc. (Nasdaq: SONM) operates an AI-driven trading platform that applies advanced artificial intelligence to automate trading strategies."
     },
     {
       "market": "US",
@@ -20231,7 +20251,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Estee Lauder Companies Inc. is one of the world's leading manufacturers, marketers, and sellers of quality skin care, makeup, fragrance, and hair care products, and is a ste…"
     },
     {
       "market": "US",
@@ -20242,7 +20263,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Flex LNG is a shipping company focused on the growing market for Liquefied Natural Gas (LNG). Our fleet consists of thirteen LNG carriers on the water and all our vessels are st…"
     },
     {
       "market": "US",
@@ -20253,7 +20275,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Full Truck Alliance Co. Ltd. (NYSE: YMM) is a leading digital freight platform connecting shippers with truckers to facilitate shipments across distance ranges, cargo weights an…"
     },
     {
       "market": "US",
@@ -20264,7 +20287,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Intelligent Bio Solutions Inc. (Nasdaq: INBS) is a medical technology company delivering intelligent, rapid, non-invasive testing solutions. The Company believes that its Intell…"
     },
     {
       "market": "US",
@@ -20275,7 +20299,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ionic Digital is the fast-track provider of High-Performance Computing (HPC) and data center infrastructure, designed to drive stability in the rapidly evolving AI landscape. In…"
     },
     {
       "market": "US",
@@ -20286,7 +20311,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Jaguar Health, Inc. ('Jaguar') develops novel proprietary prescription drugs sustainably derived from plants for people with complicated gastrointestinal ('GI') disease states. …"
     },
     {
       "market": "US",
@@ -20297,7 +20323,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Jiayin Group Inc. is a leading fintech platform in China committed to facilitating effective, transparent, secure and fast connections between underserved individual borrowers a…"
     },
     {
       "market": "US",
@@ -20308,7 +20335,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Based in Elgin, Illinois, John B. Sanfilippo & Son, Inc. is a processor, packager, marketer and distributor of nut and dried fruit products and snack bars, that are sold under t…"
     },
     {
       "market": "US",
@@ -20319,7 +20347,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "KALA BIO, Inc. is a clinical-stage biopharmaceutical company building a dedicated, on-premises AI infrastructure platform for the biotechnology industry. The Company's dual stra…"
     },
     {
       "market": "US",
@@ -20330,7 +20359,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Kingsoft Cloud Holdings Limited (NASDAQ: KC and HKEX: 3896) is a leading cloud service provider in China. With extensive cloud infrastructure, cutting-edge cloud-native products…"
     },
     {
       "market": "US",
@@ -20341,7 +20371,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lowe's Companies, Inc. (NYSE: LOW) is a FORTUNE® 100 home improvement company with total fiscal year 2025 sales of more than $86 billion. Lowe's employs approximately 300,000 as…"
     },
     {
       "market": "US",
@@ -20352,7 +20383,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "In addition to its ownership of Fusion Five Continents Securities, LQR House intends to remain a prominent force in the wine and spirits e-commerce sector, epitomized by its fla…"
     },
     {
       "market": "US",
@@ -20363,7 +20395,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Banco Macro SA is a financial institution and it provides standard banking products and services designed to suit individual needs. It has two categories of customers, retail cu…"
     },
     {
       "market": "US",
@@ -20374,7 +20407,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 2018, Marti is Türkiye's leading mobility app, offering a wide variety of transportation services. Marti operates a ride-hailing service that matches riders with car,…"
     },
     {
       "market": "US",
@@ -20385,7 +20419,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Nordson engineers, manufactures, and markets differentiated products and systems used for dispensing and processing adhesives, coatings, polymers, sealants and biomaterials; and…"
     },
     {
       "market": "US",
@@ -20396,7 +20431,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NovaBridge Biosciences (Nasdaq: NBP) is a global biotechnology company advancing a portfolio of therapeutic programs in oncology and ophthalmology. The Company identifies differ…"
     },
     {
       "market": "US",
@@ -20407,7 +20443,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Olenox Industries Inc. (NASDAQ:OLOX) is a vertically integrated U.S. energy company operating across multiple business lines, including oil and gas, energy services and energy t…"
     },
     {
       "market": "US",
@@ -20418,7 +20455,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Onfolio Holdings Inc. (Nasdaq: ONFO, ONFOW) (OTC: ONFOP) is an owner-operator of cash-generative online businesses. The Company acquires and operates profitable online businesse…"
     },
     {
       "market": "US",
@@ -20429,7 +20467,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Opera is a user-centric and innovative software company focused on enabling the best possible internet browsing experience across devices. Hundreds of millions worldwide use Ope…"
     },
     {
       "market": "US",
@@ -20440,7 +20479,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Picard Medical, Inc. is the parent company of SynCardia Systems, LLC ('SynCardia'), the Tucson, Arizona-based leader with the only commercially available total artificial heart …"
     },
     {
       "market": "US",
@@ -20451,7 +20491,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Profusa is a digital health company developing a new generation of tissue-integrated sensors to detect and continuously transmit actionable, medical-grade data for personal and …"
     },
     {
       "market": "US",
@@ -20462,7 +20503,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Richtech Robotics develops advanced robotic solutions and the data infrastructure that makes its robots more intelligent. Guided by three strategic pillars - Industrial, Commerc…"
     },
     {
       "market": "US",
@@ -20473,7 +20515,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Solesence, Inc. (Nasdaq: SLSN) is a leader in scientifically-driven health care solutions across beauty and life science categories. With a mission to deliver joy through innova…"
     },
     {
       "market": "US",
@@ -20484,7 +20527,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sow Good Inc. (Nasdaq: SOWG) is a U.S. -based company headquartered in Irving, Texas. The Company manufactures and markets freeze-dried candy and snack products under its Sow Go…"
     },
     {
       "market": "US",
@@ -20506,7 +20550,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Starfighters Space (NYSE American: FJET), with a fleet of F-104 aircraft based at NASA Kennedy Space Center in Florida and the Midland Air and Space Port in Texas, is the only c…"
     },
     {
       "market": "US",
@@ -20517,7 +20562,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Target Corporation (NYSE: TGT) brings together style, design and value to offer a distinct assortment and elevated shopping experience across more than 2,000 U.S. stores and onl…"
     },
     {
       "market": "US",
@@ -20528,7 +20574,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The TJX Companies, Inc., a Fortune 100 company, is the leading off-price retailer of apparel and home fashions in the U.S. and worldwide. Our mission is to deliver great value t…"
     },
     {
       "market": "US",
@@ -20539,7 +20586,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TOYO is a solar solutions company that is committed to becoming a full-service solar solutions provider in the global market, integrating the upstream production of wafers and s…"
     },
     {
       "market": "US",
@@ -20550,7 +20598,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "UNIFI, Inc. (NYSE: UFI ) is a global leader in fiber science and sustainable synthetic textiles. Using proprietary recycling technology, UNIFI is a pioneer in scaling the transf…"
     },
     {
       "market": "US",
@@ -20561,7 +20610,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Viking (NYSE: VIK) is a global leader in experiential travel with a fleet of more than 100 ships, exploring 21 rivers, five oceans and all seven continents. Designed for curious…"
     },
     {
       "market": "US",
@@ -20572,7 +20622,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Virtuix Holdings Inc. (NASDAQ: VTIX) is a leading manufacturer of AI-driven, full-body simulation systems for consumer, enterprise, healthcare, and defense markets. The company'…"
     },
     {
       "market": "US",
@@ -20583,7 +20634,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "VisionWave Holdings, Inc. (Nasdaq: VWAV) develops and integrates intelligent autonomous systems, including unmanned ground vehicle platforms, payloads and software for defense a…"
     },
     {
       "market": "US",
@@ -20594,7 +20646,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Vivakor, Inc. is an integrated provider of sustainable energy transportation, storage, reuse, and remediation services, operating one of the largest fleets of oilfield trucking …"
     },
     {
       "market": "US",
@@ -20605,7 +20658,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Webull Corporation (NASDAQ: BULL) owns and operates Webull, a leading digital investment platform built on next-generation global infrastructure and AI technologies. Through its…"
     },
     {
       "market": "US",
@@ -20616,7 +20670,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Weibo is a leading social media for people to create, share and discover content online. Weibo combines the means of public self-expression in real time with a powerful platform…"
     },
     {
       "market": "US",
@@ -20627,7 +20682,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Wolfspeed Inc is involved in the manufacturing of wide bandgap semiconductors. It is focused on silicon carbide and gallium nitride (GaN) materials and devices for power and rad…"
     },
     {
       "market": "US",
@@ -20638,7 +20694,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in Israel in 1945, ZIM (NYSE: ZIM) is a leading global container liner shipping company with operations in more than 90 countries, serving over 30,000 customers across m…"
     },
     {
       "market": "CN",
@@ -23001,7 +23058,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "36Kr Holdings Inc. is a prominent brand and a pioneering platform dedicated to serving New Economy participants in China with the mission of empowering New Economy participants …"
     },
     {
       "market": "US",
@@ -23012,7 +23070,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Advance Auto Parts, Inc. is a leading automotive aftermarket parts provider that serves both professional installers and do-it-yourself customers. As of July 18, 2026, Advance o…"
     },
     {
       "market": "US",
@@ -23023,7 +23082,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Aegon is an international financial services holding company with the ambition to become a leading US life insurance, annuity, and retirement group with international insurance …"
     },
     {
       "market": "US",
@@ -23034,7 +23094,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Launched in 1999 and headquartered in Dubai, AIR is a global innovation leader in social inhalation, with a multinational presence in over 90 markets worldwide. Its portfolio of…"
     },
     {
       "market": "US",
@@ -23045,7 +23106,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alibaba Group is a global technology company focused on AI + Cloud and consumption. We provide the technology infrastructure and marketing reach to help merchants, brands, retai…"
     },
     {
       "market": "US",
@@ -23056,7 +23118,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Atour Lifestyle Holdings Limited (NASDAQ: ATAT) is a leading lifestyle group in China that operates both hospitality and retail businesses. As a leader in quality living, Atour …"
     },
     {
       "market": "US",
@@ -23067,7 +23130,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Shanghai, ATRenew Inc. is a pioneer in technology-driven recycling and trade-in solutions for consumer products in China. Since inception in 2011, ATRenew has b…"
     },
     {
       "market": "US",
@@ -23078,7 +23142,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 2011, Aurora Mobile (NASDAQ: JG) is a leading provider of customer engagement and marketing technology services. The Company is dedicated to empowering global enterpr…"
     },
     {
       "market": "US",
@@ -23089,7 +23154,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Autohome Inc. (NYSE: ATHM; HKEX: 2518) is the leading online destination for automobile consumers in China. Its mission is to relentlessly reduce auto industry decision-making a…"
     },
     {
       "market": "US",
@@ -23100,7 +23166,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BOS integrates cutting-edge technologies to streamline and enhance supply chain operations for global customers in the aerospace, defense, industrial and retail sectors. The Com…"
     },
     {
       "market": "US",
@@ -23111,7 +23178,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BingEx Limited (Nasdaq: FLX) is a pioneer in China in providing on-demand dedicated courier services for individual and business customers with superior time certainty, delivery…"
     },
     {
       "market": "US",
@@ -23122,7 +23190,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Cato Corp operates as a specialty retailer of fashion apparel and accessories primarily in the southeastern United States. Its primary objective is to be the fashion special…"
     },
     {
       "market": "US",
@@ -23133,7 +23202,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Daqo New Energy Corp. (NYSE: DQ) (' Daqo ' or the 'Company') is a leading manufacturer of high-purity polysilicon for the global solar PV industry. Founded in 2007, the Company …"
     },
     {
       "market": "US",
@@ -23144,7 +23214,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Deere & Company ( www.JohnDeere.com ) is a global leader in the delivery of agricultural, construction, and forestry equipment. We help our customers push the boundaries of what…"
     },
     {
       "market": "US",
@@ -23155,7 +23226,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "We are a leading fresh grocery e-commerce company in mainland China, with sustainable long-term growth. We directly provide users and households with fresh groceries, prepared f…"
     },
     {
       "market": "US",
@@ -23166,7 +23238,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Wuhan, China , DouYu International Holdings Limited (Nasdaq: DOYU) is a leading game-centric live streaming platform in China and a pioneer in the eSports value…"
     },
     {
       "market": "US",
@@ -23177,7 +23250,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Evaxion is a pioneering TechBio company based upon its proprietary, clinically validated and scalable AI platform, AI-Immunology. The platform harnesses the power of artificial …"
     },
     {
       "market": "US",
@@ -23188,7 +23262,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Thomasville, Ga., Flowers Foods, Inc. (NYSE: FLO) is one of the largest producers of packaged bakery foods in the United States with 2025 net sales of $5.3 bill…"
     },
     {
       "market": "US",
@@ -23199,7 +23274,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Flux Power (NASDAQ: FLUX) designs, manufactures, and sells advanced lithium-ion energy storage solutions for electrification of a range of industrial and commercial sectors incl…"
     },
     {
       "market": "US",
@@ -23210,7 +23286,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Futu Holdings Limited (Nasdaq: FUTU) is an advanced technology company transforming the investing experience by offering fully digitalized financial services. Through its propri…"
     },
     {
       "market": "US",
@@ -23221,7 +23298,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hovnanian Enterprises, Inc. , founded in 1959 by Kevork S. Hovnanian , is headquartered in Matawan, New Jersey and, through its subsidiaries, is one of the nation's largest home…"
     },
     {
       "market": "US",
@@ -23232,7 +23310,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Huize Holding Limited is a leading insurance technology platform connecting consumers, insurance carriers and distribution partners digitally through data-driven and AI-powered …"
     },
     {
       "market": "US",
@@ -23243,7 +23322,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Intchains Group Limited focuses on the development of altcoin mining products, the strategic acquisition, holding, and staking of Ethereum-based cryptocurrencies, and the delive…"
     },
     {
       "market": "US",
@@ -23254,7 +23334,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Cincinnati, LSI is a publicly held company traded over the NASDAQ Stock Exchange under the symbol LYTS. The company manufactures advanced lighting, graphics, an…"
     },
     {
       "market": "US",
@@ -23265,7 +23346,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Navios Maritime Partners L.P. (NYSE: NMM) is an international owner and operator of dry cargo and tanker vessels. For more information, please visit our website at www.navios-ml…"
     },
     {
       "market": "US",
@@ -23276,7 +23358,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Launched in 2013 by NetEase, Inc. (NASDAQ: NTES; HKEX: 9999), NetEase Cloud Music Inc. (HKEX: 9899) is a well-known online music platform featuring a vibrant content community. …"
     },
     {
       "market": "US",
@@ -23287,7 +23370,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "OSI Systems designs and manufactures specialized electronic systems and components for critical applications. The Company operates through three business segments: Security, Opt…"
     },
     {
       "market": "US",
@@ -23298,7 +23382,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Prospect is a business development company that primarily lends to and invests in middle market privately-held companies. Prospect's investment objective is to generate both cur…"
     },
     {
       "market": "US",
@@ -23309,7 +23394,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California , with fiscal 2025 revenues of $22.8 billion. Currently, the Comp…"
     },
     {
       "market": "US",
@@ -23320,7 +23406,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ScanSource, Inc. (NASDAQ: SCSC) is a leading technology distributor uniquely positioned to address complex technologies and to accelerate growth for channel sales partners acros…"
     },
     {
       "market": "US",
@@ -23331,7 +23418,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sol-Gel is a specialized dermatology company advancing innovative therapies for rare and serious skin diseases. Its lead investigational candidate, SGT-610 (patidegib gel, 2%), …"
     },
     {
       "market": "US",
@@ -23342,7 +23430,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sunlands Technology Group (NYSE: STG) ('Sunlands' or the 'Company'), formerly known as Sunlands Online Education Group , is a leader in China's adult online education market and…"
     },
     {
       "market": "US",
@@ -23353,7 +23442,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ticketplus is a technology company founded in 2014 with operating headquarters in Santiago, Chile. The Company operates a proprietary, full-stack technology platform powering li…"
     },
     {
       "market": "US",
@@ -23364,7 +23454,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Twin Disc, Inc. designs, manufactures, and sells marine and heavy-duty off-highway power transmission equipment. Products offered include: marine transmissions, azimuth drives, …"
     },
     {
       "market": "US",
@@ -23375,7 +23466,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Walmart Inc. (Nasdaq: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through t…"
     },
     {
       "market": "US",
@@ -23386,7 +23478,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Western Asset High Income Oppor Fd Inc is a diversified closed-end management investment company. The company's primary objective is to seek high current income and capital appr…"
     },
     {
       "market": "US",
@@ -23397,7 +23490,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Yatsen Holding Limited (NYSE: YSG) is a leading China -based beauty group with the vision of becoming a world-class pioneer in beauty innovation. Founded in 2016, the Company ha…"
     },
     {
       "market": "US",
@@ -23408,7 +23502,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Yiren Digital Ltd. is a leading company specializing in financial technology and artificial intelligence innovation across multiple industries in China and global markets. The C…"
     },
     {
       "market": "US",
@@ -23419,7 +23514,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Youdao, Inc. (NYSE: DAO ) is strategically positioned as an AI solutions provider specializing in learning and advertising. Youdao mainly offers learning services, online market…"
     },
     {
       "market": "US",
@@ -23430,7 +23526,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Yunji Inc. is a leading social e-commerce platform in China that has pioneered a unique, membership-based model to leverage the power of social interactions. The Company's e-com…"
     },
     {
       "market": "CN",
@@ -28265,7 +28362,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BJ's Wholesale Club Holdings, Inc. (NYSE: BJ) is a leading operator of membership warehouse clubs focused on delivering significant value to its members and serving a shared pur…"
     },
     {
       "market": "US",
@@ -28276,7 +28374,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BOXABL Inc. (Nasdaq: BXBL) is a factory-built construction company on a mission to solve the housing crisis by making building as efficient as manufacturing. The company designs…"
     },
     {
       "market": "US",
@@ -28287,7 +28386,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Buckle is a specialty retailer focused on delivering exceptional service and style through unforgettable experiences. Offering a curated mix of high-quality, on-trend apparel, a…"
     },
     {
       "market": "US",
@@ -28298,7 +28398,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "GDEV is a gaming and entertainment holding company, focused on development and growth of its franchise portfolio across various genres and platforms. With a diverse range of sub…"
     },
     {
       "market": "US",
@@ -28309,7 +28410,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Global Interactive Technologies, Inc. is a digital media and technology company focused on fan engagement and the fandom economy through its multi-platform ecosystem, including …"
     },
     {
       "market": "US",
@@ -28320,7 +28422,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "KE Holdings Inc. is a leading integrated online and offline platform for housing transactions and services. The Company is a pioneer in building infrastructure and standards to …"
     },
     {
       "market": "US",
@@ -28331,7 +28434,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lunai Bioworks, Inc. (Nasdaq: LNAI) is a Delaware corporation headquartered in Sacramento, California. Lunai, through its wholly owned subsidiary BioSymetrics Inc. ( www.biosyme…"
     },
     {
       "market": "US",
@@ -28342,7 +28446,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NioCorp is developing the Elk Creek Project that is expected to produce niobium, scandium, and titanium and several rare earth products. Niobium is used to produce specialty all…"
     },
     {
       "market": "US",
@@ -28353,7 +28458,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Company currently owns a modern fleet of six mid-sized eco-vessels, which are engaged in the seaborne transportation of a broad range of refined petroleum products and dry-b…"
     },
     {
       "market": "US",
@@ -28364,7 +28470,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ubiquiti Inc. is focused on democratizing network technology on a global scale - creating networking infrastructure in over 200 countries and territories around the world. Our p…"
     },
     {
       "market": "US",
@@ -28375,7 +28482,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ZKH Group Limited (NYSE: ZKH) is a leading MRO procurement service platform in China, underpinned by robust supply chain capabilities and dedicated to serving customers globally…"
     },
     {
       "market": "CN",
@@ -34974,7 +35082,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Apartment Investment and Management Company (Aimco) is a diversified real estate investment trust (REIT) focused on value-added and opportunistic investments in the U.S. multifa…"
     },
     {
       "market": "US",
@@ -34985,7 +35094,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CBAK Energy Technology Limited (NASDAQ: CBAT) is a leading China-based high-tech enterprise that develops, manufactures and sells high-power lithium-ion and sodium-ion batteries…"
     },
     {
       "market": "US",
@@ -34996,7 +35106,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ChronoScale Holdings Corporation is being formed to become an accelerated compute platform purpose-built to support the most demanding artificial intelligence workloads. To be f…"
     },
     {
       "market": "US",
@@ -35007,7 +35118,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Currenc Group Inc. (Nasdaq: CURR) is a global fintech, AI infrastructure and digital asset technology company dedicated to transforming financial services through AI and next-ge…"
     },
     {
       "market": "US",
@@ -35018,7 +35130,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Freight Technologies (Nasdaq: FRGT) ('Fr8Tech') is a technology company offering a diverse portfolio of proprietary platform solutions powered by AI and machine learning to opti…"
     },
     {
       "market": "US",
@@ -35029,7 +35142,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 2011 to rethink urban energy, Gogoro is the world's leader in battery-swapping electric mobility, setting new standards for sustainable mobility. Powering nearly 700,…"
     },
     {
       "market": "US",
@@ -35040,7 +35154,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in London U.K., Gorilla is a global solution provider in Security Intelligence, Network Intelligence, Business Intelligence, IoT technology and data centers. We pr…"
     },
     {
       "market": "US",
@@ -35051,7 +35166,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Grifols is a global healthcare company founded in Barcelona in 1909 committed to improving the health and well-being of people around the world. A leader in essential plasma-der…"
     },
     {
       "market": "US",
@@ -35062,7 +35178,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Heidmar is an Athens-based, commercial and pool management business serving the crude and product tanker market and Heidmar is committed to safety, performance, relationships an…"
     },
     {
       "market": "US",
@@ -35073,7 +35190,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "La Rosa Holdings Corp. (Nasdaq: LRHC) intends to transform the real estate industry by providing agents with flexible compensation options, including a revenue-sharing model or …"
     },
     {
       "market": "US",
@@ -35084,7 +35202,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Molecular Partners AG (SIX: MOLN, NASDAQ: MOLN) is a clinical-stage biotech company pioneering a novel class of protein drugs known as DARPin therapeutics, for medical challenge…"
     },
     {
       "market": "US",
@@ -35095,7 +35214,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NAPCO Security Technologies, Inc., is one of the leading manufacturers and designers of high-tech electronic security devices, wireless recurring communication services for intr…"
     },
     {
       "market": "US",
@@ -35106,7 +35226,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PDD Holdings is a multinational commerce group that owns and operates a portfolio of businesses. PDD Holdings aims to bring more businesses and people into the digital economy s…"
     },
     {
       "market": "US",
@@ -35117,7 +35238,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PicPay (NASDAQ: PICS) is one of Brazil's leading digital banks and began trading on the Nasdaq in January 2026. Founded in Vitoria (ES) in 2012, the company pioneered instant pe…"
     },
     {
       "market": "US",
@@ -35128,7 +35250,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sasol International Chemicals manufactures and markets a broad, state-of-the-art portfolio of specialty and commodity chemicals for a wide range of applications and industries. …"
     },
     {
       "market": "US",
@@ -35139,7 +35262,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "StealthGas Inc. is a ship-owning company serving the liquefied petroleum gas (LPG) sector of the international shipping industry. StealthGas Inc. has a fleet of 26 LPG carriers,…"
     },
     {
       "market": "US",
@@ -35150,7 +35274,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The9 Limited (Nasdaq: NCTY) is a global, diversified high-tech company redefining how games are created, played, and monetized. Founded in 1999 and Nasdaq-listed since 2004, The…"
     },
     {
       "market": "US",
@@ -35161,7 +35286,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Tuya Inc. (NYSE: TUYA; HKEX: 2391) is a global leading AI cloud platform service provider with a mission to build an AI developer ecosystem and enable everything to be smart. Tu…"
     },
     {
       "market": "US",
@@ -35172,7 +35298,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "X Financial is a leading online personal finance company in China. The Company is committed to connecting borrowers on its platform with its institutional funding partners. With…"
     },
     {
       "market": "US",
@@ -35183,7 +35310,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "XPENG is a leading global Physical AI company, dedicated to bringing artificial intelligence into the physical world to reshape future mobility and smart living. Through in-hous…"
     },
     {
       "market": "CN",
@@ -44566,7 +44694,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alps Group Inc is a revenue-generating integrated biotechnology platform headquartered in Malaysia, operating across cell manufacturing, molecular diagnostics, and clinical deli…"
     },
     {
       "market": "US",
@@ -44577,7 +44706,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "American Resources Corporation is strategically developing an integrated critical materials ecosystem through its Platform Orchestration strategy, which brings together compleme…"
     },
     {
       "market": "US",
@@ -44588,7 +44718,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Anavex Life Sciences Corp. (Nasdaq: AVXL) is a publicly traded biopharmaceutical company dedicated to the development of novel therapeutics for the treatment of neurodegenerativ…"
     },
     {
       "market": "US",
@@ -44599,7 +44730,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Atlantic American Corp operates in specialty markets within the life and health and property and casualty insurance industries. It provides property and casualty insurance inclu…"
     },
     {
       "market": "US",
@@ -44610,7 +44742,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BMO Financial Group is the eighth largest bank in North America by assets, with total assets of $1.5 trillion as of April 30, 2026. Serving clients for more than 200 years, BMO …"
     },
     {
       "market": "US",
@@ -44621,7 +44754,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Scotiabank's vision is to be our clients' most trusted financial partner and deliver sustainable, profitable growth. Guided by our purpose: 'for every future,' we help our clien…"
     },
     {
       "market": "US",
@@ -44632,7 +44766,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BioRestorative ( www.biorestorative.com ) develops therapeutic products using cell and tissue protocols, primarily involving adult stem cells. As described below, our two core c…"
     },
     {
       "market": "US",
@@ -44643,7 +44778,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Borealis Foods Inc. is an integrated food science and manufacturing company focused on developing nutritious, affordable and sustainable food solutions. The company develops, pr…"
     },
     {
       "market": "US",
@@ -44654,7 +44790,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Box (NYSE:BOX) is the leader in Intelligent Content Management. Our platform enables organizations to fuel collaboration, manage the entire content lifecycle, secure critical co…"
     },
     {
       "market": "US",
@@ -44665,7 +44802,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cadeler A/S (Cadeler) is a pure-play offshore wind installation partner and a global leader in offshore wind turbine transport and installation. The company owns and operates th…"
     },
     {
       "market": "US",
@@ -44676,7 +44814,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Citi Trends, Inc. is a leading off-price value retailer of apparel, accessories and home trends primarily for Black families in the United States. The CITITRENDS brand promise i…"
     },
     {
       "market": "US",
@@ -44687,7 +44826,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CoinShares PLC ('CoinShares') is a leading global asset manager specialising in digital assets, that delivers a broad range of financial services across investment management, t…"
     },
     {
       "market": "US",
@@ -44698,7 +44838,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "DICK'S Sporting Goods creates confidence and excitement by inspiring, supporting and personally equipping all athletes to achieve their dreams. Founded in 1948 and headquartered…"
     },
     {
       "market": "US",
@@ -44709,7 +44850,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "EHang (Nasdaq: EH) is the world's leading advanced air mobility ('AAM') technology platform company, committed to making safe, autonomous, and eco-friendly air mobility accessib…"
     },
     {
       "market": "US",
@@ -44720,7 +44862,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Electromed, Inc. manufactures, markets, and sells products that provide airway clearance therapy, including the SmartVest® Airway Clearance System, to patients with compromised …"
     },
     {
       "market": "US",
@@ -44731,7 +44874,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Elme Communities is a real estate investment trust engaged in owning and operating properties in the greater Washington DC metropolitan area. The company's real estate portfolio…"
     },
     {
       "market": "US",
@@ -44742,7 +44886,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Fly-E Group, Inc. is an electric vehicle company that is principally engaged in designing, installing, selling, and renting smart electric motorcycles, electric bikes and electr…"
     },
     {
       "market": "US",
@@ -44753,7 +44898,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Formula Systems (1985) Ltd., whose ordinary shares are traded on the Tel-Aviv Stock Exchange and ADSs are traded on the Nasdaq Global Select Market, is a global information tech…"
     },
     {
       "market": "US",
@@ -44764,7 +44910,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "FS Credit Opportunities Corp. seeks to generate an attractive total return. Fund invests in non-traditional areas of the public and private credit markets where a yield or retur…"
     },
     {
       "market": "US",
@@ -44786,7 +44933,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Grupo Financiero Galicia S.A. (Nasdaq: GGAL; Bolsas y Mercados Argentinos S.A./ A3 Mercados S.A. : GGAL) is the main financial services holding company in Argentina , which seek…"
     },
     {
       "market": "US",
@@ -44797,7 +44945,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "HEICO Corporation is engaged primarily in the design, production, servicing and distribution of products and services to certain niche segments of the aviation, defense, space, …"
     },
     {
       "market": "US",
@@ -44808,7 +44957,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "HEICO Corporation is engaged primarily in the design, production, servicing and distribution of products and services to certain niche segments of the aviation, defense, space, …"
     },
     {
       "market": "US",
@@ -44819,7 +44969,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide using produ…"
     },
     {
       "market": "US",
@@ -44830,7 +44981,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "JOYY (NASDAQ: JOYY) is a leading global technology company, dedicated to building a self-reinforcing ecosystem that integrates social entertainment, programmatic advertising, an…"
     },
     {
       "market": "US",
@@ -44841,7 +44993,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "KANZHUN LIMITED operates the leading online recruitment platform BOSS Zhipin in China. The Company connects job seekers and enterprise users in an efficient and seamless manner …"
     },
     {
       "market": "US",
@@ -44852,7 +45005,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Nanox (NASDAQ: NNOX) is focused on driving the world's transition to preventive health care by delivering an integrated, end-to-end medical imaging and healthcare services platf…"
     },
     {
       "market": "US",
@@ -44863,7 +45017,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "nCino (NASDAQ: NCNO) is the platform for agentic AI banking. With over 2,700 customers worldwide - including community banks, credit unions, independent mortgage banks, and the …"
     },
     {
       "market": "US",
@@ -44874,7 +45029,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Noah Holdings Limited (NYSE: NOAH and HKEX: 6686) is a leading and pioneer wealth management service provider offering comprehensive one-stop advisory services on global investm…"
     },
     {
       "market": "US",
@@ -44885,7 +45041,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Northann Corp. (NYSE American: NCL) is a flooring and wall panel technology company that designs, manufactures, and distributes innovative flooring and wall panel products built…"
     },
     {
       "market": "US",
@@ -44896,7 +45053,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "To achieve our investment objectives by investing primarily in equity and junior debt tranches of CLOs, collateralized by portfolios of sub-investment grade, senior secured floa…"
     },
     {
       "market": "US",
@@ -44907,7 +45065,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Qfin Holdings is a leading AI-empowered Credit-Tech platform in China. By leveraging its sophisticated machine learning models and data analytics capabilities, the Company provi…"
     },
     {
       "market": "US",
@@ -44918,7 +45077,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "QumulusAI is a distributed AI cloud platform that delivers accelerated access to high-performance GPU compute. Through an inference-first, demand-led deployment model across a n…"
     },
     {
       "market": "US",
@@ -44929,7 +45089,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The SCHMID Group is a global leader in providing advanced equipment and process solutions for the high-tech industry, with a strong focus on electronics and semiconductor-relate…"
     },
     {
       "market": "US",
@@ -44940,7 +45101,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 1985, SelectQuote (NYSE: SLQT) pioneered the model of providing unbiased comparisons from multiple, highly rated insurance companies, allowing consumers to choose the…"
     },
     {
       "market": "US",
@@ -44951,7 +45113,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Semtech Corporation (Nasdaq: SMTC) is a leading provider of high-performance semiconductors powering AI data center networking and intelligent, connected IoT devices worldwide. …"
     },
     {
       "market": "US",
@@ -44962,7 +45125,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "With innovative perimeter intrusion detection systems (including fence sensors, buried sensors, and above ground sensors), intelligent video-management, video analytics, and acc…"
     },
     {
       "market": "US",
@@ -44973,7 +45137,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Shuttle (NASDAQ: SHPH) owns a pharmaceutical software AI driven platform for molecular discovery and early-stage drug development. By combining modern AI techniques with structu…"
     },
     {
       "market": "US",
@@ -44984,7 +45149,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SEGG Media (Nasdaq: SEGG, LTRYW) is a global sports, entertainment, and gaming group operating a portfolio of digital assets including Sports.com, Concerts.com, TicketStub.com, …"
     },
     {
       "market": "US",
@@ -44995,7 +45161,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Strattec is a global automotive access company that designs and delivers safe, secure, and highly engineered access solutions for the automotive and mobility industries. Built o…"
     },
     {
       "market": "US",
@@ -45006,7 +45173,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Marzetti Company manufactures and sells specialty food products. Our retail brands include Marzetti®, New York Bakery and Sister Schubert's®, in addition to exclusive licens…"
     },
     {
       "market": "US",
@@ -45017,7 +45185,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Tuniu (Nasdaq:TOUR) is a leading online leisure travel company in China that offers integrated travel service with a large selection of packaged tours, including organized and s…"
     },
     {
       "market": "US",
@@ -45028,7 +45197,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Universal Safety Products, Inc. is a distributor of safety and security devices. Founded in 1969, the Company has an over 56-year heritage of developing innovative and easy-to-i…"
     },
     {
       "market": "US",
@@ -45039,7 +45209,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Upexi, Inc. (Nasdaq: UPXI) is a leading digital asset treasury company, where it aims to acquire and hold as much SOL as possible in a disciplined and accretive fashion. In addi…"
     },
     {
       "market": "US",
@@ -45050,7 +45221,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Vipshop Holdings Limited is a leading off-price retailer in China. Vipshop offers high-quality and popular branded products to consumers throughout China at deep discounts throu…"
     },
     {
       "market": "US",
@@ -45061,7 +45233,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ZenaTech , Inc. ( NASDAQ:ZENA ) ( FSE:49Q ) ( BMV:ZENA ) is a technology company that specializes in AI autonomy drone platforms to transform commercial, government, and defense…"
     },
     {
       "market": "US",
@@ -45072,7 +45245,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Zoom (NASDAQ: ZM) is a system of action for modern work, turning live collaboration into completed results. From entrepreneurs to global enterprises, customers choose Zoom to se…"
     },
     {
       "market": "CN",
@@ -55751,7 +55925,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Abercrombie & Fitch Co. (NYSE: ANF) is a global, digitally led, omnichannel specialty retailer of apparel and accessories catering to kids through millennials with assortments c…"
     },
     {
       "market": "US",
@@ -55762,7 +55937,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Agilent Technologies, Inc. (NYSE: A) is a global leader in analytical and clinical laboratory technologies, delivering insights and innovation that help our customers bring grea…"
     },
     {
       "market": "US",
@@ -55784,7 +55960,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Anaptys manages the financial collaborations for Jemperli with GSK and imsidolimab with Vanda, with a focus on protecting and returning the value of its royalties to shareholders."
     },
     {
       "market": "US",
@@ -55795,7 +55972,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ATA Creativity Global is an international educational services company focused on providing quality learning experiences that cultivate and enhance students' creativity. ATA Cre…"
     },
     {
       "market": "US",
@@ -55806,7 +55984,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AtlasClear Holdings, Inc. (NYSE American: ATCH) is building a technology-enabled financial services platform designed for trading, clearing, settlement, and banking for emerging…"
     },
     {
       "market": "US",
@@ -55817,7 +55996,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bath & Body Works is a global leader in personal care and home fragrance, driven by the belief that everybody deserves to feel good. The brand's beloved and iconic scents are ex…"
     },
     {
       "market": "US",
@@ -55828,7 +56008,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CrowdStrike (NASDAQ: CRWD), a global cybersecurity leader, has redefined modern security with the world's most advanced cloud-native platform for protecting critical areas of en…"
     },
     {
       "market": "US",
@@ -55839,7 +56020,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Domo is an AI and Data Products platform that helps companies of all sizes leverage data and AI to drive value in today's data-driven world. Built around our customers' preferre…"
     },
     {
       "market": "US",
@@ -55850,7 +56032,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 1915, Donaldson (NYSE: DCI) is a global leader in technology-led filtration products and solutions, serving a broad range of industries and advanced markets. Diverse,…"
     },
     {
       "market": "US",
@@ -55861,7 +56044,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "DSC is the AI application infrastructure for China's used car industry. The Company has held over 90% market share in operating system for China's used car dealers since 2021, a…"
     },
     {
       "market": "US",
@@ -55872,7 +56056,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Dycom is a leading provider of specialty contracting services to the telecommunications infrastructure and utility industries throughout the United States. These services includ…"
     },
     {
       "market": "US",
@@ -55883,7 +56068,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Everpure (NYSE: P) allows organizations to take control of their data with an industry-leading, ever-evolving storage and data management platform. We help companies unleash the…"
     },
     {
       "market": "US",
@@ -55894,7 +56080,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Gauzy Ltd. is a fully-integrated light and vision control company, focused on the research, development, manufacturing, and marketing of vision and light control technologies th…"
     },
     {
       "market": "US",
@@ -55905,7 +56092,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Gulf Resources, Inc. operates through three wholly-owned subsidiaries, Shouguang City Haoyuan Chemical Company Limited ('SCHC'), Daying County Haoyuan Chemical Company Limited (…"
     },
     {
       "market": "US",
@@ -55916,7 +56104,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "High Templar is exploring innovative business opportunities globally to satisfy clients' demand by leveraging its technology know-how and financial service capabilities."
     },
     {
       "market": "US",
@@ -55927,7 +56116,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "HP Inc. (NYSE: HPQ) is a global technology leader and creator of solutions that enable people to bring their ideas to life and connect to the things that matter most. Operating …"
     },
     {
       "market": "US",
@@ -55938,7 +56128,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "JinkoSolar (NYSE: JKS) is a global leader in clean energy technology. JinkoSolar distributes its solar products and sells its solutions and services to a diversified internation…"
     },
     {
       "market": "US",
@@ -55949,7 +56140,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Key Tronic is a leading contract manufacturer offering value-added design and manufacturing services from its facilities in the United States, Mexico, and Vietnam. The Company p…"
     },
     {
       "market": "US",
@@ -55960,7 +56152,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Kohl's (NYSE: KSS) is a leading omnichannel retailer built on a foundation that combines great brands, incredible value and convenience for our customers. Kohl's is uniquely pos…"
     },
     {
       "market": "US",
@@ -55982,7 +56175,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lantronix Inc. (Nasdaq: LTRX) is a global leader in Edge AI and Industrial IoT solutions, delivering intelligent computing, secure connectivity and remote management for mission…"
     },
     {
       "market": "US",
@@ -55993,7 +56187,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Li Auto Inc. is a leader in China's new energy vehicle market. The Company designs, develops, manufactures, and sells premium smart electric vehicles. Its mission is: Be Proacti…"
     },
     {
       "market": "US",
@@ -56004,7 +56199,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Vonore, TN, MasterCraft Boat Holdings, Inc. (NASDAQ: MCFT) is a leading innovator, designer, manufacturer and marketer of recreational powerboats through its fi…"
     },
     {
       "market": "US",
@@ -56015,7 +56211,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Movado Group, Inc. (NYSE: MOV) designs, sources, markets, and distributes watches worldwide. The Company owns the MOVADO®, CONCORD®, EBEL®, OLIVIA BURTON®, and MVMT® brands and …"
     },
     {
       "market": "US",
@@ -56026,7 +56223,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Nutanix is a hybrid cloud leader and AI innovator, offering organizations a unified infrastructure software platform to safely run applications, data, and AI anywhere. Trusted b…"
     },
     {
       "market": "US",
@@ -56037,7 +56235,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing."
     },
     {
       "market": "US",
@@ -56048,7 +56247,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Okta, Inc. is The World's Identity Company. We secure AI, machine, and human identity so everyone is free to safely use any technology. Our workforce and customer solutions empo…"
     },
     {
       "market": "US",
@@ -56059,7 +56259,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ooma (NYSE: OOMA) delivers phone, messaging, video and advanced communications services that are easy to implement and provide great value. Founded in 2003, the company offers O…"
     },
     {
       "market": "US",
@@ -56070,7 +56271,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Palatin is a biopharmaceutical company developing medicines that target the melanocortin receptor system with targeted, receptor-specific product candidates for the treatment of…"
     },
     {
       "market": "US",
@@ -56081,7 +56283,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Phibro Animal Health Corporation is a leading global diversified animal health and mineral nutrition company. We strive to be a trusted partner with livestock producers, farmers…"
     },
     {
       "market": "US",
@@ -56092,7 +56295,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Photronics is a leading worldwide manufacturer of integrated circuit (IC) and flat panel display (FPD) photomasks. High precision quartz plates that contain microscopic images o…"
     },
     {
       "market": "US",
@@ -56103,7 +56307,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ryde is a super mobility app founded in Singapore and recognised as the world's FIRST on-demand carpooling app since 2014. As a publicly listed company on the NYSE American, Ryd…"
     },
     {
       "market": "US",
@@ -56114,7 +56319,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Salesforce helps organizations of any size become Agentic Enterprises - integrating humans, agents, apps, and data on a trusted, unified platform to unlock unprecedented growth …"
     },
     {
       "market": "US",
@@ -56125,7 +56331,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Scienjoy is a pioneering Nasdaq-listed interactive entertainment leader. Driven by the vision of shaping a metaverse lifestyle, Scienjoy leverages AI-powered technology to creat…"
     },
     {
       "market": "US",
@@ -56136,7 +56343,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SFL has a unique track record in the maritime industry and has paid dividends every quarter since its initial listing on the New York Stock Exchange in 2004. The Company's fleet…"
     },
     {
       "market": "US",
@@ -56147,7 +56355,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Standard Nuclear's mission is to reliably deliver the essential building blocks of nuclear power at scale, enabling cost-effective, safe, and secure energy. Headquartered in Oak…"
     },
     {
       "market": "US",
@@ -56158,7 +56367,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Super Hi operates Haidilao hot pot restaurants in the international market. Haidilao is a leading Chinese cuisine restaurant brand. With roots in Sichuan from 1994, Haidilao has…"
     },
     {
       "market": "US",
@@ -56169,7 +56379,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Synopsys, Inc. (Nasdaq: SNPS) is the leader in engineering solutions from silicon to systems, enabling customers to rapidly innovate AI-powered products. We deliver industry-lea…"
     },
     {
       "market": "US",
@@ -56180,7 +56391,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "At The J.M. Smucker Co., it is our privilege to make food people and pets love by offering a diverse family of brands available across North America. We are proud to lead in the…"
     },
     {
       "market": "US",
@@ -56191,7 +56403,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TORM is one of the world's leading carriers of refined oil products. TORM operates a fleet of product tanker vessels with a strong commitment to safety. environmental responsibi…"
     },
     {
       "market": "US",
@@ -56202,7 +56415,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Gas Transporter of the South Inc. is an energy infrastructure company engaged in the transportation and distribution of natural gas through pipeline systems. The company plays a…"
     },
     {
       "market": "US",
@@ -56213,7 +56427,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Trip.com Group Limited (Nasdaq: TCOM; HKEX: 9961) is a leading global one-stop travel platform, integrating a comprehensive suite of travel products and services and differentia…"
     },
     {
       "market": "US",
@@ -56224,7 +56439,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "UP Fintech Holding Limited is a leading online brokerage firm focusing on global investors. The Company's proprietary mobile and online trading platform enables investors to tra…"
     },
     {
       "market": "US",
@@ -56235,7 +56451,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Philadelphia-based Urban Outfitters is an apparel and home goods retailer that operates about 700 stores and e-commerce in North America and Europe under the Urban Outfitters, F…"
     },
     {
       "market": "US",
@@ -56246,7 +56463,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Veeva delivers the industry cloud for life sciences with applications, agents, data, and consulting. Committed to innovation, product excellence, and customer success, Veeva ser…"
     },
     {
       "market": "US",
@@ -56257,7 +56475,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Williams-Sonoma, Inc. is the world's largest digital-first, design-led and sustainable home retailer. The company's brands - Williams Sonoma, Pottery Barn, Pottery Barn Kids, Po…"
     },
     {
       "market": "US",
@@ -56268,7 +56487,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Yuanbao Inc. is a leading technology-driven online insurance distributor in China, committed to protecting health and well-being through innovative technology. Leveraging its pr…"
     },
     {
       "market": "US",
@@ -56279,7 +56499,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Zhihu Inc. (NYSE: ZH; HKEX: 2390) is a leading online content community where people come to find solutions, make decisions, seek inspiration, and have fun. Since the initial la…"
     },
     {
       "market": "CN",
@@ -67582,7 +67803,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Affirm's mission is to deliver honest financial products that improve lives. By building a new kind of payment network-one based on trust, transparency, and putting people first…"
     },
     {
       "market": "US",
@@ -67615,7 +67837,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The world's designers, engineers, builders, and creators trust Autodesk to help them design and make anything. From the buildings we live and work in, to the cars we drive and t…"
     },
     {
       "market": "US",
@@ -67626,7 +67849,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BBVA Argentina S.A. (NYSE; MAE; BYMA: BBAR; Latibex: XBBAR) is a subsidiary of the BBVA Group, its main shareholder since 1996. In Argentina, it has been one of the leading fina…"
     },
     {
       "market": "US",
@@ -67648,7 +67872,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Best Buy (NYSE: BBY) is the world's largest specialty consumer electronics retailer. Our purpose is to enrich lives through technology by helping customers discover, buy and enj…"
     },
     {
       "market": "US",
@@ -67659,7 +67884,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bilibili is an iconic brand and a leading video community with a mission to enrich the everyday lives of young generations in China. Bilibili offers a wide array of video-based …"
     },
     {
       "market": "US",
@@ -67714,7 +67940,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Burlington Stores, Inc., headquartered in New Jersey, is a nationally recognized off-price retailer with Fiscal 2025 net sales of $11.5 billion. The Company is a Fortune 500 com…"
     },
     {
       "market": "US",
@@ -67736,7 +67963,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CIBC is a leading North American financial institution with 15 million personal banking, business, public sector and institutional clients. Across Personal and Business Banking,…"
     },
     {
       "market": "US",
@@ -67791,7 +68019,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Chemomab is a clinical stage biotechnology company developing innovative therapeutics for immune-fibrotic diseases with high unmet need. Based on the unique role of the soluble …"
     },
     {
       "market": "US",
@@ -67802,7 +68031,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CMB.TECH (all capitals) is one of the largest listed, diversified and future-proof maritime groups in the world with a combined fleet of about 250 vessels: dry bulk vessels, cru…"
     },
     {
       "market": "US",
@@ -67813,7 +68043,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Dollar General Corporation (NYSE: DG) is proud to serve as America's neighborhood general store. Founded in 1939, Dollar General lives its mission of Serving Others every day by…"
     },
     {
       "market": "US",
@@ -67824,7 +68055,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Dollar Tree, Inc., headquartered in Chesapeake, VA, is one of North America's largest and most loved value retailers, known for delivering great value, convenience, and a 'thril…"
     },
     {
       "market": "US",
@@ -67835,7 +68067,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Elastic (NYSE: ESTC) integrates its deep expertise in search technology with artificial intelligence to help everyone transform all of their data into answers, actions, and outc…"
     },
     {
       "market": "US",
@@ -67879,7 +68112,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Gap Inc., a purpose-driven house of iconic brands, is the largest specialty apparel company in America. Its Old Navy, Gap, Banana Republic, and Athleta brands offer clothing, ac…"
     },
     {
       "market": "US",
@@ -67901,7 +68135,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Harmony Gold Mining Co Ltd is a gold mining and exploration company having operations in South Africa and Papua New Guinea (PNG). Its projects include Bambanani, Joel, Masimong,…"
     },
     {
       "market": "US",
@@ -67912,7 +68147,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "HealthEquity and its subsidiaries administer HSAs and various other consumer-directed benefits for over 17 million accounts, working in close partnership with employers, benefit…"
     },
     {
       "market": "US",
@@ -67923,7 +68159,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hormel Foods Corporation, based in Austin, Minnesota, is a global branded food company with over $12 billion in annual revenue. Its brands include PLANTERS®, SKIPPY®, SPAM®, HOR…"
     },
     {
       "market": "US",
@@ -67934,7 +68171,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hub Group offers comprehensive transportation and logistics management solutions. Keeping our customers' needs in focus, Hub Group designs, continually optimizes, and applies in…"
     },
     {
       "market": "US",
@@ -67978,7 +68216,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference."
     },
     {
       "market": "US",
@@ -68000,7 +68239,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Kenon is a holding company initially established to promote the growth and development of our primary businesses. Over the last decade, Kenon's businesses and holdings have subs…"
     },
     {
       "market": "US",
@@ -68066,7 +68306,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "To deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by …"
     },
     {
       "market": "US",
@@ -68132,7 +68373,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success comes from the 101,000+ empl…"
     },
     {
       "market": "US",
@@ -68143,7 +68385,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Rubrik (NYSE: RBRK), the Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration. Rubrik Security Clou…"
     },
     {
       "market": "US",
@@ -68154,7 +68397,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SentinelOne (NYSE: S) is the leader in AI security, setting the standard for using AI and automation to give defenders a decisive operating advantage. Built for those who secure…"
     },
     {
       "market": "US",
@@ -68198,7 +68442,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TD Bank US Holding Company and its subsidiaries, including TD Bank, N.A., are collectively known as TD Bank U.S. As the U.S. banking business of The Toronto-Dominion Bank (TSX a…"
     },
     {
       "market": "US",
@@ -68209,7 +68454,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ulta Beauty (NASDAQ: ULTA) is the largest specialty beauty retailer in the U.S. and a leading destination for cosmetics, fragrance, skin care, hair care, wellness and salon serv…"
     },
     {
       "market": "US",
@@ -68220,7 +68466,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Workday operates at the heart of the enterprise - HR, finance, and IT - where the margin for error is effectively zero. By tightly coupling AI with the context, guardrails, and …"
     },
     {
       "market": "US",
@@ -82781,7 +83028,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ubiquiti Inc. is focused on democratizing network technology on a global scale - creating networking infrastructure in over 200 countries and territories around the world. Our p…"
     },
     {
       "market": "CN",
@@ -96729,7 +96977,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "GDEV is a gaming and entertainment holding company, focused on development and growth of its franchise portfolio across various genres and platforms. With a diverse range of sub…"
     },
     {
       "market": "US",
