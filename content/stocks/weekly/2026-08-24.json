@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "stocks",
+  "channel_title": "股票观察",
+  "type": "weekly",
+  "type_label": "周报",
+  "report_date": "2026-08-24",
+  "coverage_start": "2026-08-17",
+  "coverage_end": "2026-08-23",
+  "generated_at": "2026-08-24T05:30:16+08:00",
+  "run_id": "stocks-2026-08-24-1787520967410",
+  "public_path": "/stocks/weekly/2026-08-24/"
+}
