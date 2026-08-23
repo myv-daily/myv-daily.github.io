@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T08:39:13.896Z",
+  "generated_at": "2026-08-23T08:41:49.335Z",
   "today": "2026-08-23",
   "coverage_start": "2026-08-08",
   "coverage_end": "2026-09-07",
@@ -12719,7 +12719,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "374Water Inc. (NASDAQ:SCWO) is a cleantech and environmental services company deploying supercritical water oxidation technology for the destruction of organic waste streams wit…"
     },
     {
       "market": "US",
@@ -12741,7 +12742,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Actuate is a clinical-stage biopharmaceutical company focused on developing therapies for the treatment of high-impact, difficult-to-treat cancers. Actuate's lead investigationa…"
     },
     {
       "market": "US",
@@ -12763,7 +12765,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Adial Pharmaceuticals, a clinical-stage biopharmaceutical company, has historically focused on the development of treatments for addictions and related disorders. In June 2026, …"
     },
     {
       "market": "US",
@@ -12785,7 +12788,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AgEagle Aerial Systems Inc. is a global leader in drone technology, providing full-stack solutions including drones, sensors, and software for industries such as agriculture, pu…"
     },
     {
       "market": "US",
@@ -12796,7 +12800,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Established in 1980, Air T Inc. is a portfolio of 21 companies and 1,600+ employees across six core segments: overnight air cargo, ground support equipment, commercial aircraft,…"
     },
     {
       "market": "US",
@@ -12829,7 +12834,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "All In FutureTech Alliance Inc. (Nasdaq: AIFA), formerly known as Allied Gaming & Entertainment Inc, is a growth-oriented company undergoing a strategic transformation from a gl…"
     },
     {
       "market": "US",
@@ -12840,7 +12846,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Allarity Therapeutics, Inc. (NASDAQ: ALLR) is a clinical-stage biopharmaceutical company dedicated to developing personalized cancer treatments. The Company is focused on develo…"
     },
     {
       "market": "US",
@@ -12851,7 +12858,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alpha Modus Holdings, Inc. ('Alpha Modus' or the 'Company') (NASDAQ: AMOD) is a vertical AI company focused on real-time, in-store shopper engagement and attribution. Its patent…"
     },
     {
       "market": "US",
@@ -12862,7 +12870,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AEI is a diversified holding company executing on its vision to accelerate sustainable healthy living system with a focus on the development of EHome communities and other prope…"
     },
     {
       "market": "US",
@@ -12906,7 +12915,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Americas Gold and Silver Corporation is a rapidly growing North American producer of silver and other critical minerals supporting the growth of AI, electrification, advanced ma…"
     },
     {
       "market": "US",
@@ -12917,7 +12927,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Malvern, Pennsylvania, Annovis Bio, Inc. (NYSE: ANVS) is a Phase 3 clinical-stage biotechnology company developing treatments for neurodegenerative diseases suc…"
     },
     {
       "market": "US",
@@ -12950,7 +12961,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Asia Pacific Wire & Cable Corporation Limited is a holding company incorporated in Bermuda with principal executive offices in Taiwan that operates its business through operatin…"
     },
     {
       "market": "US",
@@ -12961,7 +12973,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ASP Isotopes is developing a differentiated isotope enrichment platform to strengthen global supply chain access to critical materials used in nuclear medicine, next-generation …"
     },
     {
       "market": "US",
@@ -12983,7 +12996,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Atlas Lithium Corporation (NASDAQ: ATLX) is a lithium development company focused on advancing its Neves Project to production. The Neves Project is fully permitted, and its Def…"
     },
     {
       "market": "US",
@@ -13016,7 +13030,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Axe Compute Inc. (NASDAQ: AGPU) is a neocloud AI infrastructure platform built on a fundamental premise: AI innovation should not be constrained by hardware choice or availabili…"
     },
     {
       "market": "US",
@@ -13027,7 +13042,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bally's (NYSE: BALY) is a fast-growing global entertainment brand with 20 casinos across 11 U.S. states and one casino in Newcastle, UK, along with a golf course in New York and…"
     },
     {
       "market": "US",
@@ -13049,7 +13065,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Barfresh Food Group Inc. (Nasdaq: BRFH) is a developer, manufacturer and distributor of ready-to-blend and ready-to-drink beverages, including smoothies, shakes and frappes, pri…"
     },
     {
       "market": "US",
@@ -13060,7 +13077,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Beeline Holdings, Inc. is a technology-driven mortgage platform focused on simplifying home financing through AI-powered digital mortgage origination, Non-QM lending, title, and…"
     },
     {
       "market": "US",
@@ -13071,7 +13089,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Beneficient (Nasdaq: BENF) - Ben, for short - is on a mission to democratize the global alternative asset investment market by providing traditionally underserved investors - mi…"
     },
     {
       "market": "US",
@@ -13082,7 +13101,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BeyondSpring (NASDAQ: BYSI) is a clinical-stage biopharmaceutical company developing first-in-class therapies for cancers with high unmet needs. Its lead asset, Plinabulin, has …"
     },
     {
       "market": "US",
@@ -13093,7 +13113,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bimergen Energy Corporation (NYSE American: BESS) is a U.S. -based renewable energy developer, asset owner and independent power provider focused on utility-scale battery energy…"
     },
     {
       "market": "US",
@@ -13115,7 +13136,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bitzero Holdings Inc. is a provider of IT energy infrastructure and high-efficiency power for data centers. The Company focuses on data center development, high-performance comp…"
     },
     {
       "market": "US",
@@ -13148,7 +13170,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Brand Engagement Network, Inc. (NASDAQ: BNAI) is an enterprise AI software company that enables organizations to connect engagement to execution through secure, intelligent conv…"
     },
     {
       "market": "US",
@@ -13159,7 +13182,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bright Minds is a biotechnology company developing innovative treatments for patients with neurological and psychiatric disorders. Our pipeline includes novel compounds targetin…"
     },
     {
       "market": "US",
@@ -13181,7 +13205,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Callan JMB Inc. (NASDAQ: CJMB) is a diversified logistics, preparedness, and critical-infrastructure company supporting healthcare organizations, government agencies, and commer…"
     },
     {
       "market": "US",
@@ -13192,7 +13217,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Canton Strategic Holdings, Inc. (NASDAQ: CNTN ), is the first publicly traded company to leverage Canton Coin and support the Canton Network to advance institutional blockchain …"
     },
     {
       "market": "US",
@@ -13214,7 +13240,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CEL-SCI believes that boosting a patient's immune system before surgery, radiotherapy and chemotherapy have damaged it, should provide the greatest possible impact on survival. …"
     },
     {
       "market": "US",
@@ -13247,7 +13274,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cerenome (Nasdaq: CNSY) is a CNS oncology company advancing an integrated platform that combines precision diagnostics, targeted therapeutics, and artificial intelligence to imp…"
     },
     {
       "market": "US",
@@ -13258,7 +13286,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Chaince Digital Holdings Inc. (Nasdaq: CD) (formerly Mercurity Fintech Holding Inc.) is a digital finance and technology company focused on tokenization, on-chain innovation and…"
     },
     {
       "market": "US",
@@ -13280,7 +13309,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "China Pharma Holdings, Inc. is a specialty pharmaceutical company that develops, manufactures and markets a diversified portfolio of products focused on conditions with a high i…"
     },
     {
       "market": "US",
@@ -13302,7 +13332,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Citius Oncology, Inc. (Nasdaq: CTOR) is a platform to develop and commercialize novel targeted oncology therapies. In December 2025, Citius Oncology launched LYMPHIR, approved b…"
     },
     {
       "market": "US",
@@ -13313,7 +13344,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Citius Pharmaceuticals, Inc. (Nasdaq: CTXR) is a biopharmaceutical company dedicated to the development and commercialization of first-in-class critical care products. Citius Ph…"
     },
     {
       "market": "US",
@@ -13324,7 +13356,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ClearOne, Inc. (Nasdaq: CLRO) is a publicly listed company that has recently divested its former conferencing, collaboration, and network streaming business. Visit ClearOne at w…"
     },
     {
       "market": "US",
@@ -13335,7 +13368,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ClearSign Technologies Corporation designs and develops products and technologies for the purpose of decarbonization and improving key performance characteristics of industrial …"
     },
     {
       "market": "US",
@@ -13346,7 +13380,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Clene Inc., (Nasdaq: CLNN) (along with its subsidiaries, 'Clene') and its wholly owned subsidiary Clene Nanomedicine Inc., is a late clinical-stage biopharmaceutical company foc…"
     },
     {
       "market": "US",
@@ -13357,7 +13392,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CN Healthy Food Tech Group Corp. is engaged in the development, production, and distribution of health-focused food products and related technologies. The company seeks to provi…"
     },
     {
       "market": "US",
@@ -13368,7 +13404,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Coincheck Group N.V. (NASDAQ: CNCK) seeks to bring together retail scale, institutional capability and resilient infrastructure in one digital finance platform offering. Built o…"
     },
     {
       "market": "US",
@@ -13379,7 +13416,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Energy Company of Minas Gerais is a Brazilian power company that generates, transmits, and distributes electricity. As one of the largest power companies in Brazil, the firm ope…"
     },
     {
       "market": "US",
@@ -13390,7 +13428,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Corvex is an AI cloud computing company specializing in GPU-accelerated infrastructure for AI workloads. Corvex's platform allows organizations to leverage the advantage of AI b…"
     },
     {
       "market": "US",
@@ -13401,7 +13440,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cosan SA engages in several services throughout the energy and logistics sectors. Cosan SA and Cosan Logistica account for the many segments that constitute Cosan's operations. …"
     },
     {
       "market": "US",
@@ -13412,7 +13452,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Creative Media & Community Trust Corporation ('CMCT') is a real estate investment trust that owns, operates and develops premier multifamily and creative office assets in vibran…"
     },
     {
       "market": "US",
@@ -13423,7 +13464,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CSPi (NASDAQ:CSPI) operates two divisions, each with unique expertise in designing and implementing technology solutions to help customers use technology to success. The High Pe…"
     },
     {
       "market": "US",
@@ -13434,7 +13476,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cue Biopharma (Nasdaq: CUE) is a clinical stage biopharmaceutical company focused on advancing a portfolio of potentially transformative therapies aimed at enabling functional c…"
     },
     {
       "market": "US",
@@ -13478,7 +13521,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Helus Pharma, the commercial operating name of Cybin Inc. is a clinical stage pharmaceutical company committed to helping minds heal by developing proprietary NSAs, synthetic mo…"
     },
     {
       "market": "US",
@@ -13489,7 +13533,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Based in McLean, Virginia, Cycurion (NASDAQ: CYCU) is a forward-thinking provider of AI-enabled IT cybersecurity solutions, committed to delivering secure, reliable, and innovat…"
     },
     {
       "market": "US",
@@ -13511,7 +13556,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Digi Power X is an AI infrastructure company, operating a vertically integrated portfolio of power assets and data center capacity across Alabama, New York, and North Carolina. …"
     },
     {
       "market": "US",
@@ -13577,7 +13623,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Company is a business development company that trades as a closed-end fund on the New York Stock Exchange under the symbol 'EQS'. Additional information on the Company may b…"
     },
     {
       "market": "US",
@@ -13599,7 +13646,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Fabric.AI (Nasdaq: FABC) is an AI infrastructure company developing a suite of fabless semiconductor technologies for next-generation AI factories, including its Neural I/o TM M…"
     },
     {
       "market": "US",
@@ -13610,7 +13658,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Femasys is a leading biomedical innovator developing transformative fertility and non-surgical permanent birth control solutions designed to improve the standard of care, expand…"
     },
     {
       "market": "US",
@@ -13621,7 +13670,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Flexible Solutions International, Inc. ( www.flexiblesolutions.com ), based in Taber, Alberta , is an environmental technology company. The Company's NanoChem Solutions Inc. sub…"
     },
     {
       "market": "US",
@@ -13654,7 +13704,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Future FinTech Group Inc. (NASDAQ: FTFT) is a comprehensive financial and digital technology service provider. The Company, through its subsidiaries, conducts brokerage and inve…"
     },
     {
       "market": "US",
@@ -13665,7 +13716,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Galectin Therapeutics is dedicated to developing novel therapies to improve the lives of patients with chronic liver disease and cancer. Galectin's lead drug belapectin is a car…"
     },
     {
       "market": "US",
@@ -13720,7 +13772,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Graf Industrial Corp is a blank check company. The firm intends to focus its search on industrial companies, which involve diversified industrial manufacturing, technology, dist…"
     },
     {
       "market": "US",
@@ -13731,7 +13784,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Greenland Technologies Holding Corporation (NASDAQ: GTEC) is a technology developer and manufacturer of drivetrain systems for material handling machinery and electric industria…"
     },
     {
       "market": "US",
@@ -13753,7 +13807,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "GreenPower designs, builds and distributes a full suite of high-floor and low-floor all-electric medium and heavy-duty vehicles, including transit buses, school buses, shuttles,…"
     },
     {
       "market": "US",
@@ -13786,7 +13841,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Harte Hanks, Inc. is a leading global customer experience company whose mission is to partner with clients to provide them with CX strategy, data-driven analytics and actionable…"
     },
     {
       "market": "US",
@@ -13819,7 +13875,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "HIVE Digital Technologies Ltd. is a global leader in sustainable digital infrastructure, building and operating renewable energy-powered data centres that support high-performan…"
     },
     {
       "market": "US",
@@ -13830,7 +13887,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "House of Doge is the official corporate arm of the Dogecoin Foundation, committed to advancing Dogecoin ($DOGE) as a widely accepted and decentralized global currency. By invest…"
     },
     {
       "market": "US",
@@ -13863,7 +13921,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "IGC Pharma is a clinical-stage biotechnology company leveraging AI to develop innovative treatments for Alzheimer's and metabolic disorders. The Company's lead asset, IGC-AD1, i…"
     },
     {
       "market": "US",
@@ -13885,7 +13944,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "InspireMD seeks to utilize its proprietary MicroNet mesh technology to make its products the industry standard for carotid stenting by providing outstanding acute results and du…"
     },
     {
       "market": "US",
@@ -13951,7 +14011,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The combined company is a clinical stage biotechnology company focused on the design and development of innovative therapies to treat immune-mediated diseases. The combined comp…"
     },
     {
       "market": "US",
@@ -13984,7 +14045,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Kartoon Studios (NYSE American:TOON) is a global, vertically integrated children's and family entertainment company turning owned and controlled intellectual property into endur…"
     },
     {
       "market": "US",
@@ -13995,7 +14057,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "KB Financial Group is Korea's leading financial services provider, offering a broad range of financial products and services. The Group was founded in 2008 to better serve clien…"
     },
     {
       "market": "US",
@@ -14017,7 +14080,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lantern Pharma (NASDAQ: LTRN) is an AI-driven company transforming the cost, pace, and timeline of oncology drug discovery and development. Our proprietary AI and machine learni…"
     },
     {
       "market": "US",
@@ -14028,7 +14092,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "LanzaTech (NASDAQ: LNZA) is a leader in carbon management, using its proprietary gas-fermentation platform to transform waste carbon into valuable products. Through global partn…"
     },
     {
       "market": "US",
@@ -14039,7 +14104,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Largo is the world's largest primary vanadium producer and a globally recognized supplier of high-quality vanadium products, sourced from its world-class Maracas Menchen Mine in…"
     },
     {
       "market": "US",
@@ -14050,7 +14116,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Laser Photonics Corporation (NASDAQ:LASE) is a global leader in laser systems for industrial and defense applications. The Company develops and manufactures advanced laser techn…"
     },
     {
       "market": "US",
@@ -14061,7 +14128,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "LeonaBio, headquartered in the Seattle, Washington area, is a clinical-stage biopharmaceutical company dedicated to the development of novel therapeutics for diseases with high …"
     },
     {
       "market": "US",
@@ -14072,7 +14140,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "LG Display Co., Ltd. [NYSE: LPL, KRX: 034220] is the world's leading innovator of display technologies, including thin-film transistor liquid crystal and OLED displays. The comp…"
     },
     {
       "market": "US",
@@ -14083,7 +14152,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The LGL Group, Inc. ('LGL,' 'LGL Group,' or the 'Company') is a holding company engaged in services, merchant investment and manufacturing business activities. Precise Time and …"
     },
     {
       "market": "US",
@@ -14094,7 +14164,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Liberty Defense ( NASDAQ: DETX ; TSXV: SCAN) provides multi-technology security solutions for concealed weapons detection in high volume foot traffic areas and locations requiri…"
     },
     {
       "market": "US",
@@ -14105,7 +14176,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lifeward is a global innovator focused on advancing medical technologies and biomedical solutions that improve lives. The Company's established portfolio includes market-leading…"
     },
     {
       "market": "US",
@@ -14116,7 +14188,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lightwave Logic, Inc. (NASDAQ:LWLG) www.lightwavelogic.com is a technology platform company leveraging its proprietary engineered electro-optic (EO) polymers to transmit data at…"
     },
     {
       "market": "US",
@@ -14127,7 +14200,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Cubic creates and delivers technology solutions in transportation that make people's lives easier by simplifying their daily journeys, and defense capabilities that help promote…"
     },
     {
       "market": "US",
@@ -14138,7 +14212,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Marker Therapeutics, Inc. is a Houston, TX-based clinical-stage immuno-oncology company specializing in the development of next-generation T cell-based immunotherapies for the t…"
     },
     {
       "market": "US",
@@ -14149,7 +14224,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Maui Land & Pineapple Company, Inc. (NYSE: MLP) is dedicated to the thoughtful stewardship of its portfolio, including over 22,000 acres of land along with approximately 247,000…"
     },
     {
       "market": "US",
@@ -14160,7 +14236,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "MediaCo Holding Inc. (Nasdaq: MDIA) is a diverse-owned, multi-platform media company serving multicultural audiences across the U.S. Through a network of iconic brands-including…"
     },
     {
       "market": "US",
@@ -14182,7 +14259,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Modular Medical, Inc. (NASDAQ:MODD) is a commercial-stage medical device company focused on the development of innovative insulin delivery technologies designed to simplify diab…"
     },
     {
       "market": "US",
@@ -14193,7 +14271,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Motorsport Games is a racing game developer, publisher and esports ecosystem provider of official motorsport racing series. Combining innovative and engaging video games with ex…"
     },
     {
       "market": "US",
@@ -14204,7 +14283,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Myseum.AI (formerly DatChat Inc.) is a privacy-focused AI and social media technology company developing innovative platforms for secure digital sharing and storage. Its flagshi…"
     },
     {
       "market": "US",
@@ -14215,7 +14295,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "National Presto Industries Inc has an eclectic product portfolio consisting of household appliances, ammunition, and diapers. The company operates in three segments viz Defense,…"
     },
     {
       "market": "US",
@@ -14226,7 +14307,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Neumora Therapeutics, Inc. is a clinical-stage biopharmaceutical company founded to confront the greatest medical challenges of our generation by taking a fundamentally differen…"
     },
     {
       "market": "US",
@@ -14237,7 +14319,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "New Era Energy & Digital is developing large-scale data centers across energy-rich U.S. markets to support AI training and inference workloads. New Era's flagship project, Texas…"
     },
     {
       "market": "US",
@@ -14270,7 +14353,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NOMAD Power Solutions Inc. (Nasdaq: NMAD), through its wholly owned operating subsidiary NOMAD Transportable Power Systems, provides transportable, utility-grade battery energy …"
     },
     {
       "market": "US",
@@ -14281,7 +14365,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Nomadar Corp. is a U.S. -based company operating at the intersection of sports, tourism, technology, and health. A subsidiary of Cadiz CF, a 115-year-old professional soccer clu…"
     },
     {
       "market": "US",
@@ -14292,7 +14377,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NRx Pharmaceuticals, Inc. (www.nrxpharma.com), is a clinical-stage biopharmaceutical company developing therapeutics based on its NMDA platform for the treatment of central nerv…"
     },
     {
       "market": "US",
@@ -14303,7 +14389,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "OFA Group (Nasdaq: OFAL), through its wholly owned operating subsidiary, Office for Fine Architecture Limited, provides comprehensive architectural design and fit-out services f…"
     },
     {
       "market": "US",
@@ -14314,7 +14401,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "OneMedNet Corporation is revolutionizing Real-World Data (RWD) through its iRWD platform, delivering regulatory decision-grade, AI-ready datasets that include de-identified medi…"
     },
     {
       "market": "US",
@@ -14325,7 +14413,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Optimi Health Corp. (NASDAQ: OPTH) (CSE: OPTI) (FSE: 8BN) is a commercial-stage pharmaceutical company focused on manufacturing and distributing GMP-grade psychedelic drug produ…"
     },
     {
       "market": "US",
@@ -14336,7 +14425,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "OS Therapies is a clinical stage oncology company focused on the identification, development, and commercialization of treatments for Osteosarcoma (OS) and other solid tumors. T…"
     },
     {
       "market": "US",
@@ -14369,7 +14459,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Outlook Therapeutics is a biopharmaceutical company focused on the development and commercialization of LYTENAVA (bevacizumab-vikg (U.S.), bevacizumab gamma (E.U.))."
     },
     {
       "market": "US",
@@ -14380,7 +14471,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Pasithea is a clinical-stage biotechnology company primarily focused on the research and development of its lead drug candidate, PAS-004, a next-generation macrocyclic MEK inhib…"
     },
     {
       "market": "US",
@@ -14391,7 +14483,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Patriot Bank, N.A. is a high-performing local financial institution that provides a full range of consumer and commercial banking services to individuals, government entities, a…"
     },
     {
       "market": "US",
@@ -14402,7 +14495,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PAVmed Inc. is a diversified commercial-stage medical technology company operating in the medical device, diagnostics, and digital health sectors. Its subsidiary, Lucid Diagnost…"
     },
     {
       "market": "US",
@@ -14413,7 +14507,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Permianville Royalty Trust is a Delaware statutory trust formed to own a net profits interest representing the right to receive 80% of the net profits from the sale of oil and n…"
     },
     {
       "market": "US",
@@ -14424,7 +14519,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PermRock Royalty Trust is a Delaware statutory trust formed to own a net profits interest representing the right to receive 80% of the net profits from the sale of oil and natur…"
     },
     {
       "market": "US",
@@ -14435,7 +14531,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Perpetua Resources Corp., through its wholly owned subsidiaries, is focused on the exploration, site restoration and redevelopment of gold-antimony-silver deposits in the Stibni…"
     },
     {
       "market": "US",
@@ -14446,7 +14543,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Pioneer Power Solutions, Inc. is a leader in the design, manufacture, integration, service of distributed energy resources, power generation equipment and mobile electric chargi…"
     },
     {
       "market": "US",
@@ -14468,7 +14566,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PMV Pharma is a precision oncology company pioneering the discovery and development of small molecule therapies targeting p53. TP53 mutations are found in approximately half of …"
     },
     {
       "market": "US",
@@ -14490,7 +14589,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Prairie Operating Co. is a Houston -based publicly traded independent energy company engaged in the development and acquisition of oil, natural gas, and natural gas liquid resou…"
     },
     {
       "market": "US",
@@ -14501,7 +14601,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Precipio is a healthcare biotechnology company focused on cancer diagnostics. Our mission is to address the pervasive problem of cancer misdiagnoses by developing solutions in t…"
     },
     {
       "market": "US",
@@ -14512,7 +14613,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PrimeEnergy Resources Corporation (NASDAQ: PNRG) is an independent oil and natural gas company engaged in acquiring, developing, and producing oil and natural gas properties in …"
     },
     {
       "market": "US",
@@ -14545,7 +14647,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Quantum Cyber N.V. (Nasdaq: QUCY) is assembling an AI-powered, quantum-accelerated System-of-Systems autonomous defense platform that integrates drone warfare, counter-UAS, auto…"
     },
     {
       "market": "US",
@@ -14556,7 +14659,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Quantum eMotion Corp. (NYSE: QNC) (TSXV: QNC) (FSE: 34Q0) is a Canadian deep-tech company developing quantum-safe cybersecurity solutions based on its patented Quantum Random Nu…"
     },
     {
       "market": "US",
@@ -14567,7 +14671,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Quince Therapeutics, Inc. is committed to transforming the lives of patients facing serious, underserved diseases by developing disease-modifying therapies to treat their condit…"
     },
     {
       "market": "US",
@@ -14600,7 +14705,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Reading International, Inc. (NASDAQ: RDI), an internationally diversified cinema and real estate company operating through various domestic and international subsidiaries, is a …"
     },
     {
       "market": "US",
@@ -14622,7 +14728,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Rein Therapeutics is a clinical-stage biopharmaceutical company advancing a novel pipeline of first-in-class therapies to address significant unmet medical needs in orphan pulmo…"
     },
     {
       "market": "US",
@@ -14633,7 +14740,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Replimune Group, Inc., headquartered in Woburn, MA, was founded in 2015 with the mission to transform cancer treatment by pioneering the development of novel oncolytic immunothe…"
     },
     {
       "market": "US",
@@ -14644,7 +14752,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Retractable manufactures and markets VanishPoint® and Patient Safe® safety medical products and the EasyPoint® needle. The VanishPoint® syringe, blood collection, and IV cathete…"
     },
     {
       "market": "US",
@@ -14655,7 +14764,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "RLX Technology Inc. (NYSE: RLX) is a leading global branded e-vapor company. The Company leverages its strong in-house technology, product development capabilities and in-depth …"
     },
     {
       "market": "US",
@@ -14666,7 +14776,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Rocket One Inc. is focused on developing and commercializing infrastructure for the orbital economy, including next-generation nanomagnetic AI chip technology designed for radia…"
     },
     {
       "market": "US",
@@ -14677,7 +14788,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Roundtable (NASDAQ: RTB) is the world's only AI/DeFi-powered Enterprise Media Platform, integrating distribution, publishing, monetization, community, syndication and DeFi payme…"
     },
     {
       "market": "US",
@@ -14699,7 +14811,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Safe Pro Group Inc. (Nasdaq: SPAI) is a mission-driven technology company delivering AI-enabled security and defense solutions. Through cutting-edge platforms like SPOTD, Safe P…"
     },
     {
       "market": "US",
@@ -14710,7 +14823,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Santacruz Silver is engaged in the operation, acquisition, exploration, and development of mineral properties across Latin America. In Bolivia, the Company operates the Bolivar,…"
     },
     {
       "market": "US",
@@ -14721,7 +14835,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Scilex is an innovative revenue-generating company focused on acquiring, developing and commercializing non-opioid pain management products for the treatment of acute and chroni…"
     },
     {
       "market": "US",
@@ -14732,7 +14847,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Senmiao Technology Limited (Nasdaq: AIHS) is a Nasdaq-listed company that has historically operated automobile transaction and related services businesses. The Company is pursui…"
     },
     {
       "market": "US",
@@ -14754,7 +14870,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Prior to the adoption of the Company's Plan of Sale, Seritage was principally engaged in the ownership, development, redevelopment, management, sale and leasing of diversified r…"
     },
     {
       "market": "US",
@@ -14765,7 +14882,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sigma Lithium Corporation (NASDAQ: SGML) (TSXV: SGML) (BVMF: S2GM34), ('Sigma Lithium' or 'the Company') is the largest producer of lithium oxide concentrate in the Americas¹ an…"
     },
     {
       "market": "US",
@@ -14787,7 +14905,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sinda is a silver exploration and development company with mineral projects in Mexico, featuring an estimated 369 million AgEq ounces of Inferred Mineral Resources and 16 millio…"
     },
     {
       "market": "US",
@@ -14809,7 +14928,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Smith-Midland develops, manufactures, licenses, rents, and sells a broad array of precast concrete products and systems for use primarily in the construction, transportation, an…"
     },
     {
       "market": "US",
@@ -14831,7 +14951,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Solana Company (Nasdaq: HSDT) is a publicly listed digital asset treasury and infrastructure company purpose-built to maximize SOL per share. The company combines active treasur…"
     },
     {
       "market": "US",
@@ -14853,7 +14974,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sphere 3D Corp. (NASDAQ: ANY) is a digital infrastructure company focused on operating and expanding scalable power and data center assets for high-performance computing, AI wor…"
     },
     {
       "market": "US",
@@ -14864,7 +14986,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "StablecoinX is a publicly traded company offering investors regulated, transparent exposure to the stablecoin economy through its strategic focus on Ethena, one of the world's l…"
     },
     {
       "market": "US",
@@ -14875,7 +14998,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Star Equity Holdings, Inc. is a diversified holding company that seeks to build long-term shareholder value by acquiring, managing, and growing businesses with strong fundamenta…"
     },
     {
       "market": "US",
@@ -14886,7 +15010,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Streamex Corp. (NASDAQ: STEX) is a technology and infrastructure company focused on the tokenization and digitalization of commodity real-world assets. Streamex delivers institu…"
     },
     {
       "market": "US",
@@ -14897,7 +15022,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Suncrete is a leading pure-play ready-mix concrete company headquartered in Tulsa, Oklahoma, serving a diversified customer base across infrastructure, commercial, and residenti…"
     },
     {
       "market": "US",
@@ -14941,7 +15067,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Teamshares is a tech-enabled acquiror of high-quality businesses, intending to be a permanent home for businesses. Part holdco, part fintech, Teamshares programmatically acquire…"
     },
     {
       "market": "US",
@@ -14952,7 +15079,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Terra Innovatum is a pioneering force in the energy sector, dedicated to delivering innovative and sustainable power solutions. Terra Innovatum plans to leverage cutting-edge nu…"
     },
     {
       "market": "US",
@@ -14963,7 +15091,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Tevogen is a healthcare enterprise focused on improving the affordability and accessibility of life-saving medicines. The Company brings together three complementary efforts: Te…"
     },
     {
       "market": "US",
@@ -14974,7 +15103,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "bebe stores Inc was a women's apparel company that designs, develops, and produces a distinctive line of contemporary women's apparel and accessories. It also owns and operates,…"
     },
     {
       "market": "US",
@@ -14996,7 +15126,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TOMI Environmental Solutions, Inc. (NASDAQ: TOMZ ) is a global decontamination and infection prevention company, providing environmental solutions for indoor surface disinfectio…"
     },
     {
       "market": "US",
@@ -15007,7 +15138,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TransCode Therapeutics is an immuno-oncology and targeted cancer therapy company with a focus on treating advanced malignancy. The Company's lead therapeutic candidate, TTX-MC13…"
     },
     {
       "market": "US",
@@ -15040,7 +15172,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TuHURA Biosciences, Inc. (NASDAQ: HURA) is a Phase 3 immuno-oncology company developing novel technologies to overcome primary and acquired resistance to cancer immunotherapy, t…"
     },
     {
       "market": "US",
@@ -15051,7 +15184,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Tvardi is a clinical-stage biopharmaceutical company focused on the development of novel, oral, small molecule therapies targeting STAT3 to treat inflammatory and proliferative …"
     },
     {
       "market": "US",
@@ -15062,7 +15196,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Upland Software (Nasdaq: UPLD) provides an intelligence layer that unifies and contextualizes enterprise knowledge, content, and data, turning isolated information into actionab…"
     },
     {
       "market": "US",
@@ -15106,7 +15241,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Vida is an AI agent operating system that enables businesses to build, deploy, manage, and monetize AI agents capable of running business operations and communications. The plat…"
     },
     {
       "market": "US",
@@ -15117,7 +15253,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "VirnetX Holding Corporation is an Internet security software and technology company specializing in patented Zero Trust Network Access ('ZTNA') for secure network communications…"
     },
     {
       "market": "US",
@@ -15161,7 +15298,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Vulcan Infrastructure and Power Inc. (Nasdaq:VIP) is a power and infrastructure platform focused on acquiring, developing and operating energized sites that support artificial i…"
     },
     {
       "market": "US",
@@ -15172,7 +15310,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "WeTouch Technology Inc. is a global provider of medium- to large-sized projected capacitive touchscreens and touch display solutions. The Company's products are used in a broad …"
     },
     {
       "market": "US",
@@ -15205,7 +15344,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Zentek Ltd. is a Canadian intellectual property development and commercialization company advancing a portfolio of graphene-enabled and advanced material technologies across cle…"
     },
     {
       "market": "US",
@@ -15216,7 +15356,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Zeo Energy Corp. (Nasdaq: ZEO) is a diversified clean energy company providing residential, commercial, industrial, and utility-scale solutions that cut costs and carbon emissio…"
     },
     {
       "market": "US",
@@ -16858,7 +16999,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AI Financial ('AiFi') is building intelligent financial products and infrastructure for the emerging intelligence economy, with a strategy spanning intelligent-card issuance, pr…"
     },
     {
       "market": "US",
@@ -16869,7 +17011,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AMC Robotics (NASDAQ: AMCI ) is an AI-driven robotics company focused on developing intelligent, scalable hardware and software solutions. The Company's quadruped robotic platfo…"
     },
     {
       "market": "US",
@@ -16880,7 +17023,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BitFuFu Inc. is a world-leading Bitcoin miner and mining services innovator. BitFuFu is committed to empowering the global Bitcoin network through its industry-leading cloud min…"
     },
     {
       "market": "US",
@@ -16891,7 +17035,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BT Brands, Inc. (Nasdaq: BTBD and BTBDW) owns and operates a fast-food restaurant chain called Burger Time in North Dakota, South Dakota, and Minnesota. In addition, the Company…"
     },
     {
       "market": "US",
@@ -16902,7 +17047,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Core AI Holdings, Inc. is an international AI driven mobile games developer and publisher headquartered in Miami. We create entertaining games for millions of players worldwide,…"
     },
     {
       "market": "US",
@@ -16913,7 +17059,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "DataMeds AI, Inc. (formerly Wellgistics Health) is a leading Health IT company that focuses on the vertical integration of technology, pharmacy, pharmaceutical-adjacent and tele…"
     },
     {
       "market": "US",
@@ -16924,7 +17071,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "DocGo is leading the proactive healthcare revolution with an innovative care delivery platform that includes mobile health services, remote patient monitoring, ambulance service…"
     },
     {
       "market": "US",
@@ -16935,7 +17083,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Duos Technologies Group, Inc. ( Nasdaq: DUOT ), based in Jacksonville, Florida, is focused on providing and managing modular data center colocation facilities and infrastructure…"
     },
     {
       "market": "US",
@@ -16946,7 +17095,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Empire Petroleum Corporation is a publicly traded, Tulsa-based oil and gas company with current producing assets in New Mexico, North Dakota, Montana, Texas, and Louisiana. Mana…"
     },
     {
       "market": "US",
@@ -16957,7 +17107,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ENvue Medical, Inc. (FEED), formerly NanoVibronix, Inc., is a medical technology company advancing both non-invasive and minimally invasive solutions across clinical and home ca…"
     },
     {
       "market": "US",
@@ -16968,7 +17119,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Fabrinet is a leading provider of advanced optical packaging and precision optical, electro-mechanical, and electronic manufacturing services to original equipment manufacturers…"
     },
     {
       "market": "US",
@@ -16979,7 +17131,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Flexsteel Industries, Inc. and Subsidiaries (the 'Company,' 'Flexsteel,' or 'Our') is one of the largest residential furniture manufacturers, importers, and marketers in the U.S…"
     },
     {
       "market": "US",
@@ -16990,7 +17143,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Freightos® is the leading digital infrastructure platform powering the international freight industry. Operating as a vendor-neutral network, Freightos connects airlines, ocean …"
     },
     {
       "market": "US",
@@ -17001,7 +17155,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Greenland Mines Ltd is a Nasdaq-listed company with two operating divisions: (1) Mining, focused on the exploration and development of the Skaergaard Project in southeast Greenl…"
     },
     {
       "market": "US",
@@ -17012,7 +17167,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Originated in China, H World Group Limited (NASDAQ: HTHT; HKEX: 01179) is a key player in the global hotel industry. Over the past 20 years, H World has developed into a leading…"
     },
     {
       "market": "US",
@@ -17023,7 +17179,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Mobix Labs is an Irvine, California-based fabless semiconductor company providing advanced connectivity, RF, sensing and electromagnetic-interference technologies for aerospace,…"
     },
     {
       "market": "US",
@@ -17034,7 +17191,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "NexMetals Mining Corp. is a TSX.V and NASDAQ listed mineral exploration and development company focused on redeveloping the past-producing Selebi and Selkirk copper-nickel-cobal…"
     },
     {
       "market": "US",
@@ -17045,7 +17203,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Company, through its operating subsidiaries, provides diversified services including online brokerage platforms specializing in the trading of local and foreign equities, fu…"
     },
     {
       "market": "US",
@@ -17067,7 +17226,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "XCF Global, Inc. ('XCF') is a U.S.-based producer of renewable diesel and sustainable aviation fuel ('SAF') focused on decarbonizing transportation while supporting domestic fue…"
     },
     {
       "market": "US",
@@ -17078,7 +17238,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "XP is a leading, technology-driven platform and a trusted provider of low-fee financial products and services in Brazil. XP's mission is to disintermediate the legacy models of …"
     },
     {
       "market": "US",
@@ -17089,7 +17250,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Yalla Group Limited is the largest MENA-based online social networking and gaming company, in terms of revenues in 2022. The Company operates two flagship mobile applications, Y…"
     },
     {
       "market": "CN",
@@ -18720,7 +18882,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Amer Sports is a global group of iconic sports and outdoor brands, including Arc'teryx, Salomon, Wilson, Peak Performance, and Atomic. Our brands are known for their detailed cr…"
     },
     {
       "market": "US",
@@ -18731,7 +18894,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Auna is a leading healthcare platform in Latin America with operations in Mexico, Peru, and Colombia, prioritizing prevention and concentrating on high-complexity diseases that …"
     },
     {
       "market": "US",
@@ -18742,7 +18906,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "AXIL Brands (NYSE American: AXIL) is an emerging global consumer products company. The Company is a manufacturer and marketer of premium hearing enhancement and protection produ…"
     },
     {
       "market": "US",
@@ -18753,7 +18918,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Azio AI Holdings, Inc. , formerly Envirotech Vehicles, Inc. (Nasdaq: EVTV), is developing an integrated compute infrastructure platform spanning GPU and compute system sales, en…"
     },
     {
       "market": "US",
@@ -18764,7 +18930,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 2000, Baidu's mission is to make the complicated world simpler through technology. Baidu is a leading AI company with strong internet foundation, trading on the NASDA…"
     },
     {
       "market": "US",
@@ -18775,7 +18942,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Palo Alto, California, Cloudastructure's advanced award-winning security platform utilizes a scalable cloud-based architecture that features cloud video surveil…"
     },
     {
       "market": "US",
@@ -18786,7 +18954,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Corporacion America Airports acquires, develops and operates airport concessions. Currently, the Company operates 52 airports in 6 countries across Latin America and Europe (Arg…"
     },
     {
       "market": "US",
@@ -18797,7 +18966,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in Stockholm in 2016, Einride (Nasdaq: ENRD) is a technology leader driving the transition to sustainable, cost-efficient autonomous and electric freight operations. The…"
     },
     {
       "market": "US",
@@ -18808,7 +18978,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Elauwit is a publicly traded connectivity MSP dedicated to rental communities, including multifamily properties, student housing, and senior living. Elauwit designs, builds, and…"
     },
     {
       "market": "US",
@@ -18819,7 +18990,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Ellomay is an Israeli based company whose shares are registered with the NYSE American and with the Tel Aviv Stock Exchange under the trading symbol 'ELLO'. Since 2009, Ellomay …"
     },
     {
       "market": "US",
@@ -18830,7 +19002,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Eltek - 'Innovation Across the Board', is a global manufacturer and supplier of technologically advanced solutions in the field of printed circuit boards (PCBs) and is an Israel…"
     },
     {
       "market": "US",
@@ -18841,7 +19014,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Evogene Ltd. (Nasdaq/TASE: EVGN) is a pioneering company in computational chemistry, specializing in the generative design of small molecules for drug development and ag chemica…"
     },
     {
       "market": "US",
@@ -18852,7 +19026,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Greenwave Technology Solutions, Inc., through its wholly owned subsidiary Empire Services, Inc., is an operator of 13 metal recycling facilities in Virginia, North Carolina, and…"
     },
     {
       "market": "US",
@@ -18863,7 +19038,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hesai Technology (Nasdaq: HSAI; HKEX: 2525) is a global tech company and a leader in 3D perception. Leveraging full-stack proprietary ASIC capabilities and an integrated R&D-tes…"
     },
     {
       "market": "US",
@@ -18874,7 +19050,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "The Home Depot is the world's largest home improvement specialty retailer. At the end of the second quarter, the company operated a total of 2,364 retail stores and over 1,340 S…"
     },
     {
       "market": "US",
@@ -18885,7 +19062,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hyperscale Data is a diversified holding company pursuing growth by acquiring undervalued businesses and disruptive technologies with a global impact. Through its wholly and maj…"
     },
     {
       "market": "US",
@@ -18896,7 +19074,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Immatics is committed to making a meaningful impact on the lives of patients with cancer. We are the global leader in precision targeting of PRAME, a target expressed in more th…"
     },
     {
       "market": "US",
@@ -18907,7 +19086,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "INNO is a holding company incorporated in the State of Texas and a trade-focused electronic products trading company with operations through its Hong Kong operating subsidiaries…"
     },
     {
       "market": "US",
@@ -18918,7 +19098,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "iQIYI, Inc. is a leading provider of online entertainment video services in China. It combines creative talent with technology to foster an environment for continuous innovation…"
     },
     {
       "market": "US",
@@ -18929,7 +19110,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "IQSTEL Inc. (NASDAQ: IQST ) is a global telecommunications and technology company operating through two core business divisions: Telecom and Digital Services. The Telecom Divisi…"
     },
     {
       "market": "US",
@@ -18940,7 +19122,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Iridex Corporation is a worldwide leader in developing, manufacturing, and marketing innovative and versatile laser-based medical systems, which include capital equipment and co…"
     },
     {
       "market": "US",
@@ -18951,7 +19134,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Jack Henry® (Nasdaq: JKHY) is a well-rounded financial technology company that strengthens connections between financial institutions and the people and businesses they serve. W…"
     },
     {
       "market": "US",
@@ -18962,7 +19146,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Keysight (NYSE: KEYS) serves technology innovators as a mission-critical design enablement partner for the world's most complex engineering challenges. By connecting market-lead…"
     },
     {
       "market": "US",
@@ -18973,7 +19158,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Klarna is a global digital bank and flexible payments provider. With over 120 million global active Klarna users and 3.8 million transactions per day, Klarna's AI-powered paymen…"
     },
     {
       "market": "US",
@@ -18984,7 +19170,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "La-Z-Boy Incorporated (NYSE: LZB) is a leading vertically integrated retailer and manufacturer of high-quality, custom furniture that transforms the home. Founded on American he…"
     },
     {
       "market": "US",
@@ -18995,7 +19182,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lufax is a leading financial services enabler for small business owners in China. Lufax offers financing products designed to address the needs of small business owners and othe…"
     },
     {
       "market": "US",
@@ -19006,7 +19194,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Mercury Systems Inc is a commercial technology company serving the aerospace and defense industry. The company envisions, creates and delivers secure open architecture solutions…"
     },
     {
       "market": "US",
@@ -19017,7 +19206,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Polar Power, Inc. (NASDAQ: POLA) designs, manufactures and sells power and energy systems for applications including telecommunications, defense, data centers and other critical…"
     },
     {
       "market": "US",
@@ -19028,7 +19218,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Pony AI Inc. is a global leader in achieving large-scale commercialisation of autonomous mobility. Leveraging its vehicle-agnostic Virtual Driver technology, a full-stack autono…"
     },
     {
       "market": "US",
@@ -19039,7 +19230,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Prenetics Global Limited (NASDAQ: PRE) (the 'Company') is a leading consumer health company on a mission to advance human health and longevity. Its flagship brand, IM8, co-found…"
     },
     {
       "market": "US",
@@ -19050,7 +19242,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ReNew is a leading decarbonization solutions company listed on Nasdaq (Nasdaq: RNW, RNWWW). ReNew's clean energy portfolio of 20.5 GW (including 1.7 GW/6.2 GWh of BESS) on a gro…"
     },
     {
       "market": "US",
@@ -19061,7 +19254,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Smartbird delivers dedicated AI infrastructure as a service, giving organizations the performance, control, and security of a private AI cluster without requiring them to financ…"
     },
     {
       "market": "US",
@@ -19072,7 +19266,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SQM is a global company that is listed on the New York Stock Exchange and the Santiago Stock Exchange (NYSE: SQM; Santiago Stock Exchange : SQM-B, SQM-A). SQM develops and produ…"
     },
     {
       "market": "US",
@@ -19083,7 +19278,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Sypris Solutions provides products and engineering, design, and manufacturing services for a variety of critical infrastructure sectors, including energy, space, communications,…"
     },
     {
       "market": "US",
@@ -19094,7 +19290,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "T3 Defense Inc. (NASDAQ: DFNS), formerly Nukkleus Inc., is a federated holding company focused on acquiring and operating mission-critical defense businesses embedded in long-cy…"
     },
     {
       "market": "US",
@@ -19105,7 +19302,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Taylor Devices Inc is engaged in the design, development, manufacture, and marketing of shock absorption, rate control, and energy storage devices for use in various types of ma…"
     },
     {
       "market": "US",
@@ -19116,7 +19314,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "TH International Limited (Nasdaq: THCH) ('Tims China') is the parent company of the exclusive master franchisees of Tim Hortons coffee shops in mainland China, Hong Kong and Mac…"
     },
     {
       "market": "US",
@@ -19127,7 +19326,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Toll Brothers, Inc., a Fortune 500 Company, is the nation's leading builder of luxury homes. The Company was founded in 1967 and became a public company in 1986 with common stoc…"
     },
     {
       "market": "US",
@@ -19138,7 +19338,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "UCLOUDLINK is the world's first and leading mobile data traffic sharing marketplace, pioneering the sharing economy business model for the telecommunications industry. The Compa…"
     },
     {
       "market": "US",
@@ -19149,7 +19350,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "VNET Group, Inc. is a leading carrier- and cloud-neutral internet data center services provider in China. VNET provides hosting and related services, including IDC services, clo…"
     },
     {
       "market": "US",
@@ -19160,7 +19362,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "ZTO Express (Cayman) Inc. (NYSE: ZTO and SEHK: 2057) ('ZTO' or the 'Company') is a leading and fast-growing express delivery company in China. ZTO provides express delivery serv…"
     },
     {
       "market": "CN",
@@ -26851,7 +27054,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "HOME CONTROL"
+      "name_en": "HOME CONTROL",
+      "business": "－ 集团是家居控制解决方案供应商，总部设於新加坡，业务遍布北美洲、欧洲、亚洲及拉丁美洲等地。"
     },
     {
       "market": "HK",
@@ -26863,7 +27067,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JS GLOBAL LIFE"
+      "name_en": "JS GLOBAL LIFE",
+      "business": "－ 集团主要从事设计、生产、营销、进出口及分销清洁电器(吸尘器、扫地机器人等)、食物料理电器(豆浆机 、搅拌机、食品加工机、榨汁机)、烹饪电器(煲类产品、咖啡茶饮机)及其他小家电(净水器、换气扇、热 水器、衣物护理及保温瓶)。"
     },
     {
       "market": "HK",
@@ -26875,7 +27080,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "K CASH"
+      "name_en": "K CASH",
+      "business": "－ 集团是香港第四大持牌放债人，采用包括区块链技术、云端运算、大数据分析、机器学习技术及业务流程自动 化技术的金融科技，在贷款申请、信贷审查及批核、提款及提款後等贷款流程全程实现数码化及自动化。"
     },
     {
       "market": "HK",
@@ -26887,7 +27093,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "K2 F&B"
+      "name_en": "K2 F&B",
+      "business": "－ 集团为新加坡餐饮集团，主要营运及管理新加坡美食中心及美食街，以及於该等美食中心及美食街或第三方经 营的美食中心内从事餐饮零售业务，售卖杂菜饭、煮炒、烧腊及鸡饭等食物。"
     },
     {
       "market": "HK",
@@ -26899,7 +27106,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LONG INV CORP"
+      "name_en": "LONG INV CORP",
+      "business": "－ 集团主要从事发展运输工具如车队、飞机、远洋轮船及运油轮船等的金融租赁市场及其他有巨大发展潜质的租 赁项目。"
     },
     {
       "market": "HK",
@@ -26911,7 +27119,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "REF HOLDINGS"
+      "name_en": "REF HOLDINGS",
+      "business": "－ 集团主要於香港从事提供财经印刷服务，包括印制上市文件、财务报告、合规文件及其他文件。"
     },
     {
       "market": "HK",
@@ -26923,7 +27132,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WANKA ONLINE"
+      "name_en": "WANKA ONLINE",
+      "business": "- 集团帮助企业与中国安卓智能手机用户建立联系，向寻求移动广告、网络视频产品分发及游戏联运服务的行业 客户提供安卓内容分发服务。"
     },
     {
       "market": "HK",
@@ -26935,7 +27145,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DOWELL SERVICE"
+      "name_en": "DOWELL SERVICE",
+      "business": "－ 集团主要在中国从事提供物业管理服务及相关增值服务，业务分类如下： （１）物业管理服务：向物业开发商、业主及住户提供安保服务、清洁服务、园艺服务、设施管理、维修及保 养服务； （２）社区增值服务：向业主及住户提供停车位管理服务、停车位及物业销售服务、公共资源管理服务、物业 代理服务、社区活动策划服务、公用事业维护服务、装修废品处理服务； （３）非业主…"
     },
     {
       "market": "HK",
@@ -26947,7 +27158,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DONGWU CEMENT"
+      "name_en": "DONGWU CEMENT",
+      "business": "－ 集团主要从事水泥及熟料的生产和销售、生物技术的研发、生产及销售磁材料及其他应用产品，以及贸易业务 。"
     },
     {
       "market": "HK",
@@ -26959,7 +27171,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "EAST BUY"
+      "name_en": "EAST BUY",
+      "business": "－ 集团自2021年底开始从事直播电商业务，通过自家电商平台东方甄选销售农业及其他产品，包括生鲜食品 、果汁、咖啡、茶及床上用品等。"
     },
     {
       "market": "HK",
@@ -26971,7 +27184,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BIODLINK-B"
+      "name_en": "BIODLINK-B",
+      "business": "－ 集团是一间临床阶段生物制药公司，拥有针对各类癌症的综合性在研肿瘤药物组合，当中包括多种单克隆抗体 (mAb)、抗体偶联(ADC)、溶瘤病毒药物及特种肿瘤药物(如脂质体药物)。"
     },
     {
       "market": "HK",
@@ -26983,7 +27197,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LIVZON PHARMA"
+      "name_en": "LIVZON PHARMA",
+      "business": "－ 集团股份亦於深圳证券交易所上市，编号为000513。於2014年1月，集团将1.12亿B股转换为 H股，透过介绍形式於香港联交所主板上市。"
     },
     {
       "market": "HK",
@@ -26995,7 +27210,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CITIC RESOURCES"
+      "name_en": "CITIC RESOURCES",
+      "business": "－ 集团为综合供应商，主要提供重要商品和具策略价值之天然资源，尤其专注於石油业务。"
     },
     {
       "market": "HK",
@@ -27007,7 +27223,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZTE"
+      "name_en": "ZTE",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为000063。 － 集团为中国高科技通信设备主导供应商之一，通过提供客户化的产品及解决方案，目前主要服务於中国及其他 发展迅速的新兴市场。"
     },
     {
       "market": "HK",
@@ -27019,7 +27236,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINAHONGQIAO"
+      "name_en": "CHINAHONGQIAO",
+      "business": "－ 集团主要在中国从事铝产品制造，产品包括液态铝合金、铝合金锭及铝母线(电解铝块，主要用於铝熔炼炉的 部件)，并利用自行生产的电解铝制造铝产品。"
     },
     {
       "market": "HK",
@@ -27031,7 +27249,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINANEWTOWN"
+      "name_en": "CHINANEWTOWN",
+      "business": "－ 集团主要於中国从事土地开发、城镇化开发及物业租赁业务。"
     },
     {
       "market": "HK",
@@ -27043,7 +27262,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINFMINING"
+      "name_en": "CHINFMINING",
+      "business": "- 集团主要在非洲赞比亚经营铜开采、选矿、湿法冶炼、火法冶炼及销售业务，主要产品为铜精矿、粗铜及阴极 铜，以及粗铜冶炼工序中产生的副产品硫酸。"
     },
     {
       "market": "HK",
@@ -27055,7 +27275,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA PARTYTIME"
+      "name_en": "CHINA PARTYTIME",
+      "business": "－ 集团主要以CMS(合约制造服务)及OBM(原品牌制造)业务模式从事设计、生产及销售角色扮演产品( 包括角色扮演服饰及角色扮演假发)及非角色扮演服饰(主要为性感内衣)，并出口至美国、德国、英国及澳 洲等地。"
     },
     {
       "market": "HK",
@@ -27067,7 +27288,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SINOPEC CORP"
+      "name_en": "SINOPEC CORP",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600028。 － 集团是最大的石化产品生产商，在中国成品油生产和销售中占有主导地位。"
     },
     {
       "market": "HK",
@@ -27079,7 +27301,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA ALUMCAN"
+      "name_en": "CHINA ALUMCAN",
+      "business": "－ 集团主要从事制造单片铝质气雾罐(一般用於包装美发产品与剃须膏等个人护理产品，以及镇痛喷雾与消毒喷 雾等医药产品)。"
     },
     {
       "market": "HK",
@@ -27091,7 +27314,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZONQING LTD"
+      "name_en": "ZONQING LTD",
+      "business": "－ 集团是中国东三省园林及生态修复项目服务提供商，业务遍及13个省级地区，其中包括吉林、北京、天津、 内蒙古及新疆。"
     },
     {
       "market": "HK",
@@ -27103,7 +27327,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZHONGTAIFUTURES"
+      "name_en": "ZHONGTAIFUTURES",
+      "business": "－ 集团控股股东齐鲁证券由国有企业山东钢铁(由山东省国资委管辖)旗下莱芜钢铁持有45.71%权益，主 要从事证券经纪、证券承销与保荐和自营交易。"
     },
     {
       "market": "HK",
@@ -27115,7 +27340,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CTIHK"
+      "name_en": "CTIHK",
+      "business": "－ 集团业务分类如下： （１）烟叶类产品出口：向东南亚、香港、澳门、台湾及欧洲地区出口烟叶类产品； （２）烟叶类产品进口：自全球原产国或地区(除包括津巴布韦在内的受制裁国家及地区外)进口烟叶类产品 至中国内地； （３）卷烟出口：向独家经营区域及新增特定区域直接销售或通过分销商销售中国烟草总公司集团旗下卷烟； （４）新型烟草制品出口：向全球的海外市场出口…"
     },
     {
       "market": "HK",
@@ -27127,7 +27353,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA COAL"
+      "name_en": "CHINA COAL",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601898。 － 集团主要从事煤炭开采及洗选、煤炭及煤化工产品的销售、煤矿机械装备的制造及销售，以及金融服务。"
     },
     {
       "market": "HK",
@@ -27139,7 +27366,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZJ INNOLIGHT"
+      "name_en": "ZJ INNOLIGHT",
+      "business": "－ 集团乃光互连解决方案提供商，专注於高速光模块的研发、设计、制造与销售。 － 光模块用於在光纤通信中实现电信号与光信号之间的转换。"
     },
     {
       "market": "HK",
@@ -27151,7 +27379,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MAXICITY"
+      "name_en": "MAXICITY",
+      "business": "－ 集团是一间位於香港的斜坡工程承建商，主要作为分包商承各种斜坡工程，包括土钉钻孔及安装；建造挡土墙 、柔性防护网系统及混凝土维护楼梯/通道；安装防护泥石流的刚性防护网、排水斜管、金属丝网及防蚀垫以 控制侵蚀情况；以及景观美化工程及园艺维护工作。 － 此外，集团亦按客户要求协助其进行土地勘测工作，以及准备柔性防护系统的地基设计。"
     },
     {
       "market": "HK",
@@ -27163,7 +27392,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KOWLOON DEV"
+      "name_en": "KOWLOON DEV",
+      "business": "－ 集团在中国从事物业发展、物业投资、物业管理、金融投资、提供财务服务及财资营运等服务。"
     },
     {
       "market": "HK",
@@ -27175,7 +27405,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FORGAME"
+      "name_en": "FORGAME",
+      "business": "－ 集团主要从事销售电子设备及半导体(如存储设备及硬盘驱动器)；以及网页游戏及移动游戏的研究和开发业 务。"
     },
     {
       "market": "HK",
@@ -27187,7 +27418,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BE FRIENDS HLDG"
+      "name_en": "BE FRIENDS HLDG",
+      "business": "－ 集团主要提供新媒体服务(包括直播电商活动)、应用解决方案、自主研发产品销售及系统运维服务。"
     },
     {
       "market": "HK",
@@ -27199,7 +27431,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BEIJING JIAYE"
+      "name_en": "BEIJING JIAYE",
+      "business": "－ 集团主要为中国的物业管理服务综合运营商，业务分类如下： （１）物业管理服务：向业主、住户、租户及物业开发商提供安保、清洁、绿化、园艺及维修维护服务以及客 户服务等； （２）非业主增值服务：向非业主(主要为物业开发商)提供租户招揽及管理服务、案场及样板间管理和交付 前支持服务、景观工程服务、工程运营及维护服务、初步规划及设计谘询服务等； （３）社区增…"
     },
     {
       "market": "HK",
@@ -27211,7 +27444,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZHONGAN GROUP"
+      "name_en": "ZHONGAN GROUP",
+      "business": "－ 集团主要在国内从事住宅及商业地产的开发及经营、物业服务、酒店及影院经营；以及金融服务等。"
     },
     {
       "market": "HK",
@@ -27223,7 +27457,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WEILI HOLDINGS"
+      "name_en": "WEILI HOLDINGS",
+      "business": "－ 集团主要於中国从事制造及销售卷烟包装纸，产品分为转移纸、复合纸以及框架纸，并於湖北省黄冈市设有生 产基地，其现时共有7条生产线，总建筑面积为12,000平方米。 － 集团亦提供卷烟包装纸加工服务。"
     },
     {
       "market": "HK",
@@ -27235,7 +27470,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FOLANGSI"
+      "name_en": "FOLANGSI",
+      "business": "－ 集团主要在中国从事提供场内物流设备解决方案。场内物流设备是一种工业设备，用於替代密集型劳动，如搬 运、搬移、分拣及堆垛货物与重物等。"
     },
     {
       "market": "HK",
@@ -27247,7 +27483,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PRECIOUS DRAGON"
+      "name_en": "PRECIOUS DRAGON",
+      "business": "－ 集团於2019年6月由中国铝罐(06898)以介绍形式分拆上市，主要从事设计、开发、制造及销售各 类汽车美容及保养产品，包括汽车清洁及保养产品(如汽车内饰清洁产品及轮胎清洁护理产品)、油漆及涂料 (如镀铬气雾剂喷雾)、冬季及夏季特色产品(如制冷剂及冷启动剂)以及空气清新剂。"
     },
     {
       "market": "HK",
@@ -27259,7 +27496,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PROSPEROUS IND"
+      "name_en": "PROSPEROUS IND",
+      "business": "－ 集团主要为全球品牌设计、开发及制造休闲包及背包(其主要为双肩背包)，并提供供应链管理服务。"
     },
     {
       "market": "HK",
@@ -27271,7 +27509,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "RAYMOND IND"
+      "name_en": "RAYMOND IND",
+      "business": "－ 集团主要业务是制造及销售家用电器。集团家电部的主要业务是设计及生产家庭电器用品，为已注册商标的公 司制造其产品，客户主要来自美国、加拿大、澳洲、欧洲及日本等地。集团的产品系列包括：环境系列产品、 电池、健康及个人护理产品、厨房用具和其他中、小型的家居电器用品等。 － 集团之核心业务已从生产低利润的小型家庭电器转移至利润较高的环境系列产品。"
     },
     {
       "market": "HK",
@@ -27283,7 +27522,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LEON INSPECTION"
+      "name_en": "LEON INSPECTION",
+      "business": "－ 集团主要从事提供能源和大宗商品检验与检测服务。 － 集团的服务包括： （１）检测服务：现场采集煤炭样本，并於实验室检测精制样品； （２）鉴定服务：包括水尺计重等鉴定服务，以确定或验证煤炭数量； （３）见证与辅助服务：观察客户交易方进行的检测及检验活动，监控交易流程的各个步骤，包括装卸、运输 、采制样和品质检测。 － 集团主要在中国及多个亚太国家开展业务。"
     },
     {
       "market": "HK",
@@ -27295,7 +27535,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GENFLEET-B"
+      "name_en": "GENFLEET-B",
+      "business": "－ 集团是一家生物制药公司，专注於开发肿瘤、自体免疫及炎症性疾病领域的治疗方案。 － 於2025年9月，集团的产品管线包括两款核心产品GFH925(用於治疗晚期非小细胞肺癌，并已在中 国获商业化批准及以「达伯特」品牌销售)及GFH375(用於治疗晚期非小细胞肺癌、胰腺导管腺癌及结 直肠癌)、四款临床开发阶段药物(包括用於治疗恶病质的GFS202A、用於…"
     },
     {
       "market": "HK",
@@ -27307,7 +27548,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "COURAGE INV"
+      "name_en": "COURAGE INV",
+      "business": "－ 集团於2005年10月在新加坡证券交易所上市。2011年6月，集团以介绍形式於香港联交所作双重第 一上市。2016年12月，集团将其於新加坡交易所上市地位由第一上市转为第二上市，并维持其於香港联 交所之第一上市地位。 － 集团主要从事海运服务、物业持有及投资，以及商品贸易。"
     },
     {
       "market": "HK",
@@ -27319,7 +27561,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BEIJING MEDIA"
+      "name_en": "BEIJING MEDIA",
+      "business": "－ 集团是中国的媒体公司，其主要广告媒介为《北京青年报》。集团其他核心业务还包括报章制作、印刷、印刷 相关物料贸易以及大型活动的筹办。"
     },
     {
       "market": "HK",
@@ -27331,7 +27574,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BRILLIANCE CHI"
+      "name_en": "BRILLIANCE CHI",
+      "business": "－ 集团主要从事制造及销售轻型客车、MPVs及汽车零部件。 － 集团主要业务为透过其主要合资企业华晨宝马汽车於中国制造及销售宝马汽车，并透过华晨雷诺制造及销售轻 型客车齐与多用途汽车(MPVs)，另从事制造及销售汽车零部件及提供汽车金融服务。"
     },
     {
       "market": "HK",
@@ -27343,7 +27587,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CR BLDG MAT TEC"
+      "name_en": "CR BLDG MAT TEC",
+      "business": "－ 集团的业务涵盖石灰石开采，以及水泥产品、熟料及混凝土的生产、销售及分销。水泥产品主要以「华润」及 「红水河」商标在广东、广西及福建地区进行销售。"
     },
     {
       "market": "HK",
@@ -27355,7 +27600,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BOQI ENV"
+      "name_en": "BOQI ENV",
+      "business": "－ 集团主要於中国经营以下四个业务分部： （１）烟气治理业务：包括环保设施工程(提供专案设计、设备及材料采购、专案建设及设备安装及测试服务 )、运营及维护(脱硫及脱硝设施及除尘设施的运营服务及常规维护服务)、特许经营业务(根据特许 经营协议进行基础设施建设或自授权人收购现有基础设施、於预定时间进行烟气治理项目运营与维护并 於期末向客户移交基础设施)及其…"
     },
     {
       "market": "HK",
@@ -27367,7 +27613,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CASABLANCA"
+      "name_en": "CASABLANCA",
+      "business": "－ 集团从事设计、生产及销售自家品牌「卡撒天娇」、「卡撒．珂芬」、「科思哲」及「Casatino」的 床上用品，并专注於高端及顶级市场。"
     },
     {
       "market": "HK",
@@ -27379,7 +27626,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SHUANGDENG"
+      "name_en": "SHUANGDENG",
+      "business": "－ 集团是大数据及通信领域能源存储业务的公司，主要从事研发、生产及销售铅酸电池产品(包括水玻璃垫电池 、胶体电池及铅碳电池)及锂离子电池产品(主要为磷酸铁锂电池，其产品线包括软包电池及方形铝壳电池) 。"
     },
     {
       "market": "HK",
@@ -27391,7 +27639,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SL GEMINI"
+      "name_en": "SL GEMINI",
+      "business": "－ 集团是一家主要在中国三北地区(山西、甘肃及内蒙)经营的跨省供热服务供应商，从事根据特许经营权向居 民及非居民供热服务客户提供供热服务(包括自热电厂采购的热能、燃煤锅炉产热、自热电厂回收的余热及地 热)，亦提供供热相关工程施工服务及合同能源管理(EMC)服务； － 截止2023年6月18日，集团持有六项特许经营权，其中五项已投入经营及一项在建，其中三…"
     },
     {
       "market": "HK",
@@ -27403,7 +27652,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DINGDANG HEALTH"
+      "name_en": "DINGDANG HEALTH",
+      "business": "－ 集团主要在中国经营数字零售药房，并通过线上平台(包括自营及第三方线上平台)、线上分销商及自家智慧 药房销售产品(包括非处方药、处方药及医疗健康产品)，亦通过自有的海南互联网医院及第三方互联网医院 提供在线诊疗服务。"
     },
     {
       "market": "HK",
@@ -27415,7 +27665,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TAIZHOU WATER"
+      "name_en": "TAIZHOU WATER",
+      "business": "－ 集团主要在浙江省台州市从事供水业务，包括原水供应及市政供水，亦会向终端用户销售自来水及提供供水管 道安装服务。"
     },
     {
       "market": "HK",
@@ -27427,7 +27678,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "NEO-NEON"
+      "name_en": "NEO-NEON",
+      "business": "－ 集团主要从事装饰及舞台灯具产品制造。产品销售予集团客户，以供其於美国、欧洲、亚洲及中国各地分销及 营销。"
     },
     {
       "market": "HK",
@@ -27439,7 +27691,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TONGDAO LIEPIN"
+      "name_en": "TONGDAO LIEPIN",
+      "business": "－ 集团主要於中国从事经营人才招聘服务的线上平台，包括： （１）企业用户：集团透过电脑客户端及手机应用程式猎聘通提供职位发布、简历搜索、人力资源内部协同工 具及企业网站设计等免费服务；该等客户亦可以虚拟货币购买定制人才服务，包括全景简历查看与下载 、招聘流程外包及猎头辅助的闭环招聘解决方案(其为猎头透过平台提供予企业客户的端对端人才招聘 服务)等； （…"
     },
     {
       "market": "HK",
@@ -27451,7 +27704,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SMIT"
+      "name_en": "SMIT",
+      "business": "－ 集团主要从事设计、开发及销售付费电视广播接收的安全装置(视密卡)，其主要分为家用视密卡(用於接收 加密的付费电视内容)及工程视密卡(用於同时为多频道的所有数据进行解码)，并以「SMIT」品牌售予 条件接收供应商、广播运营商及电视制造商。"
     },
     {
       "market": "HK",
@@ -27463,7 +27717,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "NSING TECH"
+      "name_en": "NSING TECH",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为300077。 － 集团是一家平台型集成电路设计公司，主要经营以下两项业务： （１）芯片产品业务：设计及销售MCU(微控制单元)产品(包括通用MCU、专业市场芯片及射频芯片) 及BMS(电池管理系统)芯片，并将整个制造流程(包括晶圆制造、封装和测试)外包给代工厂，产 品组合的应用范围涵盖消费电子、工业控制及数字…"
     },
     {
       "market": "HK",
@@ -27475,7 +27730,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SINOPHARM"
+      "name_en": "SINOPHARM",
+      "business": "－ 集团为中国的药品及保健品分销商及供应链服务供应商，并经营全国的药品分销网络。 － 集团主要从事向医院、其他分销商、零售药店及诊所等客户分销医药制品；向客户分销医疗器械，并提供安装 和维修服务；经营医药连锁店；分销实验室用品、制造及分销化学试剂、生产及销售医药制品。"
     },
     {
       "market": "HK",
@@ -27487,7 +27743,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ESTUN"
+      "name_en": "ESTUN",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002747。 － 集团主要从事研发、制造及销售工业机器人及智能制造系统，以及自动化核心部件及运动控制系统，品牌组合 包括自家品牌「Estun」及3个收购品牌「Cloos」、「Trio」及「M.A.i」。"
     },
     {
       "market": "HK",
@@ -27499,7 +27756,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "HENLIUS"
+      "name_en": "HENLIUS",
+      "business": "－ 集团於2019年9月由复星国际(00656)与旗下复星医药(02196)联合分拆上市。 － 集团为中国的生物制药公司，专注开发用於治疗肿瘤及自身免疫疾病的生物类似药及新药。 － 集团的总部位於中国上海。"
     },
     {
       "market": "HK",
@@ -27511,7 +27769,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MBV INTL"
+      "name_en": "MBV INTL",
+      "business": "－ 集团主要於马来西亚及新加坡从事采购、批发、生产及销售可印花服装及礼品产品。 － 集团的可印花服装以自家品牌「Oren Sport」出售，产品组合包括T恤衫、制服、夹克以及其他休 闲服务与配件(如穆斯林服装)，而礼品产品则以自家品牌「My Gift」出售，产品组合包括多种款式 的包及袋(如背包、手提电脑包与铅笔袋等)以及其他礼品(如餐饮器具、电子设备…"
     },
     {
       "market": "HK",
@@ -27523,7 +27782,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DAJIN"
+      "name_en": "DAJIN",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002487。 － 集团主要从事研发、制造及销售海上风电装备，包括单桩、过渡段、导管架、浮式基础以及塔筒，亦运营风力 及光伏发电项目，以及设计及建造船舶。"
     },
     {
       "market": "HK",
@@ -27535,7 +27795,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TIAN AN"
+      "name_en": "TIAN AN",
+      "business": "－ 集团主要从事在中国开发住宅、别墅、办公楼及商用物业，物业投资及物业管理，以及在香港之物业投资及物 业管理，亦投资及经营医院、护老及康养相关业务。"
     },
     {
       "market": "HK",
@@ -27547,7 +27808,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LONGBIO-B"
+      "name_en": "LONGBIO-B",
+      "business": "－ 集团是一家临床阶段生物制药公司，主要专注於针对过敏性及自身免疫性疾病的生物药物的自主发现与开发， 并通过两个自主研发的技术平台(即高亲和力抗体发现平台及双功能抗体开发平台)构建了针对鼻科、皮肤科 、呼吸科、血液科、肾脏科及其他自身免疫性疾病的综合性生物制剂产品管线，包括： （１）LP-003：其为集团的核心产品，是一种具有新型序列设计的抗免疫球蛋白…"
     },
     {
       "market": "HK",
@@ -27559,7 +27821,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TAI HING GROUP"
+      "name_en": "TAI HING GROUP",
+      "business": "－ 集团主要在香港、中国内地、澳门及台湾从事餐厅营运，以及食品销售业务。 － 集团旗下品牌包括旗舰品牌「太兴」(提供港式风味菜式)、「茶木」(供应台式美食及甜品)、「靠得住」 (供应各式粥、面、糉等传统中菜)、「敏华冰厅」(香港冰室)、「锦丽」(面档)、「星记海鲜饭店」、 「Tommy Yummy」(提供泰式风味菜色及甜品)、「饺子駅」、「饭规」(自助…"
     },
     {
       "market": "HK",
@@ -27571,7 +27834,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JUJIANG CONS"
+      "name_en": "JUJIANG CONS",
+      "business": "－ 集团主要於中国从事以下业务： （１）建筑工程承包：为核心业务，主要作为总承包商为住宅、商业、工业建筑项目以及公建工程项目(体育 设施、学校及医院)提供服务，包括建筑施工、地基工程、幕墙施工、建筑装饰及消防工程等； （２）设计、勘察及谘询：提供通用建筑设计服务、智能楼宇系统设计服务、照明工程设计服务、消防工程设 计服务及轻钢结构设计服务；及 （３）人…"
     },
     {
       "market": "HK",
@@ -27583,7 +27847,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KANGLI INT HLDG"
+      "name_en": "KANGLI INT HLDG",
+      "business": "－ 集团主要从事制造及销售冷轧钢产品，包括轧硬卷、非彩涂镀锌产品及彩涂镀锌产品。 － 轧硬卷是透过对已经过酸洗程序去除杂质的热轧钢卷进行冷轧而制成，可应用於生产电热水器。"
     },
     {
       "market": "HK",
@@ -27595,7 +27860,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PLAYMATES TOYS"
+      "name_en": "PLAYMATES TOYS",
+      "business": "－ 集团於2008年2月由彩星集团(00635)以介绍形式分拆上市，以从事设计、开发、市场推广及分销 各式各类之创新品牌玩具，产品畅销全球五十多个国家。"
     },
     {
       "market": "HK",
@@ -27607,7 +27873,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PLAYMATES"
+      "name_en": "PLAYMATES",
+      "business": "－ 集团主要从事玩具及家庭娱乐活动产品之设计、研发、市场推广及分销；物业投资及管理业务。"
     },
     {
       "market": "HK",
@@ -27619,7 +27886,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MICROTECH MED-B"
+      "name_en": "MICROTECH MED-B",
+      "business": "－ 集团主要从事糖尿病管理医疗器械及耗材的研发、生产及商业化。於2021年10月，集团的自主开发产品 及在研产品包括： （１）Equil：为核心产品，其为直接佩戴在身上的无导管贴敷式泵，将泵送装置和输液装置整合入一个 可佩戴的小盒子内，产品包含可重复使用部件(贴敷式泵及自主设计的无线便携式糖尿病助手)及一次 性耗材(一次性胰岛素储药器及一次性输液装置)…"
     },
     {
       "market": "HK",
@@ -27631,7 +27899,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ANTENGENE-B"
+      "name_en": "ANTENGENE-B",
+      "business": "－ 集团是一家专注於创新抗肿瘤药物的亚太地区临床阶段生物制药公司。 － 於2020年10月，集团的产品管线如下： （１）ATG-010为集团核心产品之一，通过与Karyopharm订立的许可协议，集团可於中国内 地、台湾、香港、澳门、韩国、文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡 、泰国、越南、澳大利亚及新西兰对其进行开发及商业化…"
     },
     {
       "market": "HK",
@@ -27643,7 +27912,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SCIENTECH"
+      "name_en": "SCIENTECH",
+      "business": "－ 集团主要从事研发、制造及销售心脏病介入医疗器械，并於上海设有生产设施。 － 集团於上海及北京建立研发中心，并出口产品至俄罗斯、巴西、印尼、印度、哥伦比亚、巴基斯坦、埃及、哈 萨克斯坦及意大利等海外市场。"
     },
     {
       "market": "HK",
@@ -27655,7 +27925,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "EG LEASING"
+      "name_en": "EG LEASING",
+      "business": "－ 集团业务分部如下： （１）融资租赁：融资租赁谘询服务及融资服务； （２）投资：物业投资、证券投资及放贷； （３）分销：销售医疗保健、卫生产品及日用品； （４）生产：研发、生产及销售食品添加剂、新食品原料及营养强化剂。"
     },
     {
       "market": "HK",
@@ -27667,7 +27938,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZHAOJIN MINING"
+      "name_en": "ZHAOJIN MINING",
+      "business": "－ 集团主要从事勘探、开采、选矿、冶炼及销售黄金及其他金属产品，主要产品为标准金锭(9999金及 9995金)。"
     },
     {
       "market": "HK",
@@ -27679,7 +27951,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MOBI DEV"
+      "name_en": "MOBI DEV",
+      "business": "－ 集团为中国少数一站式无线通信天线及基站射频子系统供应商之一。产品组合可分为三大组别：天线系统、基 站射频子系统及覆盖延伸方案，是移动通信覆盖系统的必需零件。"
     },
     {
       "market": "HK",
@@ -27691,7 +27964,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "NEW SILKROAD"
+      "name_en": "NEW SILKROAD",
+      "business": "－ 集团主要於中国从事生产及销售自家品牌之葡萄酒、青稞酒及中国白酒；开发及经营房地产、文化旅游业务； 及提供物业管理服务。"
     },
     {
       "market": "HK",
@@ -27703,7 +27977,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XINTE ENERGY"
+      "name_en": "XINTE ENERGY",
+      "business": "－ 集团是太阳能级多晶硅生产商和光伏项目承包商，主要从事中国光伏产业上游和下游环节的业务。"
     },
     {
       "market": "HK",
@@ -27715,7 +27990,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XINXIN MINING"
+      "name_en": "XINXIN MINING",
+      "business": "－ 集团为中国第二大使用硫化镍资源生产电解镍的生产商，从事镍、铜及其他有色金属的采矿、选矿、冶炼、精 炼及销售。"
     },
     {
       "market": "HK",
@@ -27727,7 +28003,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "HAOHAI BIOTEC"
+      "name_en": "HAOHAI BIOTEC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为688366。 － 集团主要於中国从事制造及销售医用透明质酸及生物制剂、生物工程及药品研发，以及提供相关服务，专注於 医用可吸收生物材料市场的治疗领域包括骨科、防黏连及止血、眼科和创面护理及组织填充。"
     },
     {
       "market": "HK",
@@ -27739,7 +28016,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "STAR CM"
+      "name_en": "STAR CM",
+      "business": "－ 集团主要透过合约安排在中国从事综艺节目、音乐、剧集及电影的知识产权(IP)运营及授权，以及其他 IP相关业务。"
     },
     {
       "market": "HK",
@@ -27751,7 +28029,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SIM TECH"
+      "name_en": "SIM TECH",
+      "business": "－ 集团主要从事手机ODM(原厂委托设计代工)及物联网终端业务；电子制造服务(EMS)业务；以及物业 租赁管理业务。"
     },
     {
       "market": "HK",
@@ -27763,7 +28042,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SOLOMON SYSTECH"
+      "name_en": "SOLOMON SYSTECH",
+      "business": "－ 集团乃一间无晶圆厂半导体公司，主要从事设计、开发及销售专有集成电路晶片产品及系统解决方案业务。 － 集团的产品及方案可供应用於智能手机、平板电脑、电视╱显示器、笔记本电脑以及其他智能产品。"
     },
     {
       "market": "HK",
@@ -27775,7 +28055,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "AI ENERGY ENG"
+      "name_en": "AI ENERGY ENG",
+      "business": "－ 集团主要以分包商身份於香港及澳门从事混凝土拆卸工程，透过采用钻取土芯、切割及钳碎等方法移除混凝土 结构物的混凝土块、组件，及拆卸整个混凝土结构物或建筑物。服务应用於加建及改建工程，以及楼宇、道路 、隧道及地下设施的重建项目。 － 集团的客户主要为香港建筑与土木工程项目及澳门建筑工程项目的总承建商。"
     },
     {
       "market": "HK",
@@ -27787,7 +28068,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XIZHI TECH-P"
+      "name_en": "XIZHI TECH-P",
+      "business": "－ 集团专注於光电混合算力领域，并基於片上光网络(oNOC)、片间光网络(oNET)及光子矩阵计算( oMAC)三大核心芯片技术，提供以光互连及光计算为核心、以自研光电混合芯片技术为支撑的产品及解决 方案组合。"
     },
     {
       "market": "HK",
@@ -27799,7 +28081,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GROWN UP GROUP"
+      "name_en": "GROWN UP GROUP",
+      "business": "－ 集团主要从事设计、开发、制造及销售背包及行李箱产品，客户遍布中国、北美、欧洲(包括荷兰、德国、丹 麦及法国)、中东(包括阿拉伯联合酋长国及伊拉克)及新加坡、南韩、澳洲、菲律宾、秘鲁及智利等地。"
     },
     {
       "market": "HK",
@@ -27811,7 +28094,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WING LEE PPT"
+      "name_en": "WING LEE PPT",
+      "business": "－ 集团由永利控股(00876)分拆上市，从事物业投资业务，主要为租赁位於香港的已建成商业及住宅物业 ，尤其注重於商业零售物业及整幢楼房或楼宇作长期投资。商业物业主要包括商业用途之零售舖位。"
     },
     {
       "market": "HK",
@@ -27823,7 +28107,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WING TAI PPT"
+      "name_en": "WING TAI PPT",
+      "business": "－ 集团专注於亚洲物业及服务式住宅之发展，并以永泰亚洲及Lanson Place品牌发展、投资及管理 多元化的物业组合，包括住宅、商业、服务式公寓及精品酒店等。"
     },
     {
       "market": "HK",
@@ -27835,7 +28120,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "IMMUNOTECH-B"
+      "name_en": "IMMUNOTECH-B",
+      "business": "－ 集团是中国一家细胞免疫治疗生物医药公司，专注於T细胞免疫治疗的研发及商业化。 － 集团的产品管线涵盖实体瘤治疗(如EAL及TCR-T细胞)及血液癌症(CAR-T细胞)。"
     },
     {
       "market": "HK",
@@ -27847,7 +28133,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PEIJIA-B"
+      "name_en": "PEIJIA-B",
+      "business": "－ 集团主要在中国从事介入手术医疗器械业务，包括研发经导管瓣膜治疗医疗器械及神经介入手术医疗器械。经 导管瓣膜治疗医疗器械指通过将人造瓣膜通过动脉植入的心血管介入技术以治疗瓣膜性心脏病的医疗器械。神 经介入手术医疗器械指利用血管内介入技术治疗神经血管疾病的医疗器械。"
     },
     {
       "market": "HK",
@@ -27859,7 +28146,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TAILAM TECHCON"
+      "name_en": "TAILAM TECHCON",
+      "business": "－ 集团主要在中国从事制造及销售PHC管桩(预应力高强度混凝土管桩，为卷筒管桩的一部分)、陶粒混凝土 板及商品混凝土。"
     },
     {
       "market": "HK",
@@ -27871,7 +28159,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZHEJIANG SHIBAO"
+      "name_en": "ZHEJIANG SHIBAO",
+      "business": "－ 集团股份亦在深圳交易所上市，编号为002703。 － 集团主要於中国从事设计、制造及销售汽车转向器及相关元件。"
     },
     {
       "market": "HK",
@@ -27883,7 +28172,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DCWT"
+      "name_en": "DCWT",
+      "business": "－ 集团主要业务包括： （１）污水处理：在特许经营权安排下设计、建设及╱或运营污水处理设施。"
     },
     {
       "market": "HK",
@@ -27895,7 +28185,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SEA HOLDINGS"
+      "name_en": "SEA HOLDINGS",
+      "business": "－ 集团主要於香港、澳洲及英国从事物业投资、物业发展、酒店营运及金融投资。"
     },
     {
       "market": "HK",
@@ -27907,7 +28198,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ENVIRO ENERGY"
+      "name_en": "ENVIRO ENERGY",
+      "business": "－ 集团主要从事建筑材料贸易业务及物业投资。"
     },
     {
       "market": "HK",
@@ -27919,7 +28211,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "REALWAY CAPITAL"
+      "name_en": "REALWAY CAPITAL",
+      "business": "－ 集团主要於中国从事基金及投资管理业务，投资组合涵盖商业不动产项目、不良资产项目及城市化及重新开发 项目。"
     },
     {
       "market": "HK",
@@ -27931,7 +28224,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BAIYUNSHAN PH"
+      "name_en": "BAIYUNSHAN PH",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600332。 － 集团业务分部如下： （１）大南药分部：研究、开发、制造和销售中西成药、化学原料药、天然药物、生物医药和化学原料药中间 体； （２）大健康分部：研究、开发、制造和销售饮料、食品、保健品等产品； （３）大商业分部：批发、零售和进出口西药、中药和医疗器械。"
     },
     {
       "market": "HK",
@@ -27943,7 +28237,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SUNLIT SCI"
+      "name_en": "SUNLIT SCI",
+      "business": "－ 集团是中国钢丝制品生产整体解决方案提供商，并以自有品牌「盛力达」销售产品。集团根据客户的特定生产 要求设计及制造钢丝产品生产线的设备及机器，以及提供相关安装、调试、设备改造及维修保养服务。"
     },
     {
       "market": "HK",
@@ -27955,7 +28250,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KEYTOP PARKING"
+      "name_en": "KEYTOP PARKING",
+      "business": "－ 集团为智慧停车空间运营商，业务分类如下： （１）数智化停车系统：覆盖封闭车场端到端解决方案、路内停车收费系统、人行管理系统及多车场管理系统 ，收益主要来自硬件产品销售、实施服务、SaaS安排及服务型保修服务，当中实施服务包括现场施 工、硬件安装、软件部署与调试以及客户培训； （２）数智化停车管理服务：通过部署及运营集团的专有数智化停车硬件产品及云端…"
     },
     {
       "market": "HK",
@@ -27967,7 +28263,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SMART GLOBE"
+      "name_en": "SMART GLOBE",
+      "business": "－ 集团主要从事图书、纸品套装及包装产品的印刷服务。图书产品涵盖各类书籍、学术期刊及辞典等。"
     },
     {
       "market": "HK",
@@ -27979,7 +28276,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KINERGY"
+      "name_en": "KINERGY",
+      "business": "－ 集团主要以OEM模式为半导体制造商生产子系统(料盒处理器、工件固定器及滑块)、成套机器(划片机、 研磨机、升降机及抛光机)及部件(乾泵及机盒)，以及提供保修期後维护及调试服务。"
     },
     {
       "market": "HK",
@@ -27991,7 +28289,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ZIJIN MINING"
+      "name_en": "ZIJIN MINING",
+      "business": "－ 集团主要是在中国从事黄金及有色金属勘探、开发和销售，并以黄金生产为主的大型综合性矿业集团。 － 於2003年12月，集团在港交所挂牌上市，为首家境外上市的国内黄金生产企业，并於2008年4月在 上交所上市，股票代码为601899。"
     },
     {
       "market": "HK",
@@ -28003,7 +28302,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GREENTOWN SER"
+      "name_en": "GREENTOWN SER",
+      "business": "－ 集团为中国高端住宅物业服务供应商，提供以下三类服务： （１）物业管理服务：包括保安服务、保洁及园艺服务，以及物业维修及保养服务； （２）顾问谘询服务：包括在建物业服务(示范单位管理服务及建筑工地保安服务)及管理谘询服务(於项目 设计及开发阶段提供物业开发谘询服务，以及於物业交付後提供各种物业管理谘询服务)； （３）园区增值服务：包括园区产品及服务(…"
     },
     {
       "market": "HK",
@@ -28015,7 +28315,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CONCORD HC GP"
+      "name_en": "CONCORD HC GP",
+      "business": "－ 集团主要於中国经营以下两个业务分部： （１）医院服务：通过自营医疗机构提供肿瘤医疗服务，包括筛查、诊断、治疗及治疗後健康管理，并於 2021年5月推出互联网医院，其主要提供远程医院预约、诊断解释、MDT会诊、治疗後健康管理 及肿瘤相关指导等服务； （２）医用设备、软件及相关服务：主要向客户(包括合作医院、其他医疗机构及医疗企业及分销商)提供各 类医…"
     },
     {
       "market": "HK",
@@ -28027,7 +28328,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MEILAN AIRPORT"
+      "name_en": "MEILAN AIRPORT",
+      "business": "－ 集团经营中国海南省海口市海南美兰国际机场内的航空及非航空业务，航空业务包括提供航站楼设施、地勤服 务以及旅客和货物处理服务；非航空业务则包括出租海口美兰国际机场的商业及零售铺位、机场相关业务特许 经营、广告位、停车场、旅游服务及出售免税商品及消费品。 － 集团股东包括海口美兰国际机场、海南航空股份、海航集团、香港东英资源投资等四家。"
     },
     {
       "market": "HK",
@@ -28039,7 +28341,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "USAS BUILDING"
+      "name_en": "USAS BUILDING",
+      "business": "－ 集团主要从事预制钢结构建筑分包服务、专业工程总包，以及工业环保装备。 － 预制钢结构建筑分包服务包括项目设计和优化、采购、生产、现场安装以及质量保证，其中集团专注於私营部 门的项目，以工业领域为主。"
     },
     {
       "market": "HK",
@@ -28051,7 +28354,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SHENGLI PIPE"
+      "name_en": "SHENGLI PIPE",
+      "business": "－ 集团主要从事生产用於石油行业及基础设施行业的螺旋缝埋弧焊管及直缝埋弧焊管；以及焊管商品贸易。"
     },
     {
       "market": "HK",
@@ -28063,7 +28367,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LENS"
+      "name_en": "LENS",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为300433。 － 集团主要为消费电子、智能汽车及其他新兴领域提供精密制造解决方案，包括各种结构件、功能模组、整机组 装等。"
     },
     {
       "market": "HK",
@@ -28075,7 +28380,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ADTIGER CORP"
+      "name_en": "ADTIGER CORP",
+      "business": "－ 集团主要向中国客户提供海外线上广告服务。 － 集团向客户提供用户获取服务，包括於媒体发布商平台开设广告主帐户、充值、广告设计、广告优化及广告活 动整体管理等。其中，集团策略性地重点覆盖的媒体发布商包括脸书(Facebook)、谷歌 (Google)、Snapchat、推特(Twitter)及雅虎。"
     },
     {
       "market": "HK",
@@ -28087,7 +28393,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BEKE-W"
+      "name_en": "BEKE-W",
+      "business": "－ 集团的美国存托股份亦在纽交所上市。 － 集团采用不同投票权架构，股本分为A类股份及B类股份，除保留事项外，每股A类股份持有人可於股东大会 的任何决议案投一票，而B类股份持有人则每股可投10票。"
     },
     {
       "market": "HK",
@@ -28099,7 +28406,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "QUNABOX GROUP"
+      "name_en": "QUNABOX GROUP",
+      "business": "－ 集团是一家专注於快速消费品(包括饮料、食品、日用品及化妆品)户外营销的中国营销服务提供商，并已开 发具互动营销功能(包括气味散发、动作识别及语音交互)的自动贩卖机。"
     },
     {
       "market": "HK",
@@ -28111,7 +28419,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "HIGH FASHION"
+      "name_en": "HIGH FASHION",
+      "business": "－ 集团於1978年成立，主要从事成衣制造、零售及贸易，以及物业投资及发展。"
     },
     {
       "market": "HK",
@@ -28123,7 +28432,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XUNCE"
+      "name_en": "XUNCE",
+      "business": "－ 集团主要於是中国提供实时数据基础设施及分析解决方案，客户涵盖资产管理(如保险公司、共同基金、银行 资产管理部门、证券公司、企业财资及家族办公室等)、金融服务(资产管理除外)、城市管理、制造管理及 电信等多个行业。"
     },
     {
       "market": "HK",
@@ -28135,7 +28445,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FE HLDGS INTL"
+      "name_en": "FE HLDGS INTL",
+      "business": "－ 集团主要从事短期证券投资及物业投资。"
     },
     {
       "market": "HK",
@@ -28147,7 +28458,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MEMESTRATEGY"
+      "name_en": "MEMESTRATEGY",
+      "business": "－ 集团主要从事物联网应用数据传输及处理服务；研究、开发及销售通信设备；文化藏品投资及开发；以及第三 代互联网与区块链业务。"
     },
     {
       "market": "HK",
@@ -28159,7 +28471,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TUHU-W"
+      "name_en": "TUHU-W",
+      "business": "－ 集团采用不同投票权架构，股本由A类股份及B类股份组成，除保留事项(包括更改任何类别的股份附带的权 利；委任、选举或罢免独立非执行董事；委聘或罢免本公司核数师；以及集团自愿解散或清盘)外，每股A类 股份持有人可於股东大会的任何决议案投一票，而B类股份持有人则每股可投10票。"
     },
     {
       "market": "HK",
@@ -28171,7 +28484,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DAOHE GLOBAL"
+      "name_en": "DAOHE GLOBAL",
+      "business": "－ 集团主要从事贸易及供应链管理服务，以及经营网上社交平台。"
     },
     {
       "market": "HK",
@@ -28183,7 +28497,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KIMOU ENVIRON"
+      "name_en": "KIMOU ENVIRON",
+      "business": "－ 集团主要在中国从事工业园区物业发展及管理业务、提供电镀废水处理及公用事业服务；销售货品及原材料； 以及提供其他相关环境服务。"
     },
     {
       "market": "HK",
@@ -28195,7 +28510,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FIN STREET SEC"
+      "name_en": "FIN STREET SEC",
+      "business": "－ 集团以「恒泰证券股份有限公司」於国内开展业务，惟因名字与另一间香港公司相似，故以「恒投证券」在香 港经营业务。"
     },
     {
       "market": "HK",
@@ -28207,7 +28523,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KINGDOM HOLDING"
+      "name_en": "KINGDOM HOLDING",
+      "business": "－ 集团的主要业务为生产及销售亚麻纱。集团之海外客户主要包括欧盟国及其他国家，包括韩国、印度、俄罗斯 及土耳其。"
     },
     {
       "market": "HK",
@@ -28219,7 +28536,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DRINDA"
+      "name_en": "DRINDA",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002865。 － 集团主要从事光伏电池的研发、生产及销售业务，产品主要为隧穿氧化层钝化接触电池(N型TOPCon电 池)。 － 截至2024年12月31日，集团共有2个生产基地，分别位於安徽滁州及江苏淮安，N型TOPCon电 池年化产能约44.4 GW。 － 集团的客户主要为中国的光伏组件制造商。"
     },
     {
       "market": "HK",
@@ -28231,7 +28549,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "IRC"
+      "name_en": "IRC",
+      "business": "－ 集团主要於俄罗斯开采及加工钛磁铁矿及钛铁精矿，产品销售至中国及俄罗斯。"
     },
     {
       "market": "HK",
@@ -28243,7 +28562,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JXR"
+      "name_en": "JXR",
+      "business": "－ 集团主要在中国及美国透过合约安排从事经营及管理辅助生殖医疗机构，以提供辅助生殖服务、管理服务，以 及辅助医疗服务。 － 辅助生殖服务方面，集团主要为患者提供两种治疗方案，即人工授精及IVF(体外受精)技术。 － 辅助医疗服务方面，集团於深圳中山泌尿外科医院提供妇科、泌尿外科及内科等领域的医疗服务。"
     },
     {
       "market": "HK",
@@ -28255,7 +28575,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XINDA INV HLDGS"
+      "name_en": "XINDA INV HLDGS",
+      "business": "－ 集团主要从事提供智慧能源解决方案及开发光伏太阳能电站，亦从事公建建设业务。"
     },
     {
       "market": "HK",
@@ -28267,7 +28588,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GPIXEL"
+      "name_en": "GPIXEL",
+      "business": "－ 集团主要从事CMOS(互补金属氧化物半导体)图像传感器的设计、开发、测试及销售。"
     },
     {
       "market": "HK",
@@ -28279,7 +28601,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "YOFC"
+      "name_en": "YOFC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601869。 － 集团主要从事生产及销售光纤预制棒、光纤、光缆、光器件及模块和其他相关产品。"
     },
     {
       "market": "HK",
@@ -28291,7 +28614,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "YURUN FOOD"
+      "name_en": "YURUN FOOD",
+      "business": "－ 集团主要於中国从事生产及供应冷鲜肉和冷冻肉，以及猪肉制品为主的深加工肉制品，并以「福润」、「雨 润」、「旺润」及「大众肉联」等品牌在市场销售。集团提供之肉制产品可分为以下两类： （１）冷鲜肉及冷冻肉：冷鲜肉及冷冻肉分部进行屠宰、生产及销售冷鲜肉及冷冻肉业务； （２）深加工肉制品：深加工肉制品分部生产及销售深加工肉制品。"
     },
     {
       "market": "HK",
@@ -28303,7 +28627,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CAPITAL ENV"
+      "name_en": "CAPITAL ENV",
+      "business": "－ 集团从事废物处理及废物转化能源业务：投资、工程项目、采购设备，并於中国一级城市从事废物处理及废物 发电设施的运作及保养，主要以建造-营运-转让(BOT)基准运作，其特许期为25年至30年。"
     },
     {
       "market": "HK",
@@ -28315,7 +28640,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FIRST CAP GP"
+      "name_en": "FIRST CAP GP",
+      "business": "－ 集团主要从事销售汽车减振器及悬架系统产品、提供金融及顾问服务，以及提供教育营运与管理及谘询服务。"
     },
     {
       "market": "HK",
@@ -28327,7 +28653,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LEADWAY TECH"
+      "name_en": "LEADWAY TECH",
+      "business": "－ 集团专门设计、制造及销售智能咭产品，主要包括智能咭读写器以及智能咭及智能咭操作系统(统称「ACS 产品」)。ACS产品可分为「标准」产品(包括须外壳修改、附加标识及较轻微改动等需要进行少量订制工 作之产品)，及订制产品。"
     },
     {
       "market": "HK",
@@ -28339,7 +28666,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DT CAPITAL"
+      "name_en": "DT CAPITAL",
+      "business": "－ 集团主要业务为具备盈利增长及资本增值潜力之联交所上市证券及非上市投资项目。投资组合主要包括香港上 市证券。"
     },
     {
       "market": "HK",
@@ -28351,7 +28679,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LUNG KEE"
+      "name_en": "LUNG KEE",
+      "business": "－ 集团主要从事制造及销售模架及相关产品，亦提供企业管理服务。"
     },
     {
       "market": "US",
@@ -32731,7 +33060,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "AIM VACCINE"
+      "name_en": "AIM VACCINE",
+      "business": "－ 集团是中国的疫苗公司，主要从事人用疫苗产品的研发、生产及商业化，并拥有涵盖全球全部5种经验证的人 用疫苗平台技术，即细菌疫苗平台技术、病毒疫苗平台技术、基因工程疫苗平台技术、联合疫苗平台技术及 mRNA疫苗平台技术。"
     },
     {
       "market": "CN",
@@ -34267,7 +34597,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KEEP"
+      "name_en": "KEEP",
+      "business": "－ 集团为一个以交付为导向的平台，为用户提供全面的健身解决方案，以帮助用户实现其健身目标，包括自有品 牌产品、会员订阅及线上付费内容，以及广告及其他服务； － 集团的产品包括线上健身内容(包括录播课和直播课)、智能健身设备(包括智能单车、手环、体重秤及跑步 机)，以及配套运动产品(包括瑜伽垫、哑铃、运动服、护具和其他健身配件)。"
     },
     {
       "market": "HK",
@@ -34279,7 +34610,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "Q TECH"
+      "name_en": "Q TECH",
+      "business": "－ 集团主要从事摄像头模组及指纹识别模组的设计、研发、制造及销售业务。"
     },
     {
       "market": "HK",
@@ -34291,7 +34623,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TK GROUP HLDG"
+      "name_en": "TK GROUP HLDG",
+      "business": "－ 集团乃中国的一站式注塑解决方案供应商，主要从事注塑模具的设计及制作及注塑组件的机械设计及制造业务 ，以及提供二次加工服务。"
     },
     {
       "market": "HK",
@@ -34303,7 +34636,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CNGR"
+      "name_en": "CNGR",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为300919。 － 集团是一家新能源材料公司，主要从事以pCAM(正极活性材料前驱体)为核心的新能源电池材料及新能源 金属产品的研发、生产及销售。"
     },
     {
       "market": "HK",
@@ -34315,7 +34649,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CH INNOVATION"
+      "name_en": "CH INNOVATION",
+      "business": "－ 集团於2002年8月在香港交易所上市，主要投资位於香港及中国之上市及非上市之优质军民融合企业，争 取在所投企业资产证券化过程中，获取短期及中期资本增值，并以此作为主要经营策略和收益来源。"
     },
     {
       "market": "HK",
@@ -34327,7 +34662,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TRAVELSKY TECH"
+      "name_en": "TRAVELSKY TECH",
+      "business": "－ 集团之资讯服务及网络管理解决方案之目标市场为中国航空客运及旅游行业，其中包括： （一）电子旅游分销系统(ETD)： １﹒可让分销代理人及其他用户利用计算机查询、定价、比较及购买旅游供应商的产品，特别是航班座 位； ２﹒为中国25家商营航空公司及澳门航空公司提供存货管理及航班预订系统，是中国向商营航空公司 提供供应管理解决方案之唯一供应商，亦为唯一向…"
     },
     {
       "market": "HK",
@@ -34339,7 +34675,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CH OVS G OCEANS"
+      "name_en": "CH OVS G OCEANS",
+      "business": "－ 集团之主要业务将维持作房地产发展，及於中国内地进行投资，并透过运用中国海外发展之房地产投资、发展 及项目管理专长，建立集团在中国之平台。"
     },
     {
       "market": "HK",
@@ -34351,7 +34688,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CSSC SHIPPING"
+      "name_en": "CSSC SHIPPING",
+      "business": "－ 集团主要提供船舶租赁服务(包括融资租赁及经营租赁)，亦提供船舶经纪及贷款服务(包括交付前贷款、担 保贷款及保理服务)，客户通常包括船舶营运商、造船厂及贸易公司。"
     },
     {
       "market": "HK",
@@ -34363,7 +34701,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA CRSC"
+      "name_en": "CHINA CRSC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为688009。 － 集团的控股股东中国铁路通信信号集团公司为国资委监管之国有企业。"
     },
     {
       "market": "HK",
@@ -34375,7 +34714,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SINOLIFE UTD"
+      "name_en": "SINOLIFE UTD",
+      "business": "－ 集团为中国一家营养膳食补充剂零售商，以「中生」及「康培尔」品牌系列经营零售店。"
     },
     {
       "market": "HK",
@@ -34387,7 +34727,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LDROBOT"
+      "name_en": "LDROBOT",
+      "business": "－ 集团是以视觉感知为核心的机器人公司，产品组合包括以下类别： （１）视觉感知产品：包括传感器(直接飞行时间激光雷达、三角测量激光雷达、固态线性激光雷达、点激光 测传感器、固态线性激光雷达、超声波传感器及四目矩阵传感器模组)及算法模组(通过算法模组与传 感器相结合，集团提供多种机械人空间感知解决方案，如AI感知方案、智能惯导方案及标准激光传感 器方案等…"
     },
     {
       "market": "HK",
@@ -34399,7 +34740,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "VIEWTRIX TECH"
+      "name_en": "VIEWTRIX TECH",
+      "business": "－ 集团主要从事研发、设计及销售OLED(有机发光二极管)显示驱动芯片，包括应用於智能手机的 AMOLED显示驱动芯片及主要针对AR/VR设备的Micro-OLED显示背板╱驱动。"
     },
     {
       "market": "HK",
@@ -34411,7 +34753,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "VPOWER GROUP"
+      "name_en": "VPOWER GROUP",
+      "business": "－ 集团业务分为两个分部： （１）SI业务：利用自主系统设计及集成能力去设计、集成及销售燃气及燃柴油发动机式发电机组与发电系 统；发电机组及发电系统配备主要来自德国发动机制造商MTU Friedrichshafen， 及发动机制造、建设及采矿设备公司Komatsu；客户包括工业级及电力级分布式发电站、政府、 住宅及商业楼宇、数据中心、酒店、建筑工程、采…"
     },
     {
       "market": "HK",
@@ -34423,7 +34766,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KAISA PROSPER"
+      "name_en": "KAISA PROSPER",
+      "business": "－ 集团於2018年12月由佳兆业集团(01638)分拆上市，并主要於中国提供以下四项服务： （１）物业管理服务：提供秩序维护、清洁及园艺、维修及维护，以及客户服务等，物业管理组合涵盖住宅物 业、商用物业、写字楼、表演场地和体育馆、政府建筑物、公共设施及工业园； （２）交付前及顾问服务：於物业交付前向物业开发商提供建筑工地管理以及示范单位及物业销售场地…"
     },
     {
       "market": "HK",
@@ -34435,7 +34779,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JIAXIN INTL RES"
+      "name_en": "JIAXIN INTL RES",
+      "business": "－ 集团是紮根於哈萨克斯坦的钨矿公司，专注於开发巴库塔钨矿，并拥有巴库塔钨矿的独家采矿权，采矿区域为 1.16平方公里，允许在地表以下开采最大深度300米，期限由2015年6月2日起至2040年6月 2日，为期25年。"
     },
     {
       "market": "HK",
@@ -34447,7 +34792,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ASYMCHEM"
+      "name_en": "ASYMCHEM",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002821。 － 集团主要作为合同研发生产组织(CDMO)，提供外包药物开发及生产的解决方案与服务，服务涵盖临床前 研究、临床试验、NDA备案到商业化生产阶段。"
     },
     {
       "market": "HK",
@@ -34459,7 +34805,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CIG"
+      "name_en": "CIG",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为603083。 － 集团主要从事设计、开发及销售连接及数据传输设备。"
     },
     {
       "market": "HK",
@@ -34471,7 +34818,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KINETIC DEV"
+      "name_en": "KINETIC DEV",
+      "business": "－ 集团致力於建设及开发内蒙大饭铺煤矿，目标是成为具有开采、洗选、装运及仓储能力的中国领先民营综合煤 炭供应商。"
     },
     {
       "market": "HK",
@@ -34483,7 +34831,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JACOBIO-B"
+      "name_en": "JACOBIO-B",
+      "business": "－ 集团是一家临床阶段制药公司，专注於创新肿瘤疗法。於2022年12月，集团的产品管线如下： （１）临床阶段SHP2组合药物JAB-3312：首名患者已於2022年5月给药，首次给药层面就首 名入组NSCLC患者观察到局部反应。"
     },
     {
       "market": "HK",
@@ -34495,7 +34844,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SHIYUE DAOTIAN"
+      "name_en": "SHIYUE DAOTIAN",
+      "business": "－ 集团主要在中国以「十月稻田」、「柴火大院」及「福享人家」等品牌从事生产及销售厨房主食食品。"
     },
     {
       "market": "HK",
@@ -34507,7 +34857,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ISP HOLDINGS"
+      "name_en": "ISP HOLDINGS",
+      "business": "－ 集团於1978年成立，为新昌集团旗下企业，主要於香港、中国内地及澳门提供物业管理及设施管理服务、 室内装饰及特殊项目业务。"
     },
     {
       "market": "HK",
@@ -34519,7 +34870,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINARES PHARMA"
+      "name_en": "CHINARES PHARMA",
+      "business": "－ 集团的控股股东是中国华润总公司，为国有企业。 － 集团主要於中国以「三九」(又称「999」)、「双鹤」、「赛科」、「紫竹」、「东阿阿胶」及「天和」 等商标从事研发、制造、分销及零售医药与其他营养保健品。"
     },
     {
       "market": "HK",
@@ -34531,7 +34883,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TONGCHENGTRAVEL"
+      "name_en": "TONGCHENGTRAVEL",
+      "business": "－ 集团主要於中国提供旅游相关服务，包括交通票务(提供机票、火车票、汽车票及船票预订服务以及旅游保险 )及住宿预订服务。"
     },
     {
       "market": "HK",
@@ -34543,7 +34896,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ABBISKO-B"
+      "name_en": "ABBISKO-B",
+      "business": "－ 集团为一家临床阶段的生物制药公司，专注於小分子肿瘤疗法，并以Abbisko品牌经营业务。 － 集团委托CMO(合同制造机构)开发及生产临床研发所用的活成药物成及成品。"
     },
     {
       "market": "HK",
@@ -34555,7 +34909,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KERRY PPT"
+      "name_en": "KERRY PPT",
+      "business": "－ 集团主要从事物业发展、投资及管理业务，亦从事酒店经营业务。 - 集团在香港及内地主要城市(包括北京、杭州、上海、深圳及渖阳)拥有多元化的发展物业及投资物业土地储 备。"
     },
     {
       "market": "HK",
@@ -34567,7 +34922,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TAI SANG LAND"
+      "name_en": "TAI SANG LAND",
+      "business": "－ 集团於1968年以「大懋有限公司」名称成立，1973年在香港上市。主要业务包括物业租赁、物业有关 服务及酒店经营。"
     },
     {
       "market": "HK",
@@ -34579,7 +34935,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TIANDE CHEMICAL"
+      "name_en": "TIANDE CHEMICAL",
+      "business": "－ 集团总部设在香港，是一家专业精细化工产品生产商。主要业务为研发、生产及销售精细化工产品。"
     },
     {
       "market": "HK",
@@ -34591,7 +34948,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "V.S. INT'L"
+      "name_en": "V.S. INT'L",
+      "business": "－ 集团主要从事生产及销售塑胶注塑产品及零件、装配电子产品、以及制造及销售塑胶注塑模具等。"
     },
     {
       "market": "HK",
@@ -34603,7 +34961,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ANJOY FOOD"
+      "name_en": "ANJOY FOOD",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为603345。 － 集团主要於中国从事研发、生产及销售速冻食品，产品组合涵盖速冻调制食品(如鱼豆腐、鱼丸、撒尿肉丸及 烤肠等)、速冻菜肴制品(主要包括小龙虾、小酥肉、虾滑、牛肉/羊肉卷、蛋饺及酸菜鱼等)及速冻面米制 品(如烧麦、奶香馒头、手抓饼及红糖发糕等)。"
     },
     {
       "market": "HK",
@@ -34615,7 +34974,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ANDRE JUICE"
+      "name_en": "ANDRE JUICE",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为605198。 － 集团主要从事生产及销售浓缩苹果汁、浓缩梨汁、苹果香精、生物饲料等产品。"
     },
     {
       "market": "HK",
@@ -34627,7 +34987,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XPENG-W"
+      "name_en": "XPENG-W",
+      "business": "－ 集团的美国存托股亦於纽约证券交易所上市，并於香港联交所作双重第一上市。 － 集团采用不同投票权架构，股本分为A类股份及B类股份，每股A类股份持有人可於股东大会的任何决议案投 一票，而B类股份持有人则每股可投10票，惟有关少数保留事项(包括对组识章程大纲或细则的修订；委任 或罢免任何独立非执行董事；委任或罢免集团审计师以及集团自愿清盘)的投票，每股股…"
     },
     {
       "market": "HK",
@@ -34639,7 +35000,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KB LAMINATES"
+      "name_en": "KB LAMINATES",
+      "business": "－ 集团於2006年由建滔化工(00148)分拆上市，主要生产覆铜面板，其用於生产印刷线路板，而印刷 线路板则用於生产多种电子产品。 － 为确保原料供应，集团自行生产玻璃沙、玻璃纤布、漂白木浆纸、铜箔及环氧树脂。所有生产设施均设於广东 省及江苏省。"
     },
     {
       "market": "HK",
@@ -34651,7 +35013,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "KINGBOARD HLDG"
+      "name_en": "KINGBOARD HLDG",
+      "business": "－ 集团主要从事覆铜面板、印刷线路板、化工产品、磁电产品制造及销售业务；以及物业发展及投资。"
     },
     {
       "market": "HK",
@@ -34663,7 +35026,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TS LINES"
+      "name_en": "TS LINES",
+      "business": "－ 集团是一家专注於亚太地区的货柜航运公司，服务网络涵盖大中华-北亚、大中华-东南亚、东北亚-东南亚 、亚洲-大洋洲及亚洲-印度次大陆等主要航线，并拓展亚洲-墨西哥航线。 － 集团多元化的客户群主要包括中小型客户，包括货运代理及货物受益人(BCO)客户。"
     },
     {
       "market": "HK",
@@ -34675,7 +35039,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SIGENERGY"
+      "name_en": "SIGENERGY",
+      "business": "－ 集团主要为家庭及企业开发及提供可再生能源解决方案，当中旗舰产品为五合一光储充一体机 SigenStor。"
     },
     {
       "market": "HK",
@@ -34687,7 +35052,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SCHOLAR EDU"
+      "name_en": "SCHOLAR EDU",
+      "business": "－ 集团主要提供民办教育服务及直播电商业务。"
     },
     {
       "market": "HK",
@@ -34699,7 +35065,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "NEXCHIP"
+      "name_en": "NEXCHIP",
+      "business": "－ 集团股份亦在上海证券交易所科创板上市，编号为688249。 － 集团是一家领先的12英寸纯晶圆代工企业，处於全球半导体价值链的关键环节。"
     },
     {
       "market": "HK",
@@ -34711,7 +35078,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "MOBVISTA"
+      "name_en": "MOBVISTA",
+      "business": "－ 集团主要提供移动广告平台及移动分析服务。 － 集团在移动广告平台上提供用户获取及变现服务。"
     },
     {
       "market": "HK",
@@ -34723,7 +35091,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WOER"
+      "name_en": "WOER",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002130。 － 集团的业务分部包括电子及电力(销售电子材料产品及电缆附件产品)、电线及通信线缆(销售通信电缆产品 )、新能源产品(销售新能源汽车电力传输产品)及风电。"
     },
     {
       "market": "HK",
@@ -34735,7 +35104,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "HAITIAN INT'L"
+      "name_en": "HAITIAN INT'L",
+      "business": "－ 集团主要从事注塑机制造及分销。 － 集团生产之塑料产品及部件主要应用於汽车、建材、保健、物流、包装、信息技术、家电、电子器件及其他消 费品。客户有广州本田、神龙汽车、海尔、TCL、海信、五粮液、比亚迪及哈药。 － 集团之生产基地设於宁波、广州及无锡，并於国内及意大利设立服务中心。销售点包括内地、欧洲、中东、南 美、北美、亚太地区及非洲合共80多个国家。"
     },
     {
       "market": "HK",
@@ -34747,7 +35117,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "TUYA-W"
+      "name_en": "TUYA-W",
+      "business": "－ 集团於2021年3月在纽约证券交易所上市，并於2022年7月在香港联交所作双重上市。"
     },
     {
       "market": "HK",
@@ -34759,7 +35130,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BINHAI INV"
+      "name_en": "BINHAI INV",
+      "business": "－ 集团主要从事建造燃气管道网络、提供接驳服务、销售液化气及管道燃气，及燃气输送。"
     },
     {
       "market": "HK",
@@ -34771,7 +35143,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WKK INTL (HOLD)"
+      "name_en": "WKK INTL (HOLD)",
+      "business": "－ 集团主要从事以下业务： （１）贸易和分销：用於制造印刷电路板和电子产品之化学品、物料及设备； （２）制造：电器及电子产品； （３）其他：原始设备制造商绿色制造业务、工程服务业务、旅游业务和医药健康业务。"
     },
     {
       "market": "HK",
@@ -34783,7 +35156,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "INT MEDICAL"
+      "name_en": "INT MEDICAL",
+      "business": "－ 集团主要在中国从事介植入医疗器械的研发、制造及销售，当中专注於心内介入医疗器械。"
     },
     {
       "market": "HK",
@@ -34795,7 +35169,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SHUOAO INTL"
+      "name_en": "SHUOAO INTL",
+      "business": "－ 主要从事销售金属业务；开发及提供电子装置解决方案业务；以及物业发展业务。"
     },
     {
       "market": "HK",
@@ -34807,7 +35182,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LUXSHARE ICT"
+      "name_en": "LUXSHARE ICT",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002475。 － 集团主要从事为消费电子、汽车电子、通信与数据中心等领域的全球客户提供从零组件、模组到系统的精密智 造解决方案(PIMS)。"
     },
     {
       "market": "HK",
@@ -34819,7 +35195,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "VCREDIT"
+      "name_en": "VCREDIT",
+      "business": "－ 集团主要於中国透过三大信贷产品系列提供线上消费金融服务，产品均为分期付款方式： （１）信用卡余额代偿产品：允许信用卡持有人将其信用卡未结余额向集团信贷产品进行结转； （２）消费信贷产品：为消费者提供针对特定应用场景的各种分期信贷解决方案； （３）线上至线下信贷产品：主要服务於消费者更大额的融资需求。"
     },
     {
       "market": "HK",
@@ -34831,7 +35208,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GREEN TEA GROUP"
+      "name_en": "GREEN TEA GROUP",
+      "business": "－ 集团主要在中国以「绿茶」品牌经营中式餐厅，并通过自家的微信小程序及第三方线上餐饮配送平台提供外卖 业务。 － 此外，集团亦提供手机充电服务及泊车服务，以及销售食用油、调料及礼盒等产品。"
     },
     {
       "market": "HK",
@@ -34843,7 +35221,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ACTIVATION GP"
+      "name_en": "ACTIVATION GP",
+      "business": "－ 集团为大中华的泛时尚品牌营销集团，主要专注於在大中华区经营体验营销、数字营销与推广，以及IP拓展 (管理与经营体育赛事)业务。"
     },
     {
       "market": "HK",
@@ -34855,7 +35234,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "REMEGEN"
+      "name_en": "REMEGEN",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为688331。 － 集团是一家生物制药公司，专注於研发及商业化用於治疗自身免疫、肿瘤和眼科疾病的药物。"
     },
     {
       "market": "HK",
@@ -34867,7 +35247,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "PANASIALUM"
+      "name_en": "PANASIALUM",
+      "business": "－ 集团於中国从事生产铝制品，专注於制造尖端电子产品的高增值、高精密铝配件，同时亦为不同行业制造铝型 材产品。"
     },
     {
       "market": "HK",
@@ -34879,7 +35260,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WUXI XDC"
+      "name_en": "WUXI XDC",
+      "business": "－ 集团於2023年11月由药明生物(02269)分拆於香港联交所上市，主要向客户(包括创新生物技术 公司及全球制药公司)提供ADC(抗体药物偶联物，为抗癌生物药品)及其他生物偶联药物CRDMO服务 。"
     },
     {
       "market": "HK",
@@ -34891,7 +35273,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "WESTCHINACEMENT"
+      "name_en": "WESTCHINACEMENT",
+      "business": "－ 集团主要在中国陕西省从事水泥生产，以「尧柏」及「尧柏水泥」商标销售，主要用於建设高速公路、桥梁、 铁路及道路等基建项目以及住宅楼宇。"
     },
     {
       "market": "HK",
@@ -34903,7 +35286,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "EVERGREEN PG"
+      "name_en": "EVERGREEN PG",
+      "business": "－ 集团主要从事设计、制造及销售一系列由合成纤维及人发制成的发饰品。主要产品包括全假发、半假发、花边 假发、发饰(如拉绳款)、配件(如发髻、一般辫子、特殊辫子、发条)、男士假发、高档人发接发产品以及 万圣节产品(包括为派对及节日设计的假发、发饰及服装)。"
     },
     {
       "market": "HK",
@@ -34915,7 +35299,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "INNOCARE"
+      "name_en": "INNOCARE",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为688428。 － 集团为中国的生物医药公司，专注於研究治疗癌症(主要为血液肿瘤)及自身免疫性疾病的疗法。"
     },
     {
       "market": "HK",
@@ -34927,7 +35312,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "OMNIVISION"
+      "name_en": "OMNIVISION",
+      "business": "－ 集团股份亦在上海证券交易所上市，股票代码为603501； － 集团是一家全球化Fabless半导体设计公司，专注於半导体产品及解决方案的设计与销售，同时与世界 领先的供应商在晶圆制造、封装和测试方面进行合作，而CMOS图像传感器(CIS)是集团的主要产品。"
     },
     {
       "market": "HK",
@@ -34939,7 +35325,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "SUN.KING TECH"
+      "name_en": "SUN.KING TECH",
+      "business": "－ 集团的业务可分为两个业务分部： １﹒分销业务：分销进口电力电子部件，例如半导体、电流/电压感测器、散热器、熔断器、IGBT驱动及 来自国际领先工程公司(包括ABB Switzerland及Cooper Bussmann)的 其他电力电子部件。"
     },
     {
       "market": "HK",
@@ -34951,7 +35338,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BEST PACIFIC"
+      "name_en": "BEST PACIFIC",
+      "business": "－ 集团是一家提供一站式解决方案的女性内衣物料供应商，制造及买卖弹性织物面料、弹性织带及蕾丝，并与内 衣品牌商共同开发新女性内衣物料及产品。"
     },
     {
       "market": "HK",
@@ -34963,7 +35351,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DOBOT"
+      "name_en": "DOBOT",
+      "business": "－ 集团主要从事协作机器人的设计、开发、制造及商业化。 － 集团的协作机器人可按轴数分为六轴协作机器人及四轴协作机器人两类，配有可操作机械臂的标准机器人。"
     },
     {
       "market": "HK",
@@ -34975,7 +35364,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "YUEXIU SERVICES"
+      "name_en": "YUEXIU SERVICES",
+      "business": "－ 集团於2021年6月由越秀地产(00123)分拆上市，主要在中国内地及香港从事提供非商业物业管理 及增值服务，以及商业物业管理及运营服务，当中重点为大湾区。"
     },
     {
       "market": "HK",
@@ -34987,7 +35377,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "QINGSONG HEALTH"
+      "name_en": "QINGSONG HEALTH",
+      "business": "－ 集团於中国提供数字综合健康服务及健康保险解决方案，涵盖透过健康相关科普文章与视频进行数字营销、数 字医学研究辅助、包含各种自营及外包服务的综合健康服务套餐，以及支援早期疾病筛查的推广及谘询服务， 亦通过旗下互联网保险平台提供保险经纪服务及保险技术服务。"
     },
     {
       "market": "HK",
@@ -34999,7 +35390,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "NAGACORP"
+      "name_en": "NAGACORP",
+      "business": "－ 集团主要业务为管理及经营柬埔寨首都金边持牌赌场。集团获柬埔寨政府发出赌场牌照授权经营该赌场，於 2065年届满，至2035年有独家经营权。"
     },
     {
       "market": "HK",
@@ -35011,7 +35403,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "JINMAO SERVICES"
+      "name_en": "JINMAO SERVICES",
+      "business": "－ 集团於2022年3月由中国金茂(00817)分拆上市，主要在中国从事提供以下服务： （１）物业管理服务：包括秩序、保洁、绿化、园艺，以及公共区域设施运作的维保等； （２）非业主增值服务：向物业开发商提供案场服务、谘询及其他增值服务； （３）社区增值服务：为在管物业的业主及住户提供室内装修平台服务、社区生活服务(家政、新型零售及餐 饮服务)、社区空间…"
     },
     {
       "market": "HK",
@@ -35023,7 +35416,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GOLDPAC GROUP"
+      "name_en": "GOLDPAC GROUP",
+      "business": "－ 集团是大中华区(包括中国内地、香港及澳门)的金融卡(磁条卡或智能卡)、卡片个人化服务及现场发卡系 统解决方案提供商，主要为金融机构、政府机构及发行金融卡的其他组织提供整体解决方案及服务，并於香港 、北京、渖阳、杭州、南京、西安、广州及昆明设有办事处。"
     },
     {
       "market": "HK",
@@ -35035,7 +35429,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "LEAPMOTOR"
+      "name_en": "LEAPMOTOR",
+      "business": "－ 集团主要在中国从事电动汽车的全域自主研发、生产制造、销售及服务。 － 集团拥有全域自研及垂直整合能力，自主研发智能电动汽车核心系统及电子部件中的所有关键软硬件，包括智 能动力系统(Leapmotor Power)、自动驾驶系统(Leapmotor Pilot)及智 能座舱系统(Leapmotor OS)等，并於浙江省金华市的数字化人工智能工厂生产制造。"
     },
     {
       "market": "HK",
@@ -35047,7 +35442,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "VIVA GOODS"
+      "name_en": "VIVA GOODS",
+      "business": "－ 集团经营多品牌鞋服业务，并经营运动体验业务，包括体育目的地、体育赛事活动和电竞俱乐部之营运、服务 及投资。"
     },
     {
       "market": "HK",
@@ -35059,7 +35455,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "XUNLONG SCITECH"
+      "name_en": "XUNLONG SCITECH",
+      "business": "－ 集团主要於中国从事鲟鱼育种与养殖以及加工业务，并以自有品牌「KALUGA QUEEN卡露伽」於中 国及海外(包括欧洲、美洲及亚太地区等市场)销售鱼子酱产品。"
     },
     {
       "market": "HK",
@@ -35071,7 +35468,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BUSYMING"
+      "name_en": "BUSYMING",
+      "business": "－ 集团是中国一家食品饮料零售商，主要通过加盟模式经营，授权加盟商通过加盟店以集团的品牌(包括「零食 很忙」及「赵一鸣零食」)销售休闲食品饮料。 － 集团的产品组合包括烘焙食品、饼乾、坚果及籽类、休闲膨化食品和速食、休闲熟食食品、糖果、巧克力和蜜 饯以及饮料。"
     },
     {
       "market": "US",
@@ -42895,7 +43293,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BOSS ZHIPIN-W"
+      "name_en": "BOSS ZHIPIN-W",
+      "business": "－ 集团的美国存托股份於2021年6月在纳斯达克上市，并於2022年12月将A类普通股以介绍形式在香 港联交所主板上市。"
     },
     {
       "market": "HK",
@@ -42907,7 +43306,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GHW INTL"
+      "name_en": "GHW INTL",
+      "business": "－ 集团主要以自有品牌从事制造及销售化工相关产品及药品，亦销售由第三方制造商所生产的化工产品。"
     },
     {
       "market": "HK",
@@ -42943,7 +43343,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CLOVER BIO-B"
+      "name_en": "CLOVER BIO-B",
+      "business": "－ 集团主要从事生物制药业务，为传染性疾病、癌症及自身免疫性疾病开发新型疫苗及生物治疗候选产品。"
     },
     {
       "market": "HK",
@@ -42955,7 +43356,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DONGFANG ELEC"
+      "name_en": "DONGFANG ELEC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600875。 － 集团从事发电设备制造与销售业务，主要产品包括水轮发电机组、汽轮发电机、风力发电机组、电站汽轮机和 电站锅炉以及燃气轮机等。"
     },
     {
       "market": "HK",
@@ -42967,7 +43369,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DKE"
+      "name_en": "DKE",
+      "business": "－ 集团主要从事研发、设计、生产及销售涵盖电子纸显示模组，其为完全集成的显示组件，由电子墨水薄膜 (FPL)、TFT基板、驱动芯片、保护膜及FPC等关键部件组成。"
     },
     {
       "market": "HK",
@@ -43015,7 +43418,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA TAIPING"
+      "name_en": "CHINA TAIPING",
+      "business": "－ 集团为隶属中国国务院之中保集团成员，主要从事以下五类保险业务： （１）再保险业务由「太平再保险」(前简称为「中再国际」)营运。"
     },
     {
       "market": "HK",
@@ -43027,7 +43431,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA STATE CON"
+      "name_en": "CHINA STATE CON",
+      "business": "－ 集团於2005年由中国海外发展(00688)以介绍形式分拆上市，并由中国海外发展之母公司中国海外 集团成为集团控权股东，集团之业务主要分为楼宇建筑及土木工程。"
     },
     {
       "market": "HK",
@@ -43039,7 +43444,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA QINFA"
+      "name_en": "CHINA QINFA",
+      "business": "－ 集团主要从事采煤、煤炭购销、选煤、储煤、配煤、航运运输业务。"
     },
     {
       "market": "HK",
@@ -43051,7 +43457,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA JINMAO"
+      "name_en": "CHINA JINMAO",
+      "business": "－ 集团主要於中国从事城市及物业开发；商务租赁、零售商业运营；酒店经营；提供物业管理、设计及装修服务 ；以及经营观光厅。"
     },
     {
       "market": "HK",
@@ -43063,7 +43470,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CALC"
+      "name_en": "CALC",
+      "business": "－ 集团为一家飞机租赁公司，专注於中国市场。业务模式包括： （１）直接飞机购买及租赁交易：向飞机制造商购买飞机，并出租予航空公司； （２）飞机售後租回交易：由航空公司承租人挑选飞机，并由集团购买。 － 此外，集团亦向航空公司客户提供增值服务，包括旧飞机贸易及推销以及有关机队管理的其他谘询服务。"
     },
     {
       "market": "HK",
@@ -43075,7 +43483,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA FOODS"
+      "name_en": "CHINA FOODS",
+      "business": "－ 集团主要在中国从事加工、装瓶及分销汽水产品，以及分销不含气饮料产品。 － 集团获授权在国内19个省、市及地区从事生产、配送、推广和销售可口可乐系列产品，以及提供包括汽水、 果汁、果奶、水、功能水、咖啡、茶、能量饮料等多个品牌的产品。"
     },
     {
       "market": "HK",
@@ -43087,7 +43496,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CC SECURITIES"
+      "name_en": "CC SECURITIES",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601375。 － 集团控股股东河南投资集团为河南省国有企业，从事投资管理、投资建设项目所需工业原材料及机械设备，原 材料销售及房屋租赁。"
     },
     {
       "market": "HK",
@@ -43099,7 +43509,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CGN POWER"
+      "name_en": "CGN POWER",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为003816。 － 集团之控股股东为中国广核集团，其为一家由国资委及广东省政府分别持有90%及10%权益之国有企业， 其主要从事发电及电力销售，以及核电项目及非核清洁能源项目的建设、运营及管理。"
     },
     {
       "market": "HK",
@@ -43111,7 +43522,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CMGE"
+      "name_en": "CMGE",
+      "business": "－ 集团主要透过合约安排於中国从事手游发行及游戏开发业务，以及知识产权授权。 － 集团提供多种类型的手游，包括CCG(可收集卡牌游戏)、RPG(角色扮演游戏)、MMORPG(大型 多人网络角色扮演游戏)、SLG(模拟游戏)等。"
     },
     {
       "market": "HK",
@@ -43123,7 +43535,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA OILFIELD"
+      "name_en": "CHINA OILFIELD",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601808。 － 集团是中国近海市场最具规模的综合型油田服务供应商。"
     },
     {
       "market": "HK",
@@ -43135,7 +43548,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CEOVU"
+      "name_en": "CEOVU",
+      "business": "－ 集团主要於中国从事主题产业园区的开发及相关业务、为园区客户提供商业运营服务和投资物业的租赁业务。"
     },
     {
       "market": "HK",
@@ -43159,7 +43573,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CSC HOLDINGS"
+      "name_en": "CSC HOLDINGS",
+      "business": "－ 集团主要从事投资证券、金属矿物及产品及电子组件贸易、放债及证券经纪业务。"
     },
     {
       "market": "HK",
@@ -43171,7 +43586,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "COMEC"
+      "name_en": "COMEC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600685。 － 集团主要从事造船及相关业务、钢结构工程、船舶修理及改造等业务。 － 集团的主要产品包括： （１）防务装备产品：军用舰船、海警装备、公务船等； （２）船舶海工产品：支线集装箱船、挖泥船、海洋工程平台、风电安装平台等； （３）船海应用业务产品：能源装备、高端钢结构、工程机械、环保装备、工业互联网平台。"
     },
     {
       "market": "HK",
@@ -43183,7 +43599,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CIMC ENRIC"
+      "name_en": "CIMC ENRIC",
+      "business": "－ 集团主要从事广泛用於能源、化工及液态食品行业的各式各样运输、储存及加工装备的设计、开发、制造、工 程及销售，并提供有关技术保养服务： （１）能源产品：包括CNG高压瓶式压力容器、CNG拖车、LNG拖车及储罐CNG/LNG、加气站系 统、LPG储罐车及储罐、天然气压缩机、项目工程服务； （２）化工产品：包括特种气体拖车、危险化学液体的不銹钢罐式集装箱…"
     },
     {
       "market": "HK",
@@ -43243,7 +43660,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BOE VARITRONIX"
+      "name_en": "BOE VARITRONIX",
+      "business": "－ 集团之主要业务为设计、制造及销售液晶体显示器及有关产品。 （１）车用显示屏业务：欧洲乃集团车用显示屏销售的根据地，多个着名汽车品牌均有采用集团之显示屏，除 黑白高对比度之产品外，亦有车厂开始采用集团较大尺寸的TFT显示产品，以加强车厢内有关资讯娱 乐的装置； （２）工业用显示屏业务：欧洲工业客户大致可分为高端工业设备、一般工业仪器及家电数种。"
     },
     {
       "market": "HK",
@@ -43255,7 +43673,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "EDENSOFT"
+      "name_en": "EDENSOFT",
+      "business": "－ 集团主要在中国从事提供以下IT(信息技术)相关服务： （１）IT基础设施服务：评估客户需求及其现有IT环境，及为客户建议、采购与安装所需硬件及软件，如 服务器及路由器、安全软件、办公相关软件等； （２）IT实施及支持服务：包括设计IT解决方案、采购或开发基於解决方案的软硬件产品，以及技术及维 护支持服务；集团或会将若干部分(如文件管理IT服务、搭建…"
     },
     {
       "market": "HK",
@@ -43315,7 +43734,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "G & M HLDGS"
+      "name_en": "G & M HLDGS",
+      "business": "－ 集团主要作为分包商於香港承接平台外墙及幕墙工程的设计及建造项目，亦提供维修及保养服务。"
     },
     {
       "market": "HK",
@@ -43411,7 +43831,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BJ ENERGY INTL"
+      "name_en": "BJ ENERGY INTL",
+      "business": "－ 集团主要从事开发、投资、营运及管理太阳能发电站及其他清洁能源项目。"
     },
     {
       "market": "HK",
@@ -43423,7 +43844,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "BJ ENT URBAN"
+      "name_en": "BJ ENT URBAN",
+      "business": "－ 集团主要在中国从事环境卫生服务；危险废物处理业务；以及废弃电器及电子产品处理业务。"
     },
     {
       "market": "HK",
@@ -43471,7 +43893,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CR MEDICAL"
+      "name_en": "CR MEDICAL",
+      "business": "－ 集团是中国的私立医院集团，提供从基本预防保健到急症护理和手术後康复的全方位医疗服务。"
     },
     {
       "market": "HK",
@@ -43519,7 +43942,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FOSUN PHARMA"
+      "name_en": "FOSUN PHARMA",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600196。 - 集团是一间总部设於上海的中国医药健康公司，A股股份自1998年8月於上海证券交易所挂牌上市，业务 包括制药、医疗服务以及诊断产品与医疗器械。"
     },
     {
       "market": "HK",
@@ -43531,7 +43955,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DEVGREAT"
+      "name_en": "DEVGREAT",
+      "business": "－ 集团主要於中国从事物业发展、物业投资及物业管理业务。"
     },
     {
       "market": "HK",
@@ -43567,7 +43992,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "AUSTAR"
+      "name_en": "AUSTAR",
+      "business": "－ 集团主要於中国为制药企业及研究机构提供工程解决方案，包括为客户创设量身定制的生产设施；协助客户进 行系统建设、使用硬件及软件工程及技术；提供自制或第三方供应的设备及零件；以及就提高生产工艺效率及 效益的应用技术提供建议。"
     },
     {
       "market": "HK",
@@ -43603,7 +44029,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ANTON OILFIELD"
+      "name_en": "ANTON OILFIELD",
+      "business": "－ 集团主要提供油气田开发的一体化技术服务，包括检测服务、油田管理服务、油田技术服务及钻机服务。"
     },
     {
       "market": "HK",
@@ -43615,7 +44042,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FWD"
+      "name_en": "FWD",
+      "business": "－ 集团是一家泛亚洲人寿保险公司，业务遍布香港(及澳门)、泰国(及柬埔寨)、日本及新兴市场(包括菲律 宾、印尼、新加坡、越南及马来西亚)，产品组合涵盖人寿保险、健康保险、雇员福利(团体保险)及理财产 品。"
     },
     {
       "market": "HK",
@@ -43651,7 +44079,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "C-MER MEDICAL"
+      "name_en": "C-MER MEDICAL",
+      "business": "－ 集团由主席林顺潮医生於2012年1月在香港创立，以「希玛林顺潮」品牌於香港及中国内地提供眼科服务 ，及销售视力辅助产品及医药产品。"
     },
     {
       "market": "HK",
@@ -43663,7 +44092,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GUANGSHEN RAIL"
+      "name_en": "GUANGSHEN RAIL",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601333。 － 集团於1996年3月在中国深圳市注册成立，是目前中国唯一一家在上海、香港和纽约三地上市的铁路运输 企业。"
     },
     {
       "market": "HK",
@@ -43675,7 +44105,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CC NEW LIFE"
+      "name_en": "CC NEW LIFE",
+      "business": "－ 集团为中国中部地区的物业管理服务提供商，管理的物业组合包括住宅物业、商场、文化旅游综合体、商业用 公寓、办公楼、学校及政府机关物业。"
     },
     {
       "market": "HK",
@@ -43711,7 +44142,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "DEXIN SER GROUP"
+      "name_en": "DEXIN SER GROUP",
+      "business": "－ 集团主要在中国从事以下服务： （１）物业管理服务：秩序维护、清洁、绿化以及维修保养服务； （２）非业主增值服务：案场服务、前介服务、房检房修服务、商业谘询服务； （３）社区增值服务：智能社区解决方案、物业销售及协销服务、社区资源增值服务(协助业主出租公共区域 及公共设施)、会所服务(餐饮服务及会议服务)、美居服务、社区零售和家居服务。"
     },
     {
       "market": "HK",
@@ -43723,7 +44155,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "C CHENG HLDGS"
+      "name_en": "C CHENG HLDGS",
+      "business": "－ 集团主要於中国国内及香港从事提供建筑设计、园境设计、城市规划、室内设计及文物保育服务。"
     },
     {
       "market": "HK",
@@ -43759,7 +44192,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CMC REIT"
+      "name_en": "CMC REIT",
+      "business": "－ 基金目标：持有及投资中国(包括香港、澳门，但不包括招商置地(00978)拥有房地产业务的城市，即 重庆、佛山、广州、南京、句容及西安)的商业物业，基金不得从事房地产以外之业务。"
     },
     {
       "market": "HK",
@@ -43771,7 +44205,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CMSC"
+      "name_en": "CMSC",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600999。 － 集团主要业务包括： （１）经纪及财富管理：代理买卖股票、基金、债券、期货及其他衍生工具，赚取手续费及佣金。"
     },
     {
       "market": "HK",
@@ -43795,7 +44230,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHINA SUNTIEN"
+      "name_en": "CHINA SUNTIEN",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为600956。 － 集团主要从事向城市燃气公司和工业客户销售天然气和天然气用具；天然气管道建造和天然气管道接驳服务； 开发、管理和运营风电场和太阳能电站，并向电网公司销售电力；以及房屋和设备的租赁。"
     },
     {
       "market": "HK",
@@ -43915,7 +44351,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "E-COMMODITIES"
+      "name_en": "E-COMMODITIES",
+      "business": "－ 集团主要从事焦煤及其他产品(包括石化产品、有色金属、铁矿石及其他品类)的加工及买卖，亦提供物流服 务。 － 此外，集团亦提供包括融资租赁、商业保理类、贸易融资及期货套保等供应链金融服务，以及开发及营运以大 数据为基础的运输服务平台、供应链金融平台及大宗商品多品种交易平台。"
     },
     {
       "market": "HK",
@@ -43939,7 +44376,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "APT ELECTRONICS"
+      "name_en": "APT ELECTRONICS",
+      "business": "－ 集团主要在中国从事设计、开发和制造LED智能视觉产品及系统解决方案，产品分类为汽车智能视觉产品、 高端照明产品及新型显示产品。"
     },
     {
       "market": "HK",
@@ -43951,7 +44389,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CHEERWIN GP"
+      "name_en": "CHEERWIN GP",
+      "business": "－ 集团主要在中国开发及制造家居护理、个人护理、宠物护理及其他产品。 － 集团的家居护理产品分类如下： （１）杀虫驱蚊产品：包括盘香、电热蚊香片、电热蚊香液、气雾剂、啫喱、防蚊网等； （２）家居清洁产品：包括消毒液、厨房清洁剂、洁厕剂、洗衣机槽清洁剂、多表面清洁剂和管道通、洁厕产 品； （３）空气护理产品：包括固体空气清新剂、空气清新喷剂及液体空气清新…"
     },
     {
       "market": "HK",
@@ -44251,7 +44690,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "CH MODERN D"
+      "name_en": "CH MODERN D",
+      "business": "－ 集团主要在中国从事生产及销售牛奶(包括原料奶及加工液态奶)；以及生产和销售饲料，亦营运畜牧业互联 网平台(线上销售饲料及牧场物资)。"
     },
     {
       "market": "HK",
@@ -44299,7 +44739,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GEMINI INV"
+      "name_en": "GEMINI INV",
+      "business": "－ 集团主要从事物业投资、证券投资、基金投资及基金管理。"
     },
     {
       "market": "HK",
@@ -44335,7 +44776,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FLAT GLASS"
+      "name_en": "FLAT GLASS",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601865。 － 集团主要在中国生产及销售光伏玻璃，此外，亦生产及销售浮法玻璃、家居玻璃及工程玻璃，并向中国大陆、 日本、新加坡、韩国、台湾、德国及美国等地客户销售产品。集团的光伏玻璃产品主要用於生产晶体硅光伏电 池，以及用作薄膜光伏电池的盖板。"
     },
     {
       "market": "HK",
@@ -44347,7 +44789,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FIRST TRACTOR"
+      "name_en": "FIRST TRACTOR",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601038。 － 集团是中国内地在香港上市的唯一农机制造与销售企业，其前身为第一拖拉机制造厂，创建於1955年，是 中国农机行业唯一的特大型企业。"
     },
     {
       "market": "HK",
@@ -44359,7 +44802,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GREENTOWN CHINA"
+      "name_en": "GREENTOWN CHINA",
+      "business": "－ 集团主要於中国从事物业发展、酒店业务、物业投资、项目管理及其他(包括销售建筑材料、设计及装修以及 其他业务。"
     },
     {
       "market": "HK",
@@ -44371,7 +44815,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GREENTOWN MGMT"
+      "name_en": "GREENTOWN MGMT",
+      "business": "－ 集团於2020年7月由绿成中国(03900)分拆上市，主要於中国自行及透过与业务夥伴合作为商业项 目及政府项目提供代建服务。"
     },
     {
       "market": "HK",
@@ -44443,7 +44888,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "ADICON HOLDINGS"
+      "name_en": "ADICON HOLDINGS",
+      "business": "－ 集团主要於中国向医院机构及体检中心提供常规检测服务以及妇产科、不育、新生儿、血液学、实体瘤及传染 病等领域的检测服务。 － 集团亦从事销售医疗产品，包括检测仪器、试剂及耗材。 － 於2023年6月，集团在中国各地设有33个自营实验室。"
     },
     {
       "market": "HK",
@@ -44563,7 +45009,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "EEKA FASHION"
+      "name_en": "EEKA FASHION",
+      "business": "－ 集团於2007年创立，主要从事自有品牌Koradior及La Koradior产品的设计、推广、 营销及销售，品牌以30至45岁具经济实力的女性为目标顾客，产品包括连身裙、短裙、长裤、恤衫、针织 衫、背心、外套、大衣、围巾及配饰。"
     },
     {
       "market": "HK",
@@ -44587,7 +45034,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GEMDALE PPT"
+      "name_en": "GEMDALE PPT",
+      "business": "－ 集团主要从事物业发展、物业投资及小额贷款业务。 （１）商业园及园区设施：深圳威新软件科技园位於深圳商新技术产业园的优质地段，紧邻深港西部通道大桥 ，是集团商业园的旗舰项目； （２）房地产发展及管理：集团主要在中国发展房地产项目及提供物业管理服务。"
     },
     {
       "market": "HK",
@@ -44599,7 +45047,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GOLDWIND"
+      "name_en": "GOLDWIND",
+      "business": "－ 集团股份亦在深圳证券交易所上市，编号为002202。 － 集团主要从事制造并销售风力发电机组及风电零部件；提供风电相关谘询，风电场建设、维护服务；建立及经 营风力发电场；以及提供污水处理业务及融资租赁服务。"
     },
     {
       "market": "HK",
@@ -44623,7 +45072,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GW TERROIR"
+      "name_en": "GW TERROIR",
+      "business": "－ 集团主要从事提供电讯及相关服务(包括於中国内地、香港及新加坡提供电讯业务，以及在中国提供全球定位 系统移动连接解决方案及国际短信批发业务)、资讯科技(包括但不限於维护销售点系统、安装伺服器及网络 设备保安系统及进行网站维护，亦通过开发葡萄酒电子商贸平台进行电子商易业务)及物业投资业务。"
     },
     {
       "market": "HK",
@@ -44635,7 +45085,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GWMOTOR"
+      "name_en": "GWMOTOR",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601633。 － 集团总部设於中国河北省保定市。集团作为综合汽车制造商，除以长城品牌名称销售皮卡车及运动型多功能汽 车(SUV)外，集团亦从事销售供生产皮卡车、SUV及轿车所用的主要汽车零部件业务。该等零部件包括 自行制造的发动机、前後桥、空调设备、转向球销和拉杆总成及供生产整车的其他零部件。"
     },
     {
       "market": "HK",
@@ -44647,7 +45098,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "GWMOTOR-R"
+      "name_en": "GWMOTOR-R",
+      "business": "－ 集团股份亦在上海证券交易所上市，编号为601633。 － 集团总部设於中国河北省保定市。集团作为综合汽车制造商，除以长城品牌名称销售皮卡车及运动型多功能汽 车(SUV)外，集团亦从事销售供生产皮卡车、SUV及轿车所用的主要汽车零部件业务。该等零部件包括 自行制造的发动机、前後桥、空调设备、转向球销和拉杆总成及供生产整车的其他零部件。"
     },
     {
       "market": "HK",
@@ -44683,7 +45135,8 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX",
-      "name_en": "FS.COM"
+      "name_en": "FS.COM",
+      "business": "－ 集团是线上直接面向客户(DTC)网络解决方案提供商，通过线上销售平台FS.com提供包括高性能网 络设备、可扩展网络设备操作系统及云网络管理平台的解决方案，支援场景包括高性能计算、数据中心、企业 网络、电信网络，满足企业级高性能网络解决方案及基础性能网络解决方案的需求。"
     },
     {
       "market": "US",
@@ -67815,7 +68268,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alarum Technologies Ltd. (Nasdaq: ALAR, TASE: ALAR) is a global provider of AI data infrastructure and web data collection solutions, empowering organizations - from leading fou…"
     },
     {
       "market": "US",
@@ -67826,7 +68280,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Alterity Therapeutics is a clinical stage biotechnology company dedicated to creating an alternate future for people living with neurodegenerative diseases. The Company is focus…"
     },
     {
       "market": "US",
@@ -67861,7 +68316,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 2007, Baozun Inc. is a leader in brand e-commerce service, brand management, and digital commerce service. Baozun Inc. comprises three major business lines - Baozun e…"
     },
     {
       "market": "US",
@@ -67896,7 +68352,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BioLineRx Ltd. (NASDAQ/TASE: BLRX) is a clinical-stage biopharmaceutical company pursuing life-changing therapies in oncology and rare diseases. The Company's lead development a…"
     },
     {
       "market": "US",
@@ -67907,7 +68364,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Black Titan Corporation is a Cayman Islands -incorporated technology and human capital management (\"HCM\") solutions group, currently expanding its platform to support data-drive…"
     },
     {
       "market": "US",
@@ -67918,7 +68376,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bloomia Holdings, Inc (Nasdaq: TULP) is a specialty ag company focused on making and managing its ag investments in the U.S. and internationally. The Company is the majority own…"
     },
     {
       "market": "US",
@@ -67929,7 +68388,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 1997, Build-A-Bear is a leading global retailtainment brand on a mission to add a little more heart to life. At Build-A-Bear, guests are invited to create personalize…"
     },
     {
       "market": "US",
@@ -67952,7 +68412,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Established in 2013, Canaan Inc. (NASDAQ: CAN), is a technology company focusing on ASIC high-performance computing chip design, chip research and development, computing equipme…"
     },
     {
       "market": "US",
@@ -67975,7 +68436,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Canadian Solar is one of the world's largest solar technology and renewable energy companies. Founded in 2001 and headquartered in Kitchener, Ontario, the Company is a leading m…"
     },
     {
       "market": "US",
@@ -68079,7 +68541,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "EON is an independent upstream energy company focused on acquiring and developing stacked pay formations for conventional (e.g., waterflooding) and unconventional (e.g., horizon…"
     },
     {
       "market": "US",
@@ -68090,7 +68553,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "FinVolution Group is a fintech platform operating across China and overseas markets, connecting borrowers of the young generation with financial institutions. Established in 200…"
     },
     {
       "market": "US",
@@ -68101,7 +68565,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Gaotu is a leading technology-driven education company in China focused on enabling lifelong learning through AI-powered solutions that cultivate interest and drive continuous g…"
     },
     {
       "market": "US",
@@ -68124,7 +68589,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "GridAI Technologies Corp. is an AI-native energy orchestration platform designed to manage and optimize distributed energy resources (DERs), microgrids, and large-scale power in…"
     },
     {
       "market": "US",
@@ -68183,7 +68649,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hyperliquid Strategies Inc (NASDAQ: PURR) is a digital asset treasury company whose primary focus is to maximize shareholder value through accumulating HYPE, the native token of…"
     },
     {
       "market": "US",
@@ -68194,7 +68661,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Immuron Limited (ASX: IMC, NASDAQ: IMRN), is an Australian biopharmaceutical company focused on developing and commercializing orally delivered targeted polyclonal antibodies fo…"
     },
     {
       "market": "US",
@@ -68205,7 +68673,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "IP Strategy Holdings, Inc. (Nasdaq: IPST) is the first Nasdaq-listed company to hold $DATA tokens, formerly $IP, as a primary treasury reserve asset and operate validator infras…"
     },
     {
       "market": "US",
@@ -68228,7 +68697,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Founded in 1996, IT Tech Packaging, Inc. is a leading manufacturer and distributor of diversified paper products in North China. Using recycled paper as its primary raw material…"
     },
     {
       "market": "US",
@@ -68251,7 +68721,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Koss Corporation markets a complete line of high-fidelity headphones, wireless Bluetooth® speakers, computer headsets, telecommunications headsets, active noise canceling headph…"
     },
     {
       "market": "US",
@@ -68262,7 +68733,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "LifeVantage Corporation (Nasdaq: LFVN), the Activation company, is a pioneer in nutrigenomics-the study of how nutrition and naturally occurring compounds can unlock your genes …"
     },
     {
       "market": "US",
@@ -68273,7 +68745,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lotus Technology Inc. has operations across the UK, the EU and China. The Company is dedicated to delivering luxury lifestyle electric vehicles, with a focus on world-class R&D …"
     },
     {
       "market": "US",
@@ -68284,7 +68757,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Lucky Strike Entertainment is one of the world's premier location-based entertainment platforms. With over 360 locations across North America, Lucky Strike Entertainment provide…"
     },
     {
       "market": "US",
@@ -68295,7 +68769,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Based in Loudon, Tennessee, Malibu Boats, Inc. ( MBUU ) is a leading designer, manufacturer and marketer of a diverse range of recreational powerboats, including performance spo…"
     },
     {
       "market": "US",
@@ -68318,7 +68793,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Materialise incorporates more than three decades of 3D printing experience into a range of software solutions and 3D printing services that empower sustainable 3D printing appli…"
     },
     {
       "market": "US",
@@ -68329,7 +68805,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Nordic American Tankers Ltd owns and operates double hull crude oil tankers. It is an international tanker company that owns double-hull Suezmax tankers. It operates vessels in …"
     },
     {
       "market": "US",
@@ -68340,7 +68817,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "PagerDuty, Inc. (NYSE:PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Operations Cloud act…"
     },
     {
       "market": "US",
@@ -68351,7 +68829,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "We're proud to be 'where the pets go' to find everything they need to live their best lives for more than 60 years - from their favorite meals and toys, to trusted supplies and …"
     },
     {
       "market": "US",
@@ -68362,7 +68841,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Reborn Coffee, Inc. (NASDAQ: REBN) is a California -based specialty coffee retailer focused on delivering high-quality, handcrafted coffee experiences. With a growing global foo…"
     },
     {
       "market": "US",
@@ -68409,7 +68889,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SolarMax, based in California and founded in 2008, is a leader within the solar and renewable energy sector focused on making sustainable energy both accessible and affordable. …"
     },
     {
       "market": "US",
@@ -68420,7 +68901,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Synergy CHC Corp. develops and markets consumer health and wellness products, led by its flagship brands FOCUSfactor® and Flat Tummy®. FOCUSfactor®, a clinically studied brain h…"
     },
     {
       "market": "US",
@@ -68431,7 +68913,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Titan Machinery Inc., founded in 1980 and headquartered in West Fargo, North Dakota, owns and operates a network of full service agricultural and construction equipment dealer l…"
     },
     {
       "market": "US",
@@ -68478,7 +68961,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Headquartered in Commerce, California, XMax Inc. (NASDAQ: XMAX), formerly known as Nova LifeStyle, Inc., is a diversified company engaged in the design, sourcing, and distributi…"
     },
     {
       "market": "CN",
@@ -82973,7 +83457,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Bridgford Foods Corporation , a California corporation, was organized in 1952. Bridgford originally began operations in 1932 as a retail meat market in San Diego, California and…"
     },
     {
       "market": "US",
@@ -82984,7 +83469,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "BW LPG is the world's leading owner and operator of LPG vessels, with a fleet of about 50 Very Large Gas Carriers (VLGCs), including over 20 vessels powered by LPG dual-fuel pro…"
     },
     {
       "market": "US",
@@ -82995,7 +83481,8 @@
       "session": null,
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "CleanCore Solutions, Inc. (NYSE American: ZONE) is helping to build the critical infrastructure that powers the AI economy. Through a growing pipeline of projects, the Company a…"
     },
     {
       "market": "US",
@@ -83006,7 +83493,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "Hafnia is one of the world's leading tanker owners, transporting oil, oil products and chemicals for major national and international oil companies, chemical companies, as well …"
     },
     {
       "market": "US",
@@ -83017,7 +83505,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "MINISO Group is a global high-growth value retailer offering a variety of trendy lifestyle products featuring distinctive IP designs. Since opening our first store in Chinese ma…"
     },
     {
       "market": "US",
@@ -96852,7 +97341,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "We are a leading credit technology-empowered personal financial service enabler. Our mission is to use technology and risk management expertise to make financing more accessible…"
     },
     {
       "market": "US",
@@ -96863,7 +97353,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "SAIC ® is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the d…"
     },
     {
       "market": "US",
@@ -96874,7 +97365,8 @@
       "session": "盘前",
       "date_kind": "scheduled_results",
       "status": "scheduled",
-      "source": "Nasdaq"
+      "source": "Nasdaq",
+      "business": "So-Young International Inc. (Nasdaq: SY) ('So-Young' or the 'Company') is the leading aesthetic treatment platform in China connecting consumers with online services and offline…"
     },
     {
       "market": "HK",
