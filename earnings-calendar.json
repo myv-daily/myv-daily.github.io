@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T08:09:22.575Z",
+  "generated_at": "2026-08-23T08:13:52.652Z",
+  "today": "2026-08-23",
   "coverage_start": "2026-08-08",
   "coverage_end": "2026-09-07",
   "events": [
@@ -17970,17 +17971,6 @@
     {
       "market": "HK",
       "date": "2026-08-25",
-      "symbol": "82333",
-      "name": "GWMOTOR-R",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-25",
       "symbol": "1112",
       "name": "H&H INTL HLDG",
       "period": "6-MTH-ENDED30/06/26",
@@ -19024,6 +19014,18 @@
       "source": "HKEX"
     },
     {
+      "market": "HK",
+      "date": "2026-08-25",
+      "symbol": "82333",
+      "name": "��������-R",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "GWMOTOR-R"
+    },
+    {
       "market": "US",
       "date": "2026-08-25",
       "symbol": "ALPS",
@@ -19620,17 +19622,6 @@
     {
       "market": "HK",
       "date": "2026-08-26",
-      "symbol": "82020",
-      "name": "ANTA SPORTS-R",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-26",
       "symbol": "0662",
       "name": "ASIA FINANCIAL",
       "period": "6-MTH-ENDED30/06/26",
@@ -20073,17 +20064,6 @@
       "date": "2026-08-26",
       "symbol": "0883",
       "name": "CNOOC",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-26",
-      "symbol": "80883",
-      "name": "CNOOC-R",
       "period": "6-MTH-ENDED30/06/26",
       "session": null,
       "date_kind": "board_meeting",
@@ -21369,17 +21349,6 @@
     {
       "market": "HK",
       "date": "2026-08-26",
-      "symbol": "80020",
-      "name": "SENSETIME-WR",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-26",
       "symbol": "0563",
       "name": "SH IND URBAN",
       "period": "6-MTH-ENDED30/06/26",
@@ -21970,6 +21939,42 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-26",
+      "symbol": "80883",
+      "name": "�й�����ʯ��-R",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "CNOOC-R"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-26",
+      "symbol": "80020",
+      "name": "����-WR",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "SENSETIME-WR"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-26",
+      "symbol": "82020",
+      "name": "��̤����-R",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "ANTA SPORTS-R"
     },
     {
       "market": "US",
@@ -26253,17 +26258,6 @@
     {
       "market": "HK",
       "date": "2026-08-28",
-      "symbol": "82388",
-      "name": "BOC HONG KONG-R",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-28",
       "symbol": "6681",
       "name": "BRAINAURORA-B",
       "period": "6-MTH-ENDED30/06/26",
@@ -26321,17 +26315,6 @@
       "date": "2026-08-28",
       "symbol": "1211",
       "name": "BYD COMPANY",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-28",
-      "symbol": "81211",
-      "name": "BYD COMPANY-R",
       "period": "6-MTH-ENDED30/06/26",
       "session": null,
       "date_kind": "board_meeting",
@@ -29278,17 +29261,6 @@
     {
       "market": "HK",
       "date": "2026-08-28",
-      "symbol": "83690",
-      "name": "MEITUAN-WR",
-      "period": "6-MTH-ENDED30/06/26",
-      "session": null,
-      "date_kind": "board_meeting",
-      "status": "announced",
-      "source": "HKEX"
-    },
-    {
-      "market": "HK",
-      "date": "2026-08-28",
       "symbol": "2605",
       "name": "METALIGHT",
       "period": "6-MTH-ENDED30/06/26",
@@ -31452,6 +31424,42 @@
       "date_kind": "board_meeting",
       "status": "announced",
       "source": "HKEX"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-28",
+      "symbol": "81211",
+      "name": "���ǵϹɷ�-R",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "BYD COMPANY-R"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-28",
+      "symbol": "83690",
+      "name": "����-WR",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "MEITUAN-WR"
+    },
+    {
+      "market": "HK",
+      "date": "2026-08-28",
+      "symbol": "82388",
+      "name": "�������-R",
+      "period": "6-MTH-ENDED30/06/26",
+      "session": null,
+      "date_kind": "board_meeting",
+      "status": "announced",
+      "source": "HKEX",
+      "name_en": "BOC HONG KONG-R"
     },
     {
       "market": "US",

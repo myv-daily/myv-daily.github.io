@@ -37,6 +37,11 @@ main { max-width:860px; margin:0 auto; padding:62px 28px 110px; }
 .calendar-intro>p:not(.eyebrow) { color:var(--muted); }
 .calendar-updated { font:13px/1.6 system-ui,sans-serif; }
 .source-state { display:flex; flex-wrap:wrap; gap:8px 22px; padding:0; list-style:none; color:var(--muted); font:13px/1.6 system-ui,sans-serif; }
+.calendar-filter-groups { display:flex; flex-wrap:wrap; align-items:center; gap:8px 32px; margin:0 0 26px; }
+.calendar-filters { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+.calendar-filters>span { color:var(--muted); font:13px/1.4 system-ui,sans-serif; }
+.calendar-filters button { border:1px solid var(--line); border-radius:999px; padding:7px 14px; background:transparent; color:var(--muted); font:13px/1.4 system-ui,sans-serif; cursor:pointer; }
+.calendar-filters button.selected { border-color:var(--accent); background:var(--accent); color:white; }
 .earnings-day { border-top:1px solid var(--line); padding:27px 0 14px; }
 .earnings-day h2 { margin:0 0 15px; font-size:23px; }
 .earnings-day h2 span { color:var(--muted); font:13px/1.6 system-ui,sans-serif; }
