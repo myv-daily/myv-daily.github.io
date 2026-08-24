@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "games",
+  "channel_title": "独立游戏观察",
+  "type": "daily",
+  "type_label": "日报",
+  "report_date": "2026-08-25",
+  "coverage_start": "2026-08-25",
+  "coverage_end": "2026-08-25",
+  "generated_at": "2026-08-25T05:30:17+08:00",
+  "run_id": "games-2026-08-25-1787609015180",
+  "public_path": "/games/daily/2026-08-25/"
+}
