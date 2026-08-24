@@ -43,6 +43,7 @@ main { max-width:860px; margin:0 auto; padding:62px 28px 110px; }
 .earnings-day h2 span { color:var(--muted); font:13px/1.6 system-ui,sans-serif; }
 .earnings-event { padding:11px 0 16px; border-top:1px dashed var(--line); }
 .earnings-event h3 { margin:0 0 2px; font-size:18px; line-height:1.45; }
+.earnings-event h3 span { color:var(--muted); font:400 14px/1.45 system-ui,sans-serif; white-space:nowrap; }
 .earnings-event p { margin:0; color:var(--muted); font:13px/1.6 system-ui,sans-serif; }
 footer { max-width:1080px; margin:0 auto; padding:34px 28px 54px; border-top:1px solid var(--line); color:var(--muted); font-size:13px; }
 @media (max-width:640px) { .site-header nav { display:none; } main { padding:34px 20px 78px; } .site-header { padding:22px 20px; } .intro { padding:26px 0 46px; } .feed-head { align-items:flex-start; flex-direction:column; } .filters { justify-content:flex-start; } .post-card>a { padding:28px 0 32px; } }
