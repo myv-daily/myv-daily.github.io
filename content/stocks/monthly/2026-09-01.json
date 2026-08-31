@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "channel": "stocks",
+  "channel_title": "股票观察",
+  "type": "monthly",
+  "type_label": "月报",
+  "report_date": "2026-09-01",
+  "coverage_start": "2026-08-01",
+  "coverage_end": "2026-08-31",
+  "generated_at": "2026-09-01T05:30:17+08:00",
+  "run_id": "stocks-2026-09-01-1788212355518",
+  "public_path": "/stocks/monthly/2026-09-01/"
+}

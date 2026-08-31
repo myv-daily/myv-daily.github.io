@@ -2,6 +2,32 @@
   {
     "channel": "general",
     "channel_title": "日常观察",
+    "type": "monthly",
+    "type_label": "月报",
+    "report_date": "2026-09-01",
+    "coverage_start": "2026-08-01",
+    "coverage_end": "2026-08-31",
+    "generated_at": "2026-09-01T05:30:17+08:00",
+    "title": "刚果埃博拉成为该国最致命一轮，异株疫苗开始追赶传播",
+    "excerpt": "刚果（金）的埃博拉疫情在八月从“增长过快的第二大疫情”变成了该国有记录以来死亡人数最多的一轮。8 月 12 日，死亡人数越过 2000；18 日，官方报告 4945 例确诊、2325 人死亡，超过 2018—2020 年疫情的 2299 人死亡纪录；到 21 日，数字又升至 …",
+    "public_path": "/general/monthly/2026-09-01/"
+  },
+  {
+    "channel": "stocks",
+    "channel_title": "股票观察",
+    "type": "monthly",
+    "type_label": "月报",
+    "report_date": "2026-09-01",
+    "coverage_start": "2026-08-01",
+    "coverage_end": "2026-08-31",
+    "generated_at": "2026-09-01T05:30:17+08:00",
+    "title": "英伟达收入翻倍之后，AI产业链开始把资本风险写进资产负债表",
+    "excerpt": "8月最重要的变化并不是AI需求消失，恰恰相反，芯片、云和应用公司都给出了更扎实的收入证据。真正变化的是投资的承担方式：供应商开始提供投资、账期和信用支持，云厂商让自由现金流转负，平台公司则直接向股东融资。与此同时，消费、汽车、地产和周期公司的中报也把不少“增长故事”还原成了更…",
+    "public_path": "/stocks/monthly/2026-09-01/"
+  },
+  {
+    "channel": "general",
+    "channel_title": "日常观察",
     "type": "weekly",
     "type_label": "周报",
     "report_date": "2026-08-31",
@@ -24,19 +50,6 @@
     "title": "隆基半年经营现金净流出58亿元，BC放量仍未换来盈利",
     "excerpt": "8月24日至30日，观察池最晚出现、也最值得补进本周判断的三份报告来自隆基绿能、中国石油和长江电力。它们在周末披露，尚未经历下一个交易日，因而下面只能讨论经营变化，不能把8月28日的收盘价解释为市场反馈。除此之外，本周的重要变化并不集中在一个行业：阿里把AI投入的股权代价量化…",
     "public_path": "/stocks/weekly/2026-08-31/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "weekly",
-    "type_label": "周报",
-    "report_date": "2026-08-31",
-    "coverage_start": "2026-08-24",
-    "coverage_end": "2026-08-30",
-    "generated_at": "2026-08-31T05:30:17+08:00",
-    "title": "《Garden of Witches》1.0 推倒旧构筑重来，1,582 条累计评价仍不能替新战斗验收",
-    "excerpt": "本周几款最值得看的独立游戏，都不只是在熟悉类型上换一层外观。《Garden of Witches》发现旧构筑没有真正改变玩家手上的动作，于是在 1.0 重写战斗；《TRADESMAN》让货物同时成为利润和路途危险；《Blood Dungeon》则把固定地图的知识带进自动射击。…",
-    "public_path": "/games/weekly/2026-08-31/"
   },
   {
     "channel": "general",
@@ -65,19 +78,6 @@
     "public_path": "/stocks/daily/2026-08-30/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-30",
-    "coverage_start": "2026-08-30",
-    "coverage_end": "2026-08-30",
-    "generated_at": "2026-08-30T05:30:16+08:00",
-    "title": "《TRADESMAN》1.0 获 1,196 条推荐，载货越多，道路反而越危险",
-    "excerpt": "今天早间排在 8 月 30 日的几款独立游戏大多还没有实际解锁，因此本期最完整的判断来自一款稍早结束抢先体验、此前却没有讨论过的作品。《TRADESMAN: Deal to Dealer》已经有足够多的长时玩家反馈；另外三款新作目前只能确认玩法方向，不能把一纸商店介绍提前写成…",
-    "public_path": "/games/daily/2026-08-30/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -102,19 +102,6 @@
     "title": "五粮液半年净利增89%，经营现金流却转为负值",
     "excerpt": "8月28日收市后到29日凌晨，观察池新增的信息密集落在中报和业绩会上。五粮液的高增长主要来自会计口径重置后的低基数，当前动销仍需更高促销和更宽松的收款支持；美团在补贴退坡后迅速扭亏，却还不能把一个旺季季度的利润率直接年化。比亚迪电子确认盈利底盘仍弱，蜜雪集团则把增长降档和能力…",
     "public_path": "/stocks/daily/2026-08-29/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-29",
-    "coverage_start": "2026-08-29",
-    "coverage_end": "2026-08-29",
-    "generated_at": "2026-08-29T05:30:17+08:00",
-    "title": "《Garden of Witches》1.0 重写战斗，短篇故事完成了，长期构筑仍待验证",
-    "excerpt": "今天的四款独立游戏处在很不一样的证据阶段。《Garden of Witches》带着一年多的抢先体验积累进入 1.0，可以判断它的重做究竟改变了什么；《A Little Age》与《Divinum》刚刚解锁，只适合辨认玩法身份和首发风险；《Aggelos 2》虽然样本同样很小…",
-    "public_path": "/games/daily/2026-08-29/"
   },
   {
     "channel": "general",
@@ -143,19 +130,6 @@
     "public_path": "/stocks/daily/2026-08-28/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-28",
-    "coverage_start": "2026-08-28",
-    "coverage_end": "2026-08-28",
-    "generated_at": "2026-08-28T05:30:16+08:00",
-    "title": "《Sludgineers》获 473 条评价，主动清污成立，后期炼厂却让玩家重新等待",
-    "excerpt": "今天值得看的四款独立游戏，采取了四种不同的类型压缩方式：把增量成长装进一辆清污车，把开放群岛分成水上飞机连接的独立区域，把地牢搜刮接到自己的商店，再把大战略缩短到一晚可以完成。只有《Sludgineers》的反馈已经成熟到足以形成带边界的质量判断；另外三款更适合先确认实际结构…",
-    "public_path": "/games/daily/2026-08-28/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -180,19 +154,6 @@
     "title": "英伟达季度收入突破962亿美元，客户融资成为AI需求的新考题",
     "excerpt": "8月27日凌晨，英伟达把AI基础设施需求再次变成了硬数字；同一天值得关注的变化并不都来自科技股。理想汽车的毛利率虽从一季度低点修复，仍远离过去的盈利中枢；安踏用利润率和现金流证明多品牌扩张没有继续稀释增长质量；格力电器则把此前的行业压力落实为公司层面的二季度收缩。禅游科技收入…",
     "public_path": "/stocks/daily/2026-08-27/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-27",
-    "coverage_start": "2026-08-27",
-    "coverage_end": "2026-08-27",
-    "generated_at": "2026-08-27T05:30:17+08:00",
-    "title": "《Blood Dungeon》短中期路线玩法成立，十小时后仍回到刷取",
-    "excerpt": "昨天只能确认《Blood Dungeon》把自动射击搬进平台场地的方向确实可玩；今天增长的玩家样本和长流程评测，已经能进一步看清这项变化能维持多久。另一边，两款短游戏分别给“厨房实验”和“增量点击”设置了明确终点，还有两个刚开放的 Demo，正尝试把职业流程与地产棋盘变成新的…",
-    "public_path": "/games/daily/2026-08-27/"
   },
   {
     "channel": "general",
@@ -221,19 +182,6 @@
     "public_path": "/stocks/daily/2026-08-26/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-26",
-    "coverage_start": "2026-08-26",
-    "coverage_end": "2026-08-26",
-    "generated_at": "2026-08-26T05:30:07+08:00",
-    "title": "《Polylithic》终于发布 1.0，首个热修先救多人采集与战斗",
-    "excerpt": "昨天清晨，《Polylithic》还只是 Steam 页面上一个准备结束抢先体验的日期；北京时间今天约 01:20，1.0 才真正交到玩家手里。这个时间差很重要，因为“计划发布”只能让人核对承诺，“构建上线”才允许检验一款做了近三年的史前生存游戏，是否已经能让整座部落可靠运转…",
-    "public_path": "/games/daily/2026-08-26/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -258,19 +206,6 @@
     "title": "阿里以折价 8.37% 配售 800 亿港元，AI 投入开始形成明确摊薄",
     "excerpt": "8 月 24 日，阿里巴巴的大额 AI 融资条款正式落地；中烟香港和华晨中国则在中报后分别因利润率改善和高额股息获得正面价格反馈。美光把本轮存储景气产生的现金进一步锁进长期研发，两家港股大模型公司的指数预期交易则迅速回吐。这些变化分别落在资本配置、经营结构和事件定价上，不能只…",
     "public_path": "/stocks/daily/2026-08-25/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-25",
-    "coverage_start": "2026-08-25",
-    "coverage_end": "2026-08-25",
-    "generated_at": "2026-08-25T05:30:17+08:00",
-    "title": "《Polylithic》计划今日结束近三年抢先体验，崩溃与任务阻断仍待 1.0 验收",
-    "excerpt": "北京时间今天清晨，《Polylithic》还没有实际切换到 1.0，也没有发布正式版公告。Steam 页面仍把它列为抢先体验作品，只标明计划于 8 月 25 日结束 EA；所以现在能够确认的是一个即将接受验收的节点，而不是“正式版已经完成”。商店页面显示，polyperfec…",
-    "public_path": "/games/daily/2026-08-25/"
   },
   {
     "channel": "general",
@@ -299,19 +234,6 @@
     "public_path": "/stocks/weekly/2026-08-24/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "weekly",
-    "type_label": "周报",
-    "report_date": "2026-08-24",
-    "coverage_start": "2026-08-17",
-    "coverage_end": "2026-08-23",
-    "generated_at": "2026-08-24T05:30:16+08:00",
-    "title": "《Twisted Tower》获 1,148 条推荐，玩具乐园撑起了一段紧凑射击短篇",
-    "excerpt": "本周几款此前没有公开讨论的新作，已经积累到足以说明实际体验的反馈。《Twisted Tower》的乐园射击获得了相当稳定的认可；《Stackmon》把卡片生产和生物收集真正接了起来，却让存档事故直接改变了是否适合现在入手的判断。另两部规模更小的作品，辨识度已经出现，完成度仍需…",
-    "public_path": "/games/weekly/2026-08-24/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -336,19 +258,6 @@
     "title": "九典制药净利下降45%，集采冲击已进入盈利基线",
     "excerpt": "8月23日是周日，没有新的市场交易。本期真正需要更新的不是普通价格波动，而是五项尚未在此前日报展开的基本面和资本配置变化：九典制药半年报确认核心品种集采后的盈利能力明显下移；中国广核的新机组、项目核准与低息融资同时推进；TCL科技收购t9少数股权接近交割；禅游科技的高现金、高…",
     "public_path": "/stocks/daily/2026-08-23/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-23",
-    "coverage_start": "2026-08-23",
-    "coverage_end": "2026-08-23",
-    "generated_at": "2026-08-23T05:30:11+08:00",
-    "title": "《Social Democracy》获 63 条推荐，但 Steam 版还没带来旧作的模组生态",
-    "excerpt": "今天最值得补上的新发现，并不是一款从零开始接受首发检验的游戏，而是一部从浏览器与 itch.io 迁移到 Steam 的政治模拟旧作。与此同时，《VHOLUME》的评价样本在一天内扩大近四倍，让昨天仍偏早的跑酷判断有了更长流程支撑；《The Sorting Bureau》和《…",
-    "public_path": "/games/daily/2026-08-23/"
   },
   {
     "channel": "general",
@@ -377,19 +286,6 @@
     "public_path": "/stocks/daily/2026-08-22/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-22",
-    "coverage_start": "2026-08-22",
-    "coverage_end": "2026-08-22",
-    "generated_at": "2026-08-22T05:30:17+08:00",
-    "title": "《VHOLUME》正式版验证了跑酷手感，粗野主义迷宫开始容纳两种读法",
-    "excerpt": "今天凌晨，《VHOLUME》和《The Sorting Bureau》先后解锁，昨日晚间推出的《醉风酒》也开始出现正式版反馈。它们都还年轻，推荐率只能描述首批玩家的方向，不能替代完整验收。另一边，《The Pale Mimic》已经从几乎无法判断的 26 条评价增长到 167…",
-    "public_path": "/games/daily/2026-08-22/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -414,19 +310,6 @@
     "title": "快手财报后跌约11%，可灵增长仍追不上主业减速",
     "excerpt": "8月20日前后密集发布的财报，给观察池带来了八项值得保留的变化。快手的可灵收入继续高增，但广告减速、直播收缩和AI投入已一起压低利润；阿里云的收入与利润率同时改善，代价却是自由现金流流出扩大；泡泡玛特在国内和新IP上找到了接棒者，海外收入与THE MONSTERS却首次绝对回…",
     "public_path": "/stocks/daily/2026-08-21/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-21",
-    "coverage_start": "2026-08-21",
-    "coverage_end": "2026-08-21",
-    "generated_at": "2026-08-21T05:30:00+08:00",
-    "title": "《VHOLUME》今日待解锁：官僚迷宫也可以是一条速通路线",
-    "excerpt": "今天清晨已经有一批独立游戏形成了足以讨论的玩家反馈，稍晚还有三款方向鲜明的新作等待正式版验证。它们目前都尚未解锁、没有正式版玩家评价，所以下面能确认的是作品想让玩家做什么，以及上线后最值得检查什么，而不是质量结论。 《VHOLUME》让跑酷成为逃离官僚秩序的方法 三人团队制作…",
-    "public_path": "/games/daily/2026-08-21/"
   },
   {
     "channel": "general",
@@ -455,19 +338,6 @@
     "public_path": "/stocks/daily/2026-08-19/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-19",
-    "coverage_start": "2026-08-19",
-    "coverage_end": "2026-08-19",
-    "generated_at": "2026-08-19T05:30:16+08:00",
-    "title": "《The Lantern of the Laughless Saint》三天连发四轮热修，但还不能说已稳定",
-    "excerpt": "今天值得记录的不只是又有哪些游戏挂上了购买按钮。一款旧式 RPG 正在用密集热修追赶首发问题，一款把生物放归野外的抢先体验作品则终于有了足以观察核心循环的玩家反馈。另两款新作刚进入可玩或即将可玩的阶段，当下最有用的仍是说清它们已经证明什么，又有哪些问题还不能回答。本文评价数均…",
-    "public_path": "/games/daily/2026-08-19/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -492,19 +362,6 @@
     "title": "智谱发布 GLM-5.3，首个完整交易日股价反跌 5.3%",
     "excerpt": "8 月 18 日这期观察里，真正改变公司判断的新增信息只有一项：智谱把 GLM-5.3 从模型更新推进到可用产品，但商业化仍没有同步证据。另有两个价格信号值得简要保留：名创优品单日下跌 7.43%，暂未找到相应公司公告；美光最近五个采样点累计上涨 17.51%，反映既有 AI…",
     "public_path": "/stocks/daily/2026-08-18/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-18",
-    "coverage_start": "2026-08-18",
-    "coverage_end": "2026-08-18",
-    "generated_at": "2026-08-18T05:30:17+08:00",
-    "title": "《Starsand Island》1.0 今晚解锁，三款新作仍在等待首日证据",
-    "excerpt": "今天的独立游戏节点集中在北京时间晚间。清晨检查时，《Starsand Island》尚未从抢先体验转入 1.0，《Entropy》和《The Sinking City 2》的标准版也仍未解锁。与其提前宣布它们已经发布，更有用的是先说明各自改变了什么，以及上线后真正需要等待哪些…",
-    "public_path": "/games/daily/2026-08-18/"
   },
   {
     "channel": "general",
@@ -533,19 +390,6 @@
     "public_path": "/stocks/weekly/2026-08-17/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "weekly",
-    "type_label": "周报",
-    "report_date": "2026-08-17",
-    "coverage_start": "2026-08-10",
-    "coverage_end": "2026-08-16",
-    "generated_at": "2026-08-17T05:30:12+08:00",
-    "title": "《Servant of the Lake》获 3,731 条推荐，首发坏档却险些毁掉整段旅程",
-    "excerpt": "这一周值得看的独立游戏，并不都需要等到评价完全成熟。《Servant of the Lake》《Sovereign Tower》和《Hole Is Mine》已经积累起足够完整的玩家经验，可以谈清楚它们为何成立、又在哪里失手；几款抢先体验作品则更适合判断创作方向是否已经落地。…",
-    "public_path": "/games/weekly/2026-08-17/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -570,19 +414,6 @@
     "title": "宁德时代储能收入增长87.5%，764GWh在建产能抬高现金回报门槛",
     "excerpt": "8月16日是周日，观察池没有新的交易价格或公司公告。本期最值得保留的变化来自对宁德时代过去一个月信息的首次连续复查：需求已经不再是最需要证明的问题，销量、份额和储能收入都在加速；真正的新约束转向单位盈利、现金转化，以及大规模扩产能否产生足够回报。公司同时提出200亿至400亿…",
     "public_path": "/stocks/daily/2026-08-16/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-16",
-    "coverage_start": "2026-08-16",
-    "coverage_end": "2026-08-16",
-    "generated_at": "2026-08-16T05:30:17+08:00",
-    "title": "《Hole Is Mine》在 441 条评价后显出主动型增量游戏的得失",
-    "excerpt": "今天没有必要制造一张周日发售清单。更值得补进视野的是几款本周已经积累起实际经验的独立作品：《Hole Is Mine》用短流程和持续操作改写了增量游戏的节奏，《Knytt Classic》让一款二十年前的免费作品重新变得易于抵达；样本尚小的《Backpack Boy》也已经显…",
-    "public_path": "/games/daily/2026-08-16/"
   },
   {
     "channel": "general",
@@ -611,19 +442,6 @@
     "public_path": "/stocks/daily/2026-08-15/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-15",
-    "coverage_start": "2026-08-15",
-    "coverage_end": "2026-08-15",
-    "generated_at": "2026-08-15T05:30:17+08:00",
-    "title": "《Sovereign Tower》在 1,630 条评价后显出回溯设计的得失",
-    "excerpt": "几天前观察《Sovereign Tower》时，正式版还缺少足够的玩家经验，只能确认时间回溯与王国管理结合得很有想法。如今评价样本已经成熟，玩家不只走完第一条时间线，也开始说明多次改写命运为什么吸引人、又会在哪里变成负担。另一边，刚进入抢先体验的《Sandustry》发布了首…",
-    "public_path": "/games/daily/2026-08-15/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -648,19 +466,6 @@
     "title": "Pershing Square重返奈飞，5.4%放量上涨仍待经营增速确认",
     "excerpt": "8月13日，观察池里最明确的新变化来自奈飞：Pershing Square正式披露重新建仓，股价随之放量上涨。大麦娱乐的单日回撤没有相应公告，却值得借完整年报重新审视“巨额净现金”的质量；智谱与MINIMAX-W则继续走强，但价格暂时没有得到新经营数据支持。这三项变化彼此没有…",
     "public_path": "/stocks/daily/2026-08-14/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-14",
-    "coverage_start": "2026-08-14",
-    "coverage_end": "2026-08-14",
-    "generated_at": "2026-08-14T05:30:17+08:00",
-    "title": "《Sandustry》首批 176 条评价中有 173 条推荐",
-    "excerpt": "昨夜解锁的几款独立游戏已经开始提供第一批实玩证据，但成熟程度并不相同。《Sandustry》的玩家正在说明它如何重新分配工厂游戏的复杂度，《Duskfade》初步触达了自己瞄准的怀旧手感；稍早发行的《Horse Magnifier: The Full Horse》则已有足够反…",
-    "public_path": "/games/daily/2026-08-14/"
   },
   {
     "channel": "general",
@@ -689,19 +494,6 @@
     "public_path": "/stocks/daily/2026-08-13/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-13",
-    "coverage_start": "2026-08-13",
-    "coverage_end": "2026-08-13",
-    "generated_at": "2026-08-13T05:30:17+08:00",
-    "title": "《Agefield High》首发 310 条评价中仅 83 条推荐",
-    "excerpt": "昨天刚刚开门的《Agefield High: Rock the School》，今天已经不再只是一个等待反馈的校园冒险：截至 8 月 13 日清晨，它在 Steam 的 310 条玩家评价中只有 83 条推荐。另一边，《Mandate Order》迅速积累起较积极、但仍带着明…",
-    "public_path": "/games/daily/2026-08-13/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "daily",
@@ -726,19 +518,6 @@
     "title": "华晨中国上半年利润预警降逾五成，宝马中国二季度交付下滑30.2%",
     "excerpt": "8月12日新增的公司级信息并不多，但两条信号值得分别保留。华晨中国已经用盈利预警确认核心资产继续承压，低市净率与潜在高分红的投资逻辑需要下调盈利基线；滨江集团则放量涨停并重新越过7月底高点，但当天没有同步出现能够解释这次上涨的经营披露，价格暂时跑在了证据前面。 华晨中国：核心…",
     "public_path": "/stocks/daily/2026-08-12/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-12",
-    "coverage_start": "2026-08-12",
-    "coverage_end": "2026-08-12",
-    "generated_at": "2026-08-12T14:03:37+08:00",
-    "title": "《Fields of Mistria》用两年抢先体验补完一座小镇",
-    "excerpt": "8 月 12 日的新作刚开始接受玩家检验，今天真正有条件深入判断的，反而是一周前完成 1.0 的《Fields of Mistria》。另外几款作品的方向已经足够鲜明，却还不适合用首发数字匆忙划分好坏。 《Fields of Mistria》1.0 补上的不是功能，而是生活的…",
-    "public_path": "/games/daily/2026-08-12/"
   },
   {
     "channel": "general",
@@ -767,19 +546,6 @@
     "public_path": "/stocks/daily/2026-08-11/"
   },
   {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "daily",
-    "type_label": "日报",
-    "report_date": "2026-08-11",
-    "coverage_start": "2026-08-11",
-    "coverage_end": "2026-08-11",
-    "generated_at": "2026-08-11T16:27:20+08:00",
-    "title": "8 月 11 日暂无足够新证据更新游戏判断",
-    "excerpt": "截至 8 月 11 日下午，本期没有出现同时满足“反馈足以形成判断”与“相较上次讨论已有新证据”的游戏。《Agent 64: Spies Never Die》《Mandate Order》和《RIFTSTORM》仍未在 Steam 解锁，《No More Room in He…",
-    "public_path": "/games/daily/2026-08-11/"
-  },
-  {
     "channel": "general",
     "channel_title": "日常观察",
     "type": "weekly",
@@ -804,18 +570,5 @@
     "title": "九号公司单周跌 9.3%，白酒提价行情回吐",
     "excerpt": "本周九只观察标的呈现出颇有意味的分化：拼多多上涨3.6%，谭木匠持平；美团仅微跌0.3%，而贵州茅台、五粮液、格力电器、安踏体育、微博和九号公司分别下跌3.1%、3.7%、5.2%、5.6%、2.6%和9.3%。这里的周涨跌以7月31日收盘到8月7日收盘计算，价格分别取自各公…",
     "public_path": "/stocks/weekly/2026-08-10/"
-  },
-  {
-    "channel": "games",
-    "channel_title": "独立游戏观察",
-    "type": "weekly",
-    "type_label": "周报",
-    "report_date": "2026-08-10",
-    "coverage_start": "2026-08-03",
-    "coverage_end": "2026-08-09",
-    "generated_at": "2026-08-10T05:30:00+08:00",
-    "title": "Game Freak 新作评价分化，《Marvel Tōkon》PC 首发受阻",
-    "excerpt": "八月第一周没有密集的大型发布会，却很适合观察游戏业眼下最真实的矛盾：玩家依然愿意为陌生方向、知名角色和新硬件兴奋，但“有想法”已经越来越难替首发完成度挡刀。Game Freak 的一次远行、索尼押注的 Marvel 格斗游戏，以及 Switch 2 的新一季成绩，恰好从作品、…",
-    "public_path": "/games/weekly/2026-08-10/"
   }
 ]
