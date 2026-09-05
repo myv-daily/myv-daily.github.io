@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T22:12:00.738Z",
-  "today": "2026-09-05",
-  "coverage_start": "2026-09-05",
-  "coverage_end": "2026-09-20",
+  "generated_at": "2026-09-05T21:56:49.234Z",
+  "today": "2026-09-06",
+  "coverage_start": "2026-09-06",
+  "coverage_end": "2026-09-21",
   "eligibility_generated_at": "2026-08-24T18:42:01+08:00",
   "events": [
     {
@@ -537,6 +537,70 @@
       "gross_margin": null,
       "net_margin": 0.06577946471107363,
       "business": "－ 集团主要从事制造、进出口及销售地毡，制造及销售毛纱，以及销售皮革。"
+    },
+    {
+      "market": "US",
+      "date": "2026-09-21",
+      "symbol": "KEP",
+      "name": "Korea Electric Power Corporation",
+      "period": "Jun/2026",
+      "session": null,
+      "date_kind": "scheduled_results",
+      "status": "scheduled",
+      "source": "Nasdaq",
+      "market_cap_yi": 971.584812951416,
+      "pe_ttm": 2.5649204,
+      "gross_margin": null,
+      "net_margin": 0.08848639956682773,
+      "business": "Korea Electric Power Corp is an electric utility company in which the government of South Korea holds a controlling stake. The firm operates in the following segments: Transmiss…"
+    },
+    {
+      "market": "US",
+      "date": "2026-09-21",
+      "symbol": "MSB",
+      "name": "Mesabi Trust",
+      "period": "Jul/2026",
+      "session": null,
+      "date_kind": "scheduled_results",
+      "status": "scheduled",
+      "source": "Nasdaq",
+      "market_cap_yi": 20.076998023127747,
+      "pe_ttm": 26.476744,
+      "gross_margin": null,
+      "net_margin": 0.8369702630094354,
+      "business": "Mesabi Trust operates as a royalty trust in the United States. The company involves in the conservation and protection of the assets held. Its principally wholly-owned segment i…"
+    },
+    {
+      "market": "US",
+      "date": "2026-09-21",
+      "symbol": "RLGT",
+      "name": "Radiant Logistics, Inc.",
+      "period": "Jun/2026",
+      "session": null,
+      "date_kind": "scheduled_results",
+      "status": "scheduled",
+      "source": "Nasdaq",
+      "market_cap_yi": 26.531925361399843,
+      "pe_ttm": 25.545454,
+      "gross_margin": null,
+      "net_margin": 0.019154842826377874,
+      "business": "Radiant Logistics, Inc. ( www.radiantdelivers.com ) operates as a third-party logistics company, providing technology-enabled global transportation and value-added logistics ser…"
+    },
+    {
+      "market": "US",
+      "date": "2026-09-21",
+      "symbol": "VALU",
+      "name": "Value Line, Inc.",
+      "period": "Jul/2026",
+      "session": null,
+      "date_kind": "scheduled_results",
+      "status": "scheduled",
+      "source": "Nasdaq",
+      "market_cap_yi": 23.159574164108275,
+      "pe_ttm": 15.969565,
+      "gross_margin": null,
+      "net_margin": 0.5896975398386499,
+      "business": "Value Line Inc is a U.S based company. It produces investment periodicals based on underlying research and making available copyright data, including ranking system and other in…"
     }
   ],
   "sources": [
@@ -544,7 +608,7 @@
       "market": "US",
       "source": "Nasdaq earnings calendar",
       "available": true,
-      "event_count": 156,
+      "event_count": 168,
       "error": null
     },
     {
