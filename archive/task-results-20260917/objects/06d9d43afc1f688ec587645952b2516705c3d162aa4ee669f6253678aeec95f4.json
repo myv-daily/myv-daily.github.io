@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "company_ids": [
+    "us-googl",
+    "hk-02513",
+    "us-aapl",
+    "cn-689009",
+    "cn-600795",
+    "cn-600886"
+  ]
+}

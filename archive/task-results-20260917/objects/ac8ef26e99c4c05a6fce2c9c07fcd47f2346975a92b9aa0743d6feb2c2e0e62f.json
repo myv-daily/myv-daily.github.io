@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "company_ids": [
+    "us-tsla",
+    "us-li",
+    "cn-003816",
+    "hk-03690",
+    "us-bidu",
+    "us-mu"
+  ]
+}

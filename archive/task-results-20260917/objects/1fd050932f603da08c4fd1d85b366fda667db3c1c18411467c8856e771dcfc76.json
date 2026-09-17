@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-600660",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.14%",
+      "quote_symbol": "hk03606",
+      "quote_time": "2026/08/24 16:08:25"
+    },
+    {
+      "company_id": "cn-300705",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.62%；最近 5 个采样点累计 -10.78%",
+      "quote_symbol": "sz300705",
+      "quote_time": "20260824161412"
+    },
+    {
+      "company_id": "cn-601360",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.44%",
+      "quote_symbol": "sh601360",
+      "quote_time": "20260824161454"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.61%；最近 5 个采样点累计 +11.16%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +7.82%；最近 5 个采样点累计 +9.81%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/08/24 16:08:24"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -16.40%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -8.54%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-01810",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.14%",
+      "quote_symbol": "hk01810",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-00700",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.72%",
+      "quote_symbol": "hk00700",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +13.51%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-06055",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.24%；最近 5 个采样点累计 +12.41%",
+      "quote_symbol": "hk06055",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-09898",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.77%；最近 5 个采样点累计 -9.49%",
+      "quote_symbol": "hk09898",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.03%",
+      "quote_symbol": "hk09992",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -10.08%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/24 16:08:25"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -10.81%；最近 5 个采样点累计 -16.29%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.07%；最近 5 个采样点累计 -17.61%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-03316",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.58%",
+      "quote_symbol": "hk03316",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "hk-01209",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.59%",
+      "quote_symbol": "hk01209",
+      "quote_time": "2026/08/24 16:08:26"
+    },
+    {
+      "company_id": "us-li",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.37%",
+      "quote_symbol": "usLI",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.58%",
+      "quote_symbol": "usAVGO",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -11.47%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-ddl",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.45%",
+      "quote_symbol": "usDDL",
+      "quote_time": "2026-08-24 16:04:59"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.27%；最近 5 个采样点累计 -24.06%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-amd",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.49%；最近 5 个采样点累计 -9.73%",
+      "quote_symbol": "usAMD",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.83%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-ntes",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.06%",
+      "quote_symbol": "usNTES",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "us-mu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.83%；最近 5 个采样点累计 -10.01%",
+      "quote_symbol": "usMU",
+      "quote_time": "2026-08-24 16:00:01"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月23日（窗口内）阿里巴巴签订配售协议，并于8月24日公布定价：按每股112.70港元配售7.10亿股新股，预计募资总额约800亿港元；公司拟将净募集资金100%用于全栈AI能力（包括扩建和增强AI基础设施）。这是规模显著、带来股权摊薄并强化AI资本开支方向的正式融资披露，可能改变市场对其资本配置与短期每股价值的理解。",
+      "sources": [
+        "https://alihome.alibaba-inc.com/en-US/document-2028384807859257344",
+        "https://www.alibabagroup.com/zh-HK/ir-filings-hkex"
+      ]
+    }
+  ]
+}

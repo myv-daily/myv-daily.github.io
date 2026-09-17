@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-301061",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.12%",
+      "quote_symbol": "sz301061",
+      "quote_time": "20260826161400"
+    },
+    {
+      "company_id": "cn-300705",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.21%",
+      "quote_symbol": "sz300705",
+      "quote_time": "20260826161418"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.55%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260826161415"
+    },
+    {
+      "company_id": "cn-002244",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.23%",
+      "quote_symbol": "sz002244",
+      "quote_time": "20260826161442"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.49%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/26 16:08:06"
+    },
+    {
+      "company_id": "hk-03690",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -10.34%",
+      "quote_symbol": "hk03690",
+      "quote_time": "2026/08/26 16:08:06"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +12.69%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/08/26 16:08:06"
+    },
+    {
+      "company_id": "hk-02020",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +9.53%",
+      "quote_symbol": "hk02020",
+      "quote_time": "2026/08/26 16:08:04"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.00%；最近 5 个采样点累计 +18.40%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/26 16:08:07"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.02%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/26 16:08:07"
+    },
+    {
+      "company_id": "hk-06055",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +13.85%",
+      "quote_symbol": "hk06055",
+      "quote_time": "2026/08/26 16:08:07"
+    },
+    {
+      "company_id": "hk-00175",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.27%",
+      "quote_symbol": "hk00175",
+      "quote_time": "2026/08/26 16:08:05"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -11.06%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/08/26 16:08:03"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.58%；最近 5 个采样点累计 -13.01%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-26 16:00:01"
+    },
+    {
+      "company_id": "us-ntes",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.17%",
+      "quote_symbol": "usNTES",
+      "quote_time": "2026-08-26 16:00:01"
+    },
+    {
+      "company_id": "us-li",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-26，理想汽车披露2026年第二季度未经审计业绩：交付98,330辆，同比下降11.5%；汽车销售收入同比下降16.7%，整车毛利率由上年同期19.4%降至9.4%，总收入同比下降15.1%，毛利同比下降53.3%。正式季报显示销量、收入和盈利能力均明显承压，值得进一步复查产品换代、价格竞争及下半年毛利修复假设。",
+      "sources": [
+        "https://ir.lixiang.com/zh-hant/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial"
+      ]
+    },
+    {
+      "company_id": "cn-000651",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-26晚，格力电器披露2026年半年报：上半年营收893.98亿元、同比下降8.15%，归母净利润132.78亿元、同比下降7.87%；第二季度营收同比下降16.8%、归母净利润同比下降15.4%，外销主营收入同比下降21.98%，且本次中期不派现。正式财报显示增长、海外业务及分红节奏出现需复查的变化。",
+      "sources": [
+        "https://paper.cnstock.com/html/2026-08/27/content_2260661.htm"
+      ]
+    },
+    {
+      "company_id": "hk-02660",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-26 21:24，禅游科技在港交所发布2026年中期业绩：收入约8.05亿元、同比增长13.4%，但净利润约1.69亿元、同比下降7.8%，主要因销售及分销开支和所得税开支增加；收入增长主要来自棋牌类游戏付费用户与ARPPU提升。收入恢复而利润仍下滑，显示获客成本及盈利转化存在需进一步核验的分化。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082601701.pdf"
+      ]
+    }
+  ]
+}

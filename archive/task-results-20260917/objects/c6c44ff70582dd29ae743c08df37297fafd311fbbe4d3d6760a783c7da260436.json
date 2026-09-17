@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-601857",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "中国石油于窗口内披露2026年中期业绩：上半年营业收入1.527万亿元，同比增长5.3%；归母净利润1,039.36亿元，同比增长22.0%，中期每10股派2.6元（上年同期2.2元）。同时拟以自有资金42.05亿元增资昆仑资本，持股比例将由29.00%升至32.16%，资金主要投向私募股权基金及对外股权投资。业绩、分红与重大资本配置同时出现新增变化，值得复核盈利驱动及投资回报风险。",
+      "sources": [
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/601857_20260831_RZ5O.pdf",
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/601857_20260831_UBO5.pdf"
+      ]
+    },
+    {
+      "company_id": "cn-600900",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "长江电力于窗口内披露2026年半年报：上半年营业收入379.29亿元，同比增长3.36%；归母净利润147.56亿元，同比增长13.02%，利润增速明显高于收入增速。正式业绩披露显示盈利弹性发生积极变化，值得进一步核查来水、发电量、财务费用及一次性因素对增长的贡献和持续性。",
+      "sources": [
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/600900_20260831_E20Y.pdf"
+      ]
+    },
+    {
+      "company_id": "cn-601012",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "隆基绿能于窗口内披露2026年半年报：上半年营业收入270.45亿元，同比下降17.58%；归母净亏损36.84亿元，较上年同期亏损25.69亿元进一步扩大。光伏龙头收入收缩且亏损扩大属于可能改变既有理解的正式披露，值得进一步核查产品价格、产能减值、技术迭代及现金流压力。",
+      "sources": [
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/601012_20260831_AH8U.pdf"
+      ]
+    }
+  ]
+}

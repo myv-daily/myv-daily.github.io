@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "company_ids": [
+    "us-nvda",
+    "us-tsla",
+    "us-momo",
+    "us-brk-b",
+    "us-yumc",
+    "us-joyy",
+    "us-lmt"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-001328",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.02%",
+      "quote_symbol": "sz001328",
+      "quote_time": "20260811161403"
+    },
+    {
+      "company_id": "cn-689009",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +7.44%",
+      "quote_symbol": "sh689009",
+      "quote_time": "20260811161454"
+    },
+    {
+      "company_id": "hk-00837",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.39%",
+      "quote_symbol": "hk00837",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.22%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-01810",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.48%",
+      "quote_symbol": "hk01810",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -8.49%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.26%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.19%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.79%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-00883",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.59%",
+      "quote_symbol": "hk00883",
+      "quote_time": "2026/08/11 16:08:14"
+    },
+    {
+      "company_id": "hk-00175",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.26%",
+      "quote_symbol": "hk00175",
+      "quote_time": "2026/08/11 16:08:17"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.79%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/08/11 16:08:14"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.25%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-11 16:00:01"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.91%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-11 16:05:23"
+    },
+    {
+      "company_id": "us-edu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.31%",
+      "quote_symbol": "usEDU",
+      "quote_time": "2026-08-11 16:05:23"
+    },
+    {
+      "company_id": "us-ntes",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.14%",
+      "quote_symbol": "usNTES",
+      "quote_time": "2026-08-11 16:00:01"
+    },
+    {
+      "company_id": "us-spcx",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.93%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-08-11 16:00:01"
+    },
+    {
+      "company_id": "us-googl",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.84%",
+      "quote_symbol": "usGOOGL",
+      "quote_time": "2026-08-11 16:00:01"
+    },
+    {
+      "company_id": "us-tsm",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "台积电于2026年8月11日向SEC提交董事会决议：确认2026年二季度营收1.27038万亿新台币、净利润7065.6亿新台币及每股7新台币现金股息，并批准约294.425亿美元资本拨款，用于先进制程、先进封装及厂房等长期产能建设；同日公司披露与索尼半导体解决方案签署具有法律约束力的下一代图像传感器合资协议，台积电拟分阶段现金出资约2820亿日元，目标2029年量产。业绩、巨额资本开支与新合资项目均为可能改变产能及增长预期的正式披露。",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000536/tsm-boardx20260811.htm",
+        "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000539/sonysemiconductorsolutions.htm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "company_ids": [
+    "us-nvda",
+    "us-li",
+    "hk-02020",
+    "cn-000651",
+    "hk-02660",
+    "us-tsm",
+    "us-amd"
+  ]
+}

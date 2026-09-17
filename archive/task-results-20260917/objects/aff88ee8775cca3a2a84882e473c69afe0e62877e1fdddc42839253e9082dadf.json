@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "us-tsla",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "窗口内（2026-09-05 06:16 中国标准时间）Axios 披露，奥斯汀市政府数据显示，自特斯拉于 2025 年 6 月开始在当地测试 Cybercab 以来，市方已记录 10 起涉及特斯拉自动驾驶车辆的事故或投诉。该新增量化信息出现在 NHTSA 对 Cybercab 自我认证合规性启动 Audit Query 的背景下，可能影响对商业化扩张的风险判断；但事故与投诉的性质、严重程度及责任归属尚未披露，标记为弱信号并建议进一步核实。",
+      "sources": [
+        "https://www.axios.com/local/austin/2026/09/04/texas-tesla-cybercabs-austin",
+        "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification"
+      ]
+    }
+  ]
+}

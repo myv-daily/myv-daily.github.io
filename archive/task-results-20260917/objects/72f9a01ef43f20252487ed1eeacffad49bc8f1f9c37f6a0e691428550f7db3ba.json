@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-600710",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.80%；最近 5 个采样点累计 +8.00%",
+      "quote_symbol": "sh600710",
+      "quote_time": "20260909161446"
+    },
+    {
+      "company_id": "hk-03306",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.00%",
+      "quote_symbol": "hk03306",
+      "quote_time": "2026/09/09 16:08:10"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -22.83%；最近 20 个采样点累计 -22.51%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/09/09 16:08:07"
+    },
+    {
+      "company_id": "hk-03690",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.47%；最近 20 个采样点累计 -15.11%",
+      "quote_symbol": "hk03690",
+      "quote_time": "2026/09/09 16:08:12"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.39%；最近 20 个采样点累计 -22.61%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/09/09 16:08:09"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +11.09%；最近 5 个采样点累计 +9.88%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/09/09 16:08:12"
+    },
+    {
+      "company_id": "hk-02020",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.23%",
+      "quote_symbol": "hk02020",
+      "quote_time": "2026/09/09 16:08:09"
+    },
+    {
+      "company_id": "hk-01060",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.81%",
+      "quote_symbol": "hk01060",
+      "quote_time": "2026/09/09 16:08:12"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -21.47%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/09/09 16:08:12"
+    },
+    {
+      "company_id": "hk-00288",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.38%",
+      "quote_symbol": "hk00288",
+      "quote_time": "2026/09/09 16:08:06"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.14%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/09/09 16:08:06"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -18.22%；最近 20 个采样点累计 -24.38%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/09/09 16:08:10"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -22.20%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/09/09 16:08:12"
+    },
+    {
+      "company_id": "us-li",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.41%",
+      "quote_symbol": "usLI",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.55%；最近 5 个采样点累计 +12.99%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.09%；最近 20 个采样点累计 -30.89%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-tal",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.21%",
+      "quote_symbol": "usTAL",
+      "quote_time": "2026-09-09 16:04:53"
+    },
+    {
+      "company_id": "us-amd",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.04%；最近 5 个采样点累计 +13.38%",
+      "quote_symbol": "usAMD",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-mu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.11%；最近 20 个采样点累计 +18.34%",
+      "quote_symbol": "usMU",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-spcx",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.86%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-09-09 16:00:01"
+    },
+    {
+      "company_id": "us-aapl",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-09，苹果在秋季发布会上正式推出首款折叠屏 iPhone Duo，并同步发布 iPhone 18 Pro/Pro Max、Apple Watch Series 12 和 AirPods 5；核心产品线出现重大形态创新与集中换代，可能改变新品周期、定价和供应链预期，值得深研。",
+      "sources": [
+        "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+      ]
+    },
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-08，Meta 正式推出面向大众的个人 AI 智能体 Muse，可代用户执行邮件、旅行预订等任务，并在美国通过 iOS、Android 和网页端上线；这是其 AI 产品从问答走向执行型智能体的重要商业化节点，且随后股价显著上涨，值得深研。",
+      "sources": [
+        "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"
+      ]
+    },
+    {
+      "company_id": "cn-601857",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-09，受中东局势升级和供应担忧推动，布伦特原油突破每桶 100 美元。中国石油作为大型一体化油气生产商，对油价急升的上游盈利弹性、下游成本与政策传导均可能发生明显变化，构成需复查的强行业信号。",
+      "sources": [
+        "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"
+      ]
+    },
+    {
+      "company_id": "hk-00883",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-09，受中东局势升级和供应担忧推动，布伦特原油突破每桶 100 美元。中国海洋石油以上游勘探开发为主，盈利和现金流对油价变化较敏感，本次关键价位突破构成需复查的强行业信号。",
+      "sources": [
+        "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"
+      ]
+    }
+  ]
+}

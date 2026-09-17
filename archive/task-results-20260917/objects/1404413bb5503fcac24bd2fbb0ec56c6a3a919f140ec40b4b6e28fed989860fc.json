@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-600036",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.94%",
+      "quote_symbol": "hk03968",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "cn-301061",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +9.72%",
+      "quote_symbol": "sz301061",
+      "quote_time": "20260831161442"
+    },
+    {
+      "company_id": "cn-002003",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +11.53%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260831161412"
+    },
+    {
+      "company_id": "cn-002714",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.96%",
+      "quote_symbol": "sz002714",
+      "quote_time": "20260831161403"
+    },
+    {
+      "company_id": "cn-603393",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.60%",
+      "quote_symbol": "sh603393",
+      "quote_time": "20260831161447"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.05%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260831161409"
+    },
+    {
+      "company_id": "cn-002244",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.10%",
+      "quote_symbol": "sz002244",
+      "quote_time": "20260831161439"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.30%；最近 5 个采样点累计 -8.07%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/31 16:08:50"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -16.35%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.82%；最近 5 个采样点累计 -10.35%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.90%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/08/31 16:08:52"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -12.57%；最近 5 个采样点累计 -13.63%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-00288",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.90%；最近 5 个采样点累计 -9.52%",
+      "quote_symbol": "hk00288",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-01211",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.17%",
+      "quote_symbol": "hk01211",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +9.05%；最近 5 个采样点累计 +16.48%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/08/31 16:08:49"
+    },
+    {
+      "company_id": "hk-06055",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.43%",
+      "quote_symbol": "hk06055",
+      "quote_time": "2026/08/31 16:08:51"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +16.18%；最近 5 个采样点累计 +11.79%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/31 16:08:49"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +9.63%；最近 5 个采样点累计 +18.67%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/31 16:08:50"
+    },
+    {
+      "company_id": "hk-01209",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.27%",
+      "quote_symbol": "hk01209",
+      "quote_time": "2026/08/31 16:08:50"
+    },
+    {
+      "company_id": "us-momo",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.15%",
+      "quote_symbol": "usMOMO",
+      "quote_time": "2026-08-31 16:00:01"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.17%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-31 16:04:55"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.51%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-08-31 16:00:01"
+    },
+    {
+      "company_id": "us-yumc",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.81%",
+      "quote_symbol": "usYUMC",
+      "quote_time": "2026-08-31 16:04:55"
+    },
+    {
+      "company_id": "us-amzn",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-31，美国联邦贸易委员会联合22州正式起诉亚马逊，指控其在广告竞价中秘密加收费用、误导逾百万品牌和卖家，并寻求永久禁令及金钱救济。诉讼直接指向亚马逊高速增长的广告业务，潜在财务、合规及商业模式影响明确，列为强信号。",
+      "sources": [
+        "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+        "https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit"
+      ]
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-31，英伟达与联发科宣布把合作扩展至云端AI工厂、本地AI计算和汽车平台；联发科将采用NVLink Fusion，英伟达并投资35亿美元认购联发科可转债。数十亿美元级资本投入及跨多代平台合作可能改变英伟达定制XPU、边缘计算与汽车业务预期，列为强信号。",
+      "sources": [
+        "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      ]
+    },
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "2026-08-31，博通在VMware Explore正式推出VMware Private AI Cloud及其AI Factory、AgentMinder和Tanzu AI数据基础等配套能力，形成从基础设施部署到智能体治理的生产级私有AI产品组合。该发布扩展VMware商业化边界，但尚无订单或财务量化，列为弱信号。",
+      "sources": [
+        "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-vmware-private-ai-cloud-enabling-enterprises"
+      ]
+    },
+    {
+      "company_id": "us-amzn",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "2026-08-31，AWS确认沙特首个云区域将于2026年12月上线，并与HUMAIN扩大合作，承诺到2028年为沙特首个AI Zone提供最高50MW容量；该区域对应逾53亿美元计划投资。项目进度与新增AI容量具业务意义，但收入贡献仍待验证，列为弱信号。",
+      "sources": [
+        "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia"
+      ]
+    }
+  ]
+}

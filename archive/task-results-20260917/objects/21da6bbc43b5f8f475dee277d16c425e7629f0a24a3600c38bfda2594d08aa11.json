@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-300750",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.74%",
+      "quote_symbol": "hk03750",
+      "quote_time": "2026/08/21 16:08:13"
+    },
+    {
+      "company_id": "cn-300705",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.92%；最近 5 个采样点累计 -8.32%",
+      "quote_symbol": "sz300705",
+      "quote_time": "20260821161427"
+    },
+    {
+      "company_id": "cn-001328",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.07%",
+      "quote_symbol": "sz001328",
+      "quote_time": "20260821161451"
+    },
+    {
+      "company_id": "cn-002244",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.17%",
+      "quote_symbol": "sz002244",
+      "quote_time": "20260821161430"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.00%；最近 5 个采样点累计 +10.07%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/21 16:08:09"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -17.36%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/21 16:08:14"
+    },
+    {
+      "company_id": "hk-01810",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.54%；最近 5 个采样点累计 +13.27%",
+      "quote_symbol": "hk01810",
+      "quote_time": "2026/08/21 16:08:11"
+    },
+    {
+      "company_id": "hk-01060",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.03%",
+      "quote_symbol": "hk01060",
+      "quote_time": "2026/08/21 16:08:14"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +7.46%；最近 5 个采样点累计 +19.24%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/21 16:08:13"
+    },
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.06%",
+      "quote_symbol": "hk09992",
+      "quote_time": "2026/08/21 16:08:14"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +11.86%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/21 16:08:08"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +10.36%；最近 5 个采样点累计 -11.10%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/21 16:08:14"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -14.08%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/08/21 16:08:14"
+    },
+    {
+      "company_id": "hk-03316",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.71%",
+      "quote_symbol": "hk03316",
+      "quote_time": "2026/08/21 16:08:13"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -10.09%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-21 16:00:01"
+    },
+    {
+      "company_id": "us-ddl",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.66%",
+      "quote_symbol": "usDDL",
+      "quote_time": "2026-08-21 16:04:47"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.47%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-21 16:04:47"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -21.48%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-21 16:00:01"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.14%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-08-21 16:00:01"
+    },
+    {
+      "company_id": "us-ntes",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.98%",
+      "quote_symbol": "usNTES",
+      "quote_time": "2026-08-21 16:00:01"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "贝壳于2026-08-21发布2026年二季度未经审计业绩：净收入约245亿元，调整后经营利润约35.9亿元，调整后经营利润率14.6%、同比提升8.5个百分点，调整后净利润约31.9亿元、同比增长约74.9%。在收入偏软背景下盈利能力显著改善，且为近三年最强季度表现，属于需要进一步核验其成本优化可持续性及楼市交易复苏贡献的强信号。",
+      "sources": [
+        "https://finance.yahoo.com/real-estate/articles/ke-holdings-inc-announces-second-100000977.html",
+        "https://investors.ke.com/events/event-details/ke-holdings-inc-second-quarter-2026-earnings-conference-call"
+      ]
+    }
+  ]
+}

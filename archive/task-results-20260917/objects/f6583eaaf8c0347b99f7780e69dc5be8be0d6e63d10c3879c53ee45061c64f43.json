@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-600036",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-29披露2026年半年报：上半年归母净利润764.45亿元，同比增长2.02%；大财富管理收入同比增长18.44%，批发金融税前利润同比增长23.33%。正式定期报告提供了窗口内新增的盈利与业务结构信息，值得进一步拆解息差、财富管理修复及资产质量变化。",
+      "sources": [
+        "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12570089&stockid=600036",
+        "https://www.news.cn/money/20260829/37caf4e43109402185c72c562cc4a18d/c.html"
+      ]
+    },
+    {
+      "company_id": "cn-000333",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-29披露2026年半年报及中期分红方案：上半年营业总收入2611亿元，同比增长3.5%，归母净利润264.46亿元，同比增长1.66%，但扣非归母净利润195.95亿元，同比下降25.31%；拟每10股派现5元、合计约37.24亿元。利润质量与表观净利增速明显分化，且新增中期分红，值得进一步核查汇率及非经常性损益驱动。",
+      "sources": [
+        "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12572218&stockid=000333",
+        "https://finance.sina.com.cn/tech/roll/2026-08-29/doc-inipxyyv8817228.shtml"
+      ]
+    }
+  ]
+}

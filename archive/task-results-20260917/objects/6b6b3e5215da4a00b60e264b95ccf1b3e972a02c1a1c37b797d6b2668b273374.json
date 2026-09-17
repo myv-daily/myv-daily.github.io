@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "company_ids": [
+    "hk-03600",
+    "hk-09618",
+    "us-amd",
+    "cn-300705",
+    "cn-603393",
+    "hk-00100",
+    "us-tsm",
+    "us-nvda",
+    "us-msft"
+  ]
+}

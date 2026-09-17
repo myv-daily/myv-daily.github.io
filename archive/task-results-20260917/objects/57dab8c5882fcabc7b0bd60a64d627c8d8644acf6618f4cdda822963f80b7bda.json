@@ -1,0 +1,228 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-002003",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.93%；最近 5 个采样点累计 +11.50%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260827161424"
+    },
+    {
+      "company_id": "cn-601163",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.55%",
+      "quote_symbol": "sh601163",
+      "quote_time": "20260827161459"
+    },
+    {
+      "company_id": "cn-603393",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.38%；最近 5 个采样点累计 +9.20%",
+      "quote_symbol": "sh603393",
+      "quote_time": "20260827161443"
+    },
+    {
+      "company_id": "cn-603288",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.09%",
+      "quote_symbol": "sh603288",
+      "quote_time": "20260827161446"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.01%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260827161421"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.05%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-03690",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -9.73%",
+      "quote_symbol": "hk03690",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -8.37%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.48%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-01810",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.44%",
+      "quote_symbol": "hk01810",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.05%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.88%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.83%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/27 16:08:34"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +12.62%；最近 5 个采样点累计 +13.39%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/27 16:08:32"
+    },
+    {
+      "company_id": "hk-01837",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.70%",
+      "quote_symbol": "hk01837",
+      "quote_time": "2026/08/27 16:08:35"
+    },
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.49%",
+      "quote_symbol": "usAVGO",
+      "quote_time": "2026-08-27 16:00:01"
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +8.74%",
+      "quote_symbol": "usNVDA",
+      "quote_time": "2026-08-27 16:00:01"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.95%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-27 16:00:01"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.98%；最近 5 个采样点累计 -10.29%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-27 16:00:01"
+    },
+    {
+      "company_id": "us-yumc",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.22%；最近 5 个采样点累计 -8.12%",
+      "quote_symbol": "usYUMC",
+      "quote_time": "2026-08-27 16:04:50"
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "英伟达于北京时间扫描窗口内发布 FY2027 第二季度业绩：收入 962 亿美元，环比增长 18%、同比增长 106%；数据中心收入 890 亿美元，同比增长 117%，GAAP 与非 GAAP 毛利率均为 75.0%。正式财报显示增长显著加速，且与窗口内股价大涨相互印证，值得复核需求持续性、供应约束和后续指引。",
+      "sources": [
+        "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+      ]
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "上美股份于 2026-08-27 21:00 发布中期业绩：上半年收入 37.565 亿元人民币，同比下降 8.6%；期内利润 1.257 亿元，同比大降 77.4%，并取消中期股息（上年同期每股 0.5 元）。核心韩束品牌收入同比下降 20.4%，虽 newpage 与安敏优高速增长但尚未抵消，属于明显改变既有盈利理解的正式披露。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701717.pdf"
+      ]
+    },
+    {
+      "company_id": "hk-09626",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "哔哩哔哩于 2026-08-27 19:08 发布二季度业绩：收入 79.4 亿元人民币，同比增长 8%；广告收入增长 28%，净利润增长 55% 至 3.391 亿元，毛利率升至 37.2%，为连续第 16 个季度改善；但游戏收入下降 14%。盈利杠杆与业务结构分化均值得进一步验证。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701267.pdf"
+      ]
+    },
+    {
+      "company_id": "hk-03600",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "现代牙科于 2026-08-27 18:46 发布中期业绩：收入创纪录至 20.32 亿港元，同比增长 10.8%；净利润增长 30.8%，毛利率由 54.8% 升至 58.1%，中期股息由 10.7 港仙提高至 14 港仙。数字化病例量增长 29.2%，但北美收入下滑 9.4%，构成强劲盈利改善与区域分化并存的正式信号。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701151.pdf"
+      ]
+    },
+    {
+      "company_id": "cn-601600",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "中国铝业在窗口内披露 2026 年半年报：收入 1,254.13 亿元，同比增长 7.74%；归母净利润 118.71 亿元，同比增长 67.91%，经营现金流增长 84.11%，并拟派中期股息约 47.35 亿元。利润与现金流同步大幅改善且电解铝产量创历史新高，属于需要核验周期价格、成本压降和可持续性的强信号。",
+      "sources": [
+        "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12559748&stockid=601600"
+      ]
+    },
+    {
+      "company_id": "cn-000651",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "格力电器在窗口内披露半年报：上半年营收 896.73 亿元，同比下降 8.14%；归母净利润 132.78 亿元，同比下降 7.87%，经营现金流下降 33.60%；其中外销收入下降 21.98%。正式披露显示海外业务明显承压且现金流降幅大于利润，值得进一步拆解渠道、库存与行业出口变化。",
+      "sources": [
+        "https://companies.caixin.com/2026-08-27/102478713.html"
+      ]
+    },
+    {
+      "company_id": "cn-603288",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "海天味业在窗口内披露半年报及经营数据：上半年收入 161.46 亿元、归母净利润 41.90 亿元，同比分别增长 6.01% 和 7.13%，但经营现金流下降 18.7%；线上渠道收入增长 15.45%，显著快于线下的 4.81%。业绩温和增长与窗口内股价大跌并存，值得复核市场预期差及现金流质量。",
+      "sources": [
+        "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12546865&stockid=603288"
+      ]
+    }
+  ]
+}

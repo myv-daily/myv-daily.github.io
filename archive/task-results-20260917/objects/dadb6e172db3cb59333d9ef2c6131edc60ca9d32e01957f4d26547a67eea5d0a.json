@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-300750",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.65%",
+      "quote_symbol": "sz300750",
+      "quote_time": "20260908161439"
+    },
+    {
+      "company_id": "cn-600548",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.88%",
+      "quote_symbol": "sh600548",
+      "quote_time": "20260908161449"
+    },
+    {
+      "company_id": "cn-002415",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.50%",
+      "quote_symbol": "sz002415",
+      "quote_time": "20260908161454"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -19.83%；最近 20 个采样点累计 -20.84%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/09/08 16:08:43"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -20.22%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/09/08 16:08:43"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -21.49%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/09/08 16:08:43"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -21.89%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/09/08 16:08:43"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.06%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/09/08 16:08:37"
+    },
+    {
+      "company_id": "hk-06055",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.58%",
+      "quote_symbol": "hk06055",
+      "quote_time": "2026/09/08 16:08:41"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.59%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/09/08 16:08:37"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -10.02%；最近 5 个采样点累计 -22.31%；最近 20 个采样点累计 -25.04%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/09/08 16:08:39"
+    },
+    {
+      "company_id": "hk-00883",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.94%",
+      "quote_symbol": "hk00883",
+      "quote_time": "2026/09/08 16:08:43"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -20.62%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/09/08 16:08:42"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.96%；最近 20 个采样点累计 -15.48%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.63%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-09-08 16:05:08"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +11.76%；最近 20 个采样点累计 -27.65%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-tal",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.68%",
+      "quote_symbol": "usTAL",
+      "quote_time": "2026-09-08 16:05:08"
+    },
+    {
+      "company_id": "us-edu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.97%",
+      "quote_symbol": "usEDU",
+      "quote_time": "2026-09-08 16:05:08"
+    },
+    {
+      "company_id": "us-amd",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.90%",
+      "quote_symbol": "usAMD",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.98%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-mu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 +16.17%",
+      "quote_symbol": "usMU",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-spcx",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.73%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-09-08 16:00:02"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "Meta 于 2026-09-08 在美国正式推出个人 AI 智能体 Muse，可通过独立应用及 WhatsApp 代用户发送邮件、预订旅行和付款，并计划扩展到 AI 眼镜；这是公司面向消费者的重大 AI 产品落地，可能影响产品变现、生态黏性及隐私合规风险，值得深研。",
+      "sources": [
+        "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "https://www.marketscreener.com/news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-ce785bd8d08af726"
+      ]
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-08 百度旗下小度宣布“超能小度”完成智能体化升级，发布多款家庭场景智能体应用及四款新硬件，标志其家庭智能体中枢战略进入产品落地阶段，值得跟踪硬件销量、订阅/服务变现及生态协同。",
+      "sources": [
+        "https://www3.xinhuanet.com/tech/20260908/c5c845b67dde4903b490ceadd743eb37/c.html"
+      ]
+    },
+    {
+      "company_id": "cn-600519",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-08 贵州茅台调整直营体系价格及 i 茅台投放节奏：飞天 53%vol 500ml 直营价由 1753 元升至 1766 元，2019—2024 年次新飞天自 9 月 9 日起由每月三天改为每日两场常态化投放；公司称近期投放调整但全年总量不增。节前量价策略同步变化，值得复查渠道价格与需求信号。",
+      "sources": [
+        "https://www.nbd.com.cn/articles/2026-09-08/4575911.html",
+        "https://finance.sina.com.cn/roll/2026-09-08/doc-inirayqu9272032.shtml"
+      ]
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "2026-09-08 美国政府公开指控包括阿里巴巴在内的六家中国 AI 企业利用美国模型变体加速训练，虽尚非制裁或执法结论，但可能加大中美 AI 技术、知识产权与监管摩擦，构成需进一步确认后续政策动作的风险信号。",
+      "sources": [
+        "https://www.marketscreener.com/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-ce785bd8d088f424"
+      ]
+    }
+  ]
+}

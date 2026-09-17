@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-002003",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.56%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260907161439"
+    },
+    {
+      "company_id": "cn-601318",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.23%",
+      "quote_symbol": "sh601318",
+      "quote_time": "20260907161449"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -18.42%；最近 20 个采样点累计 -19.45%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/09/07 16:08:18"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.23%；最近 20 个采样点累计 -21.59%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "hk-01810",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.31%",
+      "quote_symbol": "hk01810",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -10.99%；最近 20 个采样点累计 -21.02%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "hk-01060",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.00%",
+      "quote_symbol": "hk01060",
+      "quote_time": "2026/09/07 16:08:18"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -20.69%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.84%；最近 20 个采样点累计 +15.46%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/09/07 16:08:17"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.30%；最近 5 个采样点累计 -14.81%；最近 20 个采样点累计 -19.08%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -18.67%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/09/07 16:08:18"
+    },
+    {
+      "company_id": "hk-01209",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.30%",
+      "quote_symbol": "hk01209",
+      "quote_time": "2026/09/07 16:08:23"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "百度港股于2026年9月7日正式纳入沪港通下港股通，内地合资格投资者由当日起可直接交易；这是投资者覆盖与潜在流动性结构的正式变化，值得复查生效后的资金流和估值影响。",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1329099/000119312526382873/d947999dex991.htm"
+      ]
+    },
+    {
+      "company_id": "cn-601857",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "OPEC+七个自愿减产国于2026年9月6日决定将9月要求产量维持至10月，并重申全面履约；供给纪律的最新决定会影响油价与上游盈利预期，值得结合中国石油的油价敏感度继续跟踪。",
+      "sources": [
+        "https://www.opec.org/pr-detail/613-6-september-2026.html"
+      ]
+    },
+    {
+      "company_id": "hk-00883",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "OPEC+七个自愿减产国于2026年9月6日决定将9月要求产量维持至10月，并重申全面履约；供给纪律的最新决定会影响油价与上游盈利预期，值得结合中国海洋石油的高上游敞口继续跟踪。",
+      "sources": [
+        "https://www.opec.org/pr-detail/613-6-september-2026.html"
+      ]
+    },
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "东方明珠于2026年9月7日披露与泡泡玛特国际集团首次深度合作，城市乐园嘉年华巡展覆盖8月31日至11月1日并融合游乐、餐饮、零售和观光；该线下IP场景扩张仍需观察客流、转化与复制性，暂列弱信号。",
+      "sources": [
+        "https://www.opg.cn/cn/newsCenter/newsInfo/2096852476636106752.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-601600",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.18%",
+      "quote_symbol": "sh601600",
+      "quote_time": "20260812100557"
+    },
+    {
+      "company_id": "hk-00743",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.24%",
+      "quote_symbol": "hk00743",
+      "quote_time": "2026/08/12 09:46:16"
+    },
+    {
+      "company_id": "hk-00288",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.90%",
+      "quote_symbol": "hk00288",
+      "quote_time": "2026/08/12 09:50:52"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.85%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/12 09:50:53"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.54%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/12 09:50:53"
+    }
+  ]
+}

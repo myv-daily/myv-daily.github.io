@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-002003",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +15.31%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260828161448"
+    },
+    {
+      "company_id": "cn-601360",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.65%",
+      "quote_symbol": "sh601360",
+      "quote_time": "20260828161446"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.42%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260828161421"
+    },
+    {
+      "company_id": "cn-689009",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.57%",
+      "quote_symbol": "sh689009",
+      "quote_time": "20260828161453"
+    },
+    {
+      "company_id": "hk-01114",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.83%",
+      "quote_symbol": "hk01114",
+      "quote_time": "2026/08/28 16:08:37"
+    },
+    {
+      "company_id": "hk-03690",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.82%",
+      "quote_symbol": "hk03690",
+      "quote_time": "2026/08/28 16:08:38"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.11%；最近 5 个采样点累计 -9.03%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/08/28 16:08:36"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.35%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/28 16:08:36"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.27%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/08/28 16:08:37"
+    },
+    {
+      "company_id": "hk-06055",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.12%；最近 5 个采样点累计 +8.69%",
+      "quote_symbol": "hk06055",
+      "quote_time": "2026/08/28 16:08:38"
+    },
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.05%",
+      "quote_symbol": "hk09992",
+      "quote_time": "2026/08/28 16:08:38"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.51%；最近 5 个采样点累计 -13.48%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/28 16:08:36"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.03%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/28 16:08:36"
+    },
+    {
+      "company_id": "hk-03316",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.33%",
+      "quote_symbol": "hk03316",
+      "quote_time": "2026/08/28 16:08:38"
+    },
+    {
+      "company_id": "hk-01837",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.14%",
+      "quote_symbol": "hk01837",
+      "quote_time": "2026/08/28 16:08:38"
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.57%",
+      "quote_symbol": "usNVDA",
+      "quote_time": "2026-08-28 16:00:01"
+    },
+    {
+      "company_id": "us-ddl",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.10%",
+      "quote_symbol": "usDDL",
+      "quote_time": "2026-08-28 16:04:49"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.33%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-28 16:04:49"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -13.21%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-28 16:00:01"
+    },
+    {
+      "company_id": "us-amzn",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.97%",
+      "quote_symbol": "usAMZN",
+      "quote_time": "2026-08-28 16:00:01"
+    },
+    {
+      "company_id": "us-yumc",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -9.09%",
+      "quote_symbol": "usYUMC",
+      "quote_time": "2026-08-28 16:04:49"
+    },
+    {
+      "company_id": "cn-000858",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-28晚披露2026年半年报：上半年营收284.17亿元，同比增长20.87%；归母净利润87.53亿元，同比增长89.30%，扣非净利润同比增长83.96%。与此同时，经营活动现金流净额为-21.54亿元，上年同期为311.37亿元，同比下降106.92%。利润高增与经营现金流显著反向变化，属于需进一步核查增长质量、基数影响及渠道回款情况的强信号。",
+      "sources": [
+        "https://www.cninfo.com.cn/new/index?source=gatime",
+        "https://www.cfi.net.cn/p20260828007261.html"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-002003",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +11.94%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260901161430"
+    },
+    {
+      "company_id": "cn-300755",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.15%",
+      "quote_symbol": "sz300755",
+      "quote_time": "20260901161418"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.84%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260901161409"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -15.58%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.33%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.46%；最近 5 个采样点累计 -13.78%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-02020",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.97%",
+      "quote_symbol": "hk02020",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -14.99%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +16.51%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.50%；最近 5 个采样点累计 +12.42%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +11.33%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/09/01 16:08:17"
+    },
+    {
+      "company_id": "hk-09618",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.21%",
+      "quote_symbol": "hk09618",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.16%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/09/01 16:08:16"
+    },
+    {
+      "company_id": "hk-01837",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.16%；最近 5 个采样点累计 -8.98%",
+      "quote_symbol": "hk01837",
+      "quote_time": "2026/09/01 16:08:18"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.20%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-09-01 16:04:55"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.21%；最近 5 个采样点累计 -12.23%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-09-01 16:00:01"
+    },
+    {
+      "company_id": "us-tal",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.17%",
+      "quote_symbol": "usTAL",
+      "quote_time": "2026-09-01 16:04:55"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.22%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-09-01 16:00:01"
+    },
+    {
+      "company_id": "cn-600886",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "国投电力公告称，控股90%的国投钦州第二发电公司钦州电厂三期4号机组（66万千瓦）于2026年8月31日完成168小时试运行并正式投产，年设计发电量约33亿千瓦时、供热能力约800吨/小时；这是扫描窗口内落地的明确新增产能。",
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2026-09-01/1225538306.PDF"
+      ]
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "英伟达与联发科宣布深化从边缘到云端的AI计算合作，英伟达同时认购联发科发行的35亿美元可转债；投资规模与战略合作范围均可能改变市场对其资本配置、生态绑定及消费级/汽车AI平台布局的理解。",
+      "sources": [
+        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-MediaTek-Deepen-Long-Standing-Partnership-to-Build-AI-Edge-to-Cloud-Computing-Platforms/default.aspx"
+      ]
+    },
+    {
+      "company_id": "us-amzn",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "美国联邦贸易委员会与22个州在扫描窗口内对亚马逊提起诉讼，指控其在数字广告竞价中秘密加收费用并欺骗广告客户；案件直接针对亚马逊增长较快的广告业务，存在监管、赔偿及业务模式调整风险。",
+      "sources": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/amazon"
+      ]
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "百度由香港第二上市转为香港与纳斯达克双重主要上市的安排于2026年9月1日正式生效，港股简称移除“S”标记，并开始适用双重主要上市发行人的相关港交所规则；虽不涉及新股发行或融资，但上市地位与持续合规框架发生明确变化。",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1329099/000119312526369462/d117226dex991.htm"
+      ]
+    }
+  ]
+}

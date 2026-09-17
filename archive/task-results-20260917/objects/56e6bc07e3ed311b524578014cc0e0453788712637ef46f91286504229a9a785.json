@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-300705",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.02%",
+      "quote_symbol": "sz300705",
+      "quote_time": "20260818161403"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -22.77%；最近 5 个采样点累计 -24.54%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "hk-03600",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +12.76%",
+      "quote_symbol": "hk03600",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.68%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -11.33%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.49%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/08/18 16:08:05"
+    },
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -13.30%；最近 5 个采样点累计 -14.65%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "hk-09618",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -9.61%",
+      "quote_symbol": "hk09618",
+      "quote_time": "2026/08/18 16:08:09"
+    },
+    {
+      "company_id": "us-tsm",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.07%",
+      "quote_symbol": "usTSM",
+      "quote_time": "2026-08-18 16:05:13"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.45%；最近 5 个采样点累计 -9.26%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.17%；最近 5 个采样点累计 -8.67%",
+      "quote_symbol": "usAVGO",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -12.73%；最近 5 个采样点累计 -14.23%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.52%；最近 5 个采样点累计 -8.89%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-tal",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.00%",
+      "quote_symbol": "usTAL",
+      "quote_time": "2026-08-18 16:05:13"
+    },
+    {
+      "company_id": "us-amd",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.27%",
+      "quote_symbol": "usAMD",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-mu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.02%；最近 5 个采样点累计 +8.32%",
+      "quote_symbol": "usMU",
+      "quote_time": "2026-08-18 16:00:02"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "百度于2026年8月18日美股盘前发布二季度业绩并召开业绩会；公司总收入约46.17亿美元、同比仅增约1%，净利润同比下降约68%至23亿元人民币，低于市场预期，而AI云基础设施收入同比增长约50%、GPU云收入同比增长约283%。传统业务与AI投入的盈利压力、以及AI云高增并存，可能改变对其增长结构和盈利拐点的判断，叠加当日股价显著下跌，属于需复核的强信号。",
+      "sources": [
+        "https://ir.baidu.com/events/event-details/q2-2026-baidu-earnings-conference-call",
+        "https://ir.baidu.com/"
+      ]
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "爱奇艺于2026年8月18日美股盘前安排发布二季度业绩并于当日7:00（美国东部时间）召开业绩会；这是窗口内正式财务披露节点。其股价在同一交易日下跌7.52%，应结合随后可访问的完整业绩材料重点核查会员、广告收入及利润变化，属于需复核的强信号。",
+      "sources": [
+        "https://ir.iqiyi.com/news-releases/news-release-details/iqiyi-report-second-quarter-2026-financial-results-august-18/",
+        "https://ir.iqiyi.com/press-releases/"
+      ]
+    }
+  ]
+}
