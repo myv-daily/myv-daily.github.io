@@ -1,0 +1,43 @@
+{
+  "id": "us-meta",
+  "name": "Meta",
+  "market": "us",
+  "order": 80,
+  "securities": [
+    {
+      "market": "us",
+      "code": "META",
+      "quote_symbol": "usMETA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.55%；最近 5 个采样点累计 +12.99%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-09-09 16:00:01",
+      "first_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-10"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-08，Meta 正式推出面向大众的个人 AI 智能体 Muse，可代用户执行邮件、旅行预订等任务，并在美国通过 iOS、Android 和网页端上线；这是其 AI 产品从问答走向执行型智能体的重要商业化节点，且随后股价显著上涨，值得深研。",
+      "sources": [
+        "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"
+      ],
+      "first_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-10"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-09T05:30:08+08:00",
+    "end": "2026-09-10T05:30:19+08:00"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "us-tsm",
+  "name": "台积电",
+  "market": "us",
+  "order": 79,
+  "securities": [
+    {
+      "market": "us",
+      "code": "TSM",
+      "quote_symbol": "usTSM"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-tsm",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "台积电于2026年8月10日披露7月合并营收约新台币4,675.8亿元，环比增长5.6%、同比增长44.7%；2026年前七月累计营收同比增长37.0%。这是窗口内正式月度经营数据，显示增长显著，值得进一步核查AI/HPC需求、产能利用率与后续业绩预期。",
+      "sources": [
+        "https://pr.tsmc.com/english/news/3329"
+      ],
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-11"
+    }
+  ]
+}

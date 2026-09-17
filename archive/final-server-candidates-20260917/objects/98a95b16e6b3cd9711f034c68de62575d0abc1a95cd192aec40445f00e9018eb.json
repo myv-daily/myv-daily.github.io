@@ -1,0 +1,26 @@
+{
+  "id": "us-uvv",
+  "name": "环球烟草",
+  "market": "us",
+  "order": 83,
+  "securities": [
+    {
+      "market": "us",
+      "code": "UVV",
+      "quote_symbol": "usUVV"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-uvv",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.77%",
+      "quote_symbol": "usUVV",
+      "quote_time": "2026-08-10 16:05:10",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-11"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cn-601012",
+  "name": "隆基绿能",
+  "market": "cn",
+  "order": 27,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "601012",
+      "quote_symbol": "sh601012"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "cn-601012",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.35%",
+      "quote_symbol": "sh601012",
+      "quote_time": "20260813161435",
+      "first_seen_date": "2026-08-14",
+      "last_seen_date": "2026-08-14"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-16T05:30:17+08:00",
+    "focus_start": "2026-07-17T05:30:17+08:00",
+    "end": "2026-08-16T05:30:17+08:00"
+  }
+}

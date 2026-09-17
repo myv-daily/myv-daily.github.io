@@ -1,0 +1,31 @@
+{
+  "id": "us-nflx",
+  "name": "奈飞",
+  "market": "us",
+  "order": 105,
+  "securities": [
+    {
+      "market": "us",
+      "code": "NFLX",
+      "quote_symbol": "usNFLX"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-nflx",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.35%",
+      "quote_symbol": "usNFLX",
+      "quote_time": "2026-09-04 16:00:01",
+      "first_seen_date": "2026-08-20",
+      "last_seen_date": "2026-09-05"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-14T05:30:17+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

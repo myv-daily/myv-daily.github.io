@@ -1,0 +1,32 @@
+{
+  "id": "hk-09626",
+  "name": "哔哩哔哩-W",
+  "market": "hk",
+  "order": 71,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09626",
+      "quote_symbol": "hk09626"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "hk-09626",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.34%",
+      "quote_symbol": "hk09626",
+      "quote_time": "2026/08/12 16:08:16",
+      "first_seen_date": "2026-08-12",
+      "last_seen_date": "2026-08-13"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-25T05:30:17+08:00",
+    "focus_start": "2026-07-26T05:30:17+08:00",
+    "end": "2026-08-25T05:30:17+08:00"
+  }
+}

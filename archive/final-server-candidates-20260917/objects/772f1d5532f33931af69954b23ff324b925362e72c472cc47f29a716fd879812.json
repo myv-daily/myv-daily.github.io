@@ -1,0 +1,32 @@
+{
+  "id": "cn-002244",
+  "name": "滨江集团",
+  "market": "cn",
+  "order": 41,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sz",
+      "code": "002244",
+      "quote_symbol": "sz002244"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-002244",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.10%",
+      "quote_symbol": "sz002244",
+      "quote_time": "20260831161439",
+      "first_seen_date": "2026-08-20",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-13T05:30:17+08:00",
+    "end": "2026-09-01T05:30:17+08:00"
+  }
+}

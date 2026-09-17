@@ -1,0 +1,42 @@
+{
+  "id": "hk-02145",
+  "name": "上美股份",
+  "market": "hk",
+  "order": 47,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "02145",
+      "quote_symbol": "hk02145"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.97%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/08/25 16:08:21",
+      "first_seen_date": "2026-08-22",
+      "last_seen_date": "2026-08-26"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "上美股份于 2026-08-27 21:00 发布中期业绩：上半年收入 37.565 亿元人民币，同比下降 8.6%；期内利润 1.257 亿元，同比大降 77.4%，并取消中期股息（上年同期每股 0.5 元）。核心韩束品牌收入同比下降 20.4%，虽 newpage 与安敏优高速增长但尚未抵消，属于明显改变既有盈利理解的正式披露。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701717.pdf"
+      ],
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-08-28"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-21T05:30:17+08:00",
+    "end": "2026-08-28T05:30:16+08:00"
+  }
+}

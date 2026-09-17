@@ -1,0 +1,44 @@
+{
+  "id": "us-iq",
+  "name": "爱奇艺",
+  "market": "us",
+  "order": 91,
+  "securities": [
+    {
+      "market": "us",
+      "code": "IQ",
+      "quote_symbol": "usIQ"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.52%；最近 5 个采样点累计 -8.89%",
+      "quote_symbol": "usIQ",
+      "quote_time": "2026-08-18 16:00:02",
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-19"
+    },
+    {
+      "company_id": "us-iq",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "爱奇艺于2026年8月18日美股盘前安排发布二季度业绩并于当日7:00（美国东部时间）召开业绩会；这是窗口内正式财务披露节点。其股价在同一交易日下跌7.52%，应结合随后可访问的完整业绩材料重点核查会员、广告收入及利润变化，属于需复核的强信号。",
+      "sources": [
+        "https://ir.iqiyi.com/news-releases/news-release-details/iqiyi-report-second-quarter-2026-financial-results-august-18/",
+        "https://ir.iqiyi.com/press-releases/"
+      ],
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-19"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-19T05:30:16+08:00",
+    "focus_start": "2026-07-20T05:30:16+08:00",
+    "end": "2026-08-19T05:30:16+08:00"
+  }
+}

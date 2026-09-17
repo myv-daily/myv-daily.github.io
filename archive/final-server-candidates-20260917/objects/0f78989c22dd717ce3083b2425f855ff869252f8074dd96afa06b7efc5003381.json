@@ -1,0 +1,31 @@
+{
+  "id": "hk-03306",
+  "name": "江南布衣",
+  "market": "hk",
+  "order": 42,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "03306",
+      "quote_symbol": "hk03306"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-03306",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.00%",
+      "quote_symbol": "hk03306",
+      "quote_time": "2026/09/09 16:08:10",
+      "first_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-10"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-04T05:30:06+08:00",
+    "end": "2026-09-10T05:30:19+08:00"
+  }
+}

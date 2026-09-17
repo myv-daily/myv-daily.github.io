@@ -1,0 +1,43 @@
+{
+  "id": "us-bidu",
+  "name": "百度",
+  "market": "us",
+  "order": 86,
+  "securities": [
+    {
+      "market": "us",
+      "code": "BIDU",
+      "quote_symbol": "usBIDU"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.07%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-09-04 16:00:01",
+      "first_seen_date": "2026-09-05",
+      "last_seen_date": "2026-09-05"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年9月4日，百度公告其港股Class A普通股将自9月7日起纳入沪港通下港股通；该变化将新增中国内地合资格投资者的直接交易渠道，可能扩大投资者基础并改善流动性，属于需复查的正式披露。",
+      "sources": [
+        "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-upcoming-inclusion-its-class-ordinary-shares",
+        "https://big5.sse.com.cn/site/cht/www.sse.com.cn/services/hkexsc/disclo/announ/c/c_20260904_10831331.shtml"
+      ],
+      "first_seen_date": "2026-09-05",
+      "last_seen_date": "2026-09-05"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-04T05:30:06+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

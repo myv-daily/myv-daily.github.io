@@ -1,0 +1,1439 @@
+{
+  "schema_version": 1,
+  "companies": [
+    {
+      "id": "cn-600036",
+      "name": "招商银行",
+      "market": "ah",
+      "order": 1,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600036",
+          "quote_symbol": "sh600036"
+        },
+        {
+          "market": "hk",
+          "code": "03968",
+          "quote_symbol": "hk03968"
+        }
+      ]
+    },
+    {
+      "id": "cn-300750",
+      "name": "宁德时代",
+      "market": "ah",
+      "order": 2,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "300750",
+          "quote_symbol": "sz300750"
+        },
+        {
+          "market": "hk",
+          "code": "03750",
+          "quote_symbol": "hk03750"
+        }
+      ]
+    },
+    {
+      "id": "cn-600660",
+      "name": "福耀玻璃",
+      "market": "ah",
+      "order": 3,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600660",
+          "quote_symbol": "sh600660"
+        },
+        {
+          "market": "hk",
+          "code": "03606",
+          "quote_symbol": "hk03606"
+        }
+      ]
+    },
+    {
+      "id": "cn-600548",
+      "name": "深高速",
+      "market": "cn",
+      "order": 4,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600548",
+          "quote_symbol": "sh600548"
+        }
+      ]
+    },
+    {
+      "id": "cn-600104",
+      "name": "上汽集团",
+      "market": "cn",
+      "order": 5,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600104",
+          "quote_symbol": "sh600104"
+        }
+      ]
+    },
+    {
+      "id": "cn-301061",
+      "name": "匠心家居",
+      "market": "cn",
+      "order": 6,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "301061",
+          "quote_symbol": "sz301061"
+        }
+      ]
+    },
+    {
+      "id": "cn-300705",
+      "name": "九典制药",
+      "market": "cn",
+      "order": 7,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "300705",
+          "quote_symbol": "sz300705"
+        }
+      ]
+    },
+    {
+      "id": "cn-601600",
+      "name": "中国铝业",
+      "market": "cn",
+      "order": 8,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601600",
+          "quote_symbol": "sh601600"
+        }
+      ]
+    },
+    {
+      "id": "cn-002003",
+      "name": "伟星股份",
+      "market": "cn",
+      "order": 9,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "002003",
+          "quote_symbol": "sz002003"
+        }
+      ]
+    },
+    {
+      "id": "cn-600987",
+      "name": "航民股份",
+      "market": "cn",
+      "order": 10,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600987",
+          "quote_symbol": "sh600987"
+        }
+      ]
+    },
+    {
+      "id": "cn-603551",
+      "name": "奥普科技",
+      "market": "cn",
+      "order": 11,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "603551",
+          "quote_symbol": "sh603551"
+        }
+      ]
+    },
+    {
+      "id": "cn-601360",
+      "name": "三六零",
+      "market": "cn",
+      "order": 12,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601360",
+          "quote_symbol": "sh601360"
+        }
+      ]
+    },
+    {
+      "id": "cn-601857",
+      "name": "中国石油",
+      "market": "cn",
+      "order": 13,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601857",
+          "quote_symbol": "sh601857"
+        }
+      ]
+    },
+    {
+      "id": "cn-000726",
+      "name": "鲁泰 A",
+      "market": "cn",
+      "order": 14,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "000726",
+          "quote_symbol": "sz000726"
+        }
+      ]
+    },
+    {
+      "id": "cn-601163",
+      "name": "三角轮胎",
+      "market": "cn",
+      "order": 15,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601163",
+          "quote_symbol": "sh601163"
+        }
+      ]
+    },
+    {
+      "id": "cn-600795",
+      "name": "国电电力",
+      "market": "cn",
+      "order": 16,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600795",
+          "quote_symbol": "sh600795"
+        }
+      ]
+    },
+    {
+      "id": "cn-000858",
+      "name": "五粮液",
+      "market": "cn",
+      "order": 17,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "000858",
+          "quote_symbol": "sz000858"
+        }
+      ]
+    },
+    {
+      "id": "cn-002714",
+      "name": "牧原股份",
+      "market": "cn",
+      "order": 18,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "002714",
+          "quote_symbol": "sz002714"
+        }
+      ]
+    },
+    {
+      "id": "cn-600519",
+      "name": "贵州茅台",
+      "market": "cn",
+      "order": 19,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600519",
+          "quote_symbol": "sh600519"
+        }
+      ]
+    },
+    {
+      "id": "cn-600886",
+      "name": "国投电力",
+      "market": "cn",
+      "order": 20,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600886",
+          "quote_symbol": "sh600886"
+        }
+      ]
+    },
+    {
+      "id": "cn-600025",
+      "name": "华能水电",
+      "market": "cn",
+      "order": 21,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600025",
+          "quote_symbol": "sh600025"
+        }
+      ]
+    },
+    {
+      "id": "cn-600900",
+      "name": "长江电力",
+      "market": "cn",
+      "order": 22,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600900",
+          "quote_symbol": "sh600900"
+        }
+      ]
+    },
+    {
+      "id": "cn-603393",
+      "name": "新天然气",
+      "market": "cn",
+      "order": 23,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "603393",
+          "quote_symbol": "sh603393"
+        }
+      ]
+    },
+    {
+      "id": "cn-601318",
+      "name": "中国平安",
+      "market": "cn",
+      "order": 24,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601318",
+          "quote_symbol": "sh601318"
+        }
+      ]
+    },
+    {
+      "id": "cn-000333",
+      "name": "美的集团",
+      "market": "cn",
+      "order": 25,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "000333",
+          "quote_symbol": "sz000333"
+        }
+      ]
+    },
+    {
+      "id": "cn-000651",
+      "name": "格力电器",
+      "market": "cn",
+      "order": 26,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "000651",
+          "quote_symbol": "sz000651"
+        }
+      ]
+    },
+    {
+      "id": "cn-601012",
+      "name": "隆基绿能",
+      "market": "cn",
+      "order": 27,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601012",
+          "quote_symbol": "sh601012"
+        }
+      ]
+    },
+    {
+      "id": "cn-600710",
+      "name": "苏美达",
+      "market": "cn",
+      "order": 28,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600710",
+          "quote_symbol": "sh600710"
+        }
+      ]
+    },
+    {
+      "id": "cn-600887",
+      "name": "伊利股份",
+      "market": "cn",
+      "order": 29,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600887",
+          "quote_symbol": "sh600887"
+        }
+      ]
+    },
+    {
+      "id": "cn-603288",
+      "name": "海天味业",
+      "market": "cn",
+      "order": 30,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "603288",
+          "quote_symbol": "sh603288"
+        }
+      ]
+    },
+    {
+      "id": "cn-002415",
+      "name": "海康威视",
+      "market": "cn",
+      "order": 31,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "002415",
+          "quote_symbol": "sz002415"
+        }
+      ]
+    },
+    {
+      "id": "cn-600030",
+      "name": "中信证券",
+      "market": "cn",
+      "order": 32,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "600030",
+          "quote_symbol": "sh600030"
+        }
+      ]
+    },
+    {
+      "id": "cn-601985",
+      "name": "中国核电",
+      "market": "cn",
+      "order": 33,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "601985",
+          "quote_symbol": "sh601985"
+        }
+      ]
+    },
+    {
+      "id": "cn-000100",
+      "name": "TCL 科技",
+      "market": "cn",
+      "order": 34,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "000100",
+          "quote_symbol": "sz000100"
+        }
+      ]
+    },
+    {
+      "id": "cn-300755",
+      "name": "华致酒行",
+      "market": "cn",
+      "order": 35,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "300755",
+          "quote_symbol": "sz300755"
+        }
+      ]
+    },
+    {
+      "id": "cn-003816",
+      "name": "中国广核",
+      "market": "cn",
+      "order": 36,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "003816",
+          "quote_symbol": "sz003816"
+        }
+      ]
+    },
+    {
+      "id": "cn-001328",
+      "name": "登康口腔",
+      "market": "cn",
+      "order": 37,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "001328",
+          "quote_symbol": "sz001328"
+        }
+      ]
+    },
+    {
+      "id": "cn-002572",
+      "name": "索菲亚",
+      "market": "cn",
+      "order": 38,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "002572",
+          "quote_symbol": "sz002572"
+        }
+      ]
+    },
+    {
+      "id": "cn-603195",
+      "name": "公牛集团",
+      "market": "cn",
+      "order": 39,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "603195",
+          "quote_symbol": "sh603195"
+        }
+      ]
+    },
+    {
+      "id": "cn-689009",
+      "name": "九号公司",
+      "market": "cn",
+      "order": 40,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sh",
+          "code": "689009",
+          "quote_symbol": "sh689009"
+        }
+      ]
+    },
+    {
+      "id": "cn-002244",
+      "name": "滨江集团",
+      "market": "cn",
+      "order": 41,
+      "securities": [
+        {
+          "market": "cn",
+          "exchange": "sz",
+          "code": "002244",
+          "quote_symbol": "sz002244"
+        }
+      ]
+    },
+    {
+      "id": "hk-03306",
+      "name": "江南布衣",
+      "market": "hk",
+      "order": 42,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "03306",
+          "quote_symbol": "hk03306"
+        }
+      ]
+    },
+    {
+      "id": "hk-00837",
+      "name": "谭木匠",
+      "market": "hk",
+      "order": 43,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00837",
+          "quote_symbol": "hk00837"
+        }
+      ]
+    },
+    {
+      "id": "hk-01114",
+      "name": "华晨中国",
+      "market": "hk",
+      "order": 44,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01114",
+          "quote_symbol": "hk01114"
+        }
+      ]
+    },
+    {
+      "id": "hk-03690",
+      "name": "美团-W",
+      "market": "hk",
+      "order": 45,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "03690",
+          "quote_symbol": "hk03690"
+        }
+      ]
+    },
+    {
+      "id": "hk-02097",
+      "name": "蜜雪集团",
+      "market": "hk",
+      "order": 46,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02097",
+          "quote_symbol": "hk02097"
+        }
+      ]
+    },
+    {
+      "id": "hk-02145",
+      "name": "上美股份",
+      "market": "hk",
+      "order": 47,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02145",
+          "quote_symbol": "hk02145"
+        }
+      ]
+    },
+    {
+      "id": "hk-03600",
+      "name": "现代牙科",
+      "market": "hk",
+      "order": 48,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "03600",
+          "quote_symbol": "hk03600"
+        }
+      ]
+    },
+    {
+      "id": "hk-09988",
+      "name": "阿里巴巴-W",
+      "market": "hk",
+      "order": 49,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09988",
+          "quote_symbol": "hk09988"
+        }
+      ]
+    },
+    {
+      "id": "hk-01810",
+      "name": "小米集团-W",
+      "market": "hk",
+      "order": 50,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01810",
+          "quote_symbol": "hk01810"
+        }
+      ]
+    },
+    {
+      "id": "hk-02390",
+      "name": "知乎-W",
+      "market": "hk",
+      "order": 51,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02390",
+          "quote_symbol": "hk02390"
+        }
+      ]
+    },
+    {
+      "id": "hk-02020",
+      "name": "安踏体育",
+      "market": "hk",
+      "order": 52,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02020",
+          "quote_symbol": "hk02020"
+        }
+      ]
+    },
+    {
+      "id": "hk-02660",
+      "name": "禅游科技",
+      "market": "hk",
+      "order": 53,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02660",
+          "quote_symbol": "hk02660"
+        }
+      ]
+    },
+    {
+      "id": "hk-01060",
+      "name": "大麦娱乐",
+      "market": "hk",
+      "order": 54,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01060",
+          "quote_symbol": "hk01060"
+        }
+      ]
+    },
+    {
+      "id": "hk-00700",
+      "name": "腾讯控股",
+      "market": "hk",
+      "order": 55,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00700",
+          "quote_symbol": "hk00700"
+        }
+      ]
+    },
+    {
+      "id": "hk-06181",
+      "name": "老铺黄金",
+      "market": "hk",
+      "order": 56,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "06181",
+          "quote_symbol": "hk06181"
+        }
+      ]
+    },
+    {
+      "id": "hk-00743",
+      "name": "亚洲水泥",
+      "market": "hk",
+      "order": 57,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00743",
+          "quote_symbol": "hk00743"
+        }
+      ]
+    },
+    {
+      "id": "hk-09896",
+      "name": "名创优品",
+      "market": "hk",
+      "order": 58,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09896",
+          "quote_symbol": "hk09896"
+        }
+      ]
+    },
+    {
+      "id": "hk-00288",
+      "name": "万洲国际",
+      "market": "hk",
+      "order": 59,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00288",
+          "quote_symbol": "hk00288"
+        }
+      ]
+    },
+    {
+      "id": "hk-01211",
+      "name": "比亚迪股份",
+      "market": "hk",
+      "order": 60,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01211",
+          "quote_symbol": "hk01211"
+        }
+      ]
+    },
+    {
+      "id": "hk-00285",
+      "name": "比亚迪电子",
+      "market": "hk",
+      "order": 61,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00285",
+          "quote_symbol": "hk00285"
+        }
+      ]
+    },
+    {
+      "id": "hk-06055",
+      "name": "中烟香港",
+      "market": "hk",
+      "order": 62,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "06055",
+          "quote_symbol": "hk06055"
+        }
+      ]
+    },
+    {
+      "id": "hk-00388",
+      "name": "香港交易所",
+      "market": "hk",
+      "order": 63,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00388",
+          "quote_symbol": "hk00388"
+        }
+      ]
+    },
+    {
+      "id": "hk-09898",
+      "name": "微博-SW",
+      "market": "hk",
+      "order": 64,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09898",
+          "quote_symbol": "hk09898"
+        }
+      ]
+    },
+    {
+      "id": "hk-09992",
+      "name": "泡泡玛特",
+      "market": "hk",
+      "order": 65,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09992",
+          "quote_symbol": "hk09992"
+        }
+      ]
+    },
+    {
+      "id": "hk-00100",
+      "name": "MINIMAX-W",
+      "market": "hk",
+      "order": 66,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00100",
+          "quote_symbol": "hk00100"
+        }
+      ]
+    },
+    {
+      "id": "hk-02513",
+      "name": "智谱",
+      "market": "hk",
+      "order": 67,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "02513",
+          "quote_symbol": "hk02513"
+        }
+      ]
+    },
+    {
+      "id": "hk-00669",
+      "name": "创科实业",
+      "market": "hk",
+      "order": 68,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00669",
+          "quote_symbol": "hk00669"
+        }
+      ]
+    },
+    {
+      "id": "hk-09618",
+      "name": "京东集团-SW",
+      "market": "hk",
+      "order": 69,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09618",
+          "quote_symbol": "hk09618"
+        }
+      ]
+    },
+    {
+      "id": "hk-00883",
+      "name": "中国海洋石油",
+      "market": "hk",
+      "order": 70,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00883",
+          "quote_symbol": "hk00883"
+        }
+      ]
+    },
+    {
+      "id": "hk-09626",
+      "name": "哔哩哔哩-W",
+      "market": "hk",
+      "order": 71,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "09626",
+          "quote_symbol": "hk09626"
+        }
+      ]
+    },
+    {
+      "id": "hk-00175",
+      "name": "吉利汽车",
+      "market": "hk",
+      "order": 72,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "00175",
+          "quote_symbol": "hk00175"
+        }
+      ]
+    },
+    {
+      "id": "hk-01024",
+      "name": "快手-W",
+      "market": "hk",
+      "order": 73,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01024",
+          "quote_symbol": "hk01024"
+        }
+      ]
+    },
+    {
+      "id": "hk-03316",
+      "name": "滨江服务",
+      "market": "hk",
+      "order": 74,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "03316",
+          "quote_symbol": "hk03316"
+        }
+      ]
+    },
+    {
+      "id": "hk-01209",
+      "name": "华润万象生活",
+      "market": "hk",
+      "order": 75,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01209",
+          "quote_symbol": "hk01209"
+        }
+      ]
+    },
+    {
+      "id": "hk-01837",
+      "name": "五谷磨房",
+      "market": "hk",
+      "order": 76,
+      "securities": [
+        {
+          "market": "hk",
+          "code": "01837",
+          "quote_symbol": "hk01837"
+        }
+      ]
+    },
+    {
+      "id": "us-li",
+      "name": "理想汽车",
+      "market": "us",
+      "order": 77,
+      "securities": [
+        {
+          "market": "us",
+          "code": "LI",
+          "quote_symbol": "usLI"
+        }
+      ]
+    },
+    {
+      "id": "us-joyy",
+      "name": "欢聚",
+      "market": "us",
+      "order": 78,
+      "securities": [
+        {
+          "market": "us",
+          "code": "JOYY",
+          "quote_symbol": "usJOYY"
+        }
+      ]
+    },
+    {
+      "id": "us-tsm",
+      "name": "台积电",
+      "market": "us",
+      "order": 79,
+      "securities": [
+        {
+          "market": "us",
+          "code": "TSM",
+          "quote_symbol": "usTSM"
+        }
+      ]
+    },
+    {
+      "id": "us-meta",
+      "name": "Meta",
+      "market": "us",
+      "order": 80,
+      "securities": [
+        {
+          "market": "us",
+          "code": "META",
+          "quote_symbol": "usMETA"
+        }
+      ]
+    },
+    {
+      "id": "us-pdd",
+      "name": "拼多多",
+      "market": "us",
+      "order": 81,
+      "securities": [
+        {
+          "market": "us",
+          "code": "PDD",
+          "quote_symbol": "usPDD"
+        }
+      ]
+    },
+    {
+      "id": "us-avgo",
+      "name": "博通",
+      "market": "us",
+      "order": 82,
+      "securities": [
+        {
+          "market": "us",
+          "code": "AVGO",
+          "quote_symbol": "usAVGO"
+        }
+      ]
+    },
+    {
+      "id": "us-uvv",
+      "name": "环球烟草",
+      "market": "us",
+      "order": 83,
+      "securities": [
+        {
+          "market": "us",
+          "code": "UVV",
+          "quote_symbol": "usUVV"
+        }
+      ]
+    },
+    {
+      "id": "us-nvda",
+      "name": "英伟达",
+      "market": "us",
+      "order": 84,
+      "securities": [
+        {
+          "market": "us",
+          "code": "NVDA",
+          "quote_symbol": "usNVDA"
+        }
+      ]
+    },
+    {
+      "id": "us-brk-b",
+      "name": "伯克希尔·哈撒韦 B",
+      "market": "us",
+      "order": 85,
+      "securities": [
+        {
+          "market": "us",
+          "code": "BRK.B",
+          "quote_symbol": "usBRK.B"
+        }
+      ]
+    },
+    {
+      "id": "us-bidu",
+      "name": "百度",
+      "market": "us",
+      "order": 86,
+      "securities": [
+        {
+          "market": "us",
+          "code": "BIDU",
+          "quote_symbol": "usBIDU"
+        }
+      ]
+    },
+    {
+      "id": "us-momo",
+      "name": "挚文集团",
+      "market": "us",
+      "order": 87,
+      "securities": [
+        {
+          "market": "us",
+          "code": "MOMO",
+          "quote_symbol": "usMOMO"
+        }
+      ]
+    },
+    {
+      "id": "us-ddl",
+      "name": "叮咚买菜",
+      "market": "us",
+      "order": 88,
+      "securities": [
+        {
+          "market": "us",
+          "code": "DDL",
+          "quote_symbol": "usDDL"
+        }
+      ]
+    },
+    {
+      "id": "us-beke",
+      "name": "贝壳",
+      "market": "us",
+      "order": 89,
+      "securities": [
+        {
+          "market": "us",
+          "code": "BEKE",
+          "quote_symbol": "usBEKE"
+        }
+      ]
+    },
+    {
+      "id": "us-aapl",
+      "name": "苹果",
+      "market": "us",
+      "order": 90,
+      "securities": [
+        {
+          "market": "us",
+          "code": "AAPL",
+          "quote_symbol": "usAAPL"
+        }
+      ]
+    },
+    {
+      "id": "us-iq",
+      "name": "爱奇艺",
+      "market": "us",
+      "order": 91,
+      "securities": [
+        {
+          "market": "us",
+          "code": "IQ",
+          "quote_symbol": "usIQ"
+        }
+      ]
+    },
+    {
+      "id": "us-tal",
+      "name": "好未来",
+      "market": "us",
+      "order": 92,
+      "securities": [
+        {
+          "market": "us",
+          "code": "TAL",
+          "quote_symbol": "usTAL"
+        }
+      ]
+    },
+    {
+      "id": "us-edu",
+      "name": "新东方",
+      "market": "us",
+      "order": 93,
+      "securities": [
+        {
+          "market": "us",
+          "code": "EDU",
+          "quote_symbol": "usEDU"
+        }
+      ]
+    },
+    {
+      "id": "us-amd",
+      "name": "AMD",
+      "market": "us",
+      "order": 94,
+      "securities": [
+        {
+          "market": "us",
+          "code": "AMD",
+          "quote_symbol": "usAMD"
+        }
+      ]
+    },
+    {
+      "id": "us-tsla",
+      "name": "特斯拉",
+      "market": "us",
+      "order": 95,
+      "securities": [
+        {
+          "market": "us",
+          "code": "TSLA",
+          "quote_symbol": "usTSLA"
+        }
+      ]
+    },
+    {
+      "id": "us-ntes",
+      "name": "网易",
+      "market": "us",
+      "order": 96,
+      "securities": [
+        {
+          "market": "us",
+          "code": "NTES",
+          "quote_symbol": "usNTES"
+        }
+      ]
+    },
+    {
+      "id": "us-mu",
+      "name": "美光科技",
+      "market": "us",
+      "order": 97,
+      "securities": [
+        {
+          "market": "us",
+          "code": "MU",
+          "quote_symbol": "usMU"
+        }
+      ]
+    },
+    {
+      "id": "us-unh",
+      "name": "联合健康",
+      "market": "us",
+      "order": 98,
+      "securities": [
+        {
+          "market": "us",
+          "code": "UNH",
+          "quote_symbol": "usUNH"
+        }
+      ]
+    },
+    {
+      "id": "us-ko",
+      "name": "可口可乐",
+      "market": "us",
+      "order": 99,
+      "securities": [
+        {
+          "market": "us",
+          "code": "KO",
+          "quote_symbol": "usKO"
+        }
+      ]
+    },
+    {
+      "id": "us-spcx",
+      "name": "SpaceX",
+      "market": "us",
+      "order": 100,
+      "securities": [
+        {
+          "market": "us",
+          "code": "SPCX",
+          "quote_symbol": "usSPCX"
+        }
+      ]
+    },
+    {
+      "id": "us-googl",
+      "name": "谷歌 A",
+      "market": "us",
+      "order": 101,
+      "securities": [
+        {
+          "market": "us",
+          "code": "GOOGL",
+          "quote_symbol": "usGOOGL"
+        }
+      ]
+    },
+    {
+      "id": "us-msft",
+      "name": "微软",
+      "market": "us",
+      "order": 102,
+      "securities": [
+        {
+          "market": "us",
+          "code": "MSFT",
+          "quote_symbol": "usMSFT"
+        }
+      ]
+    },
+    {
+      "id": "us-amzn",
+      "name": "亚马逊",
+      "market": "us",
+      "order": 103,
+      "securities": [
+        {
+          "market": "us",
+          "code": "AMZN",
+          "quote_symbol": "usAMZN"
+        }
+      ]
+    },
+    {
+      "id": "us-lmt",
+      "name": "洛克希德·马丁",
+      "market": "us",
+      "order": 104,
+      "securities": [
+        {
+          "market": "us",
+          "code": "LMT",
+          "quote_symbol": "usLMT"
+        }
+      ]
+    },
+    {
+      "id": "us-nflx",
+      "name": "奈飞",
+      "market": "us",
+      "order": 105,
+      "securities": [
+        {
+          "market": "us",
+          "code": "NFLX",
+          "quote_symbol": "usNFLX"
+        }
+      ]
+    },
+    {
+      "id": "us-yumc",
+      "name": "百胜中国",
+      "market": "us",
+      "order": 106,
+      "securities": [
+        {
+          "market": "us",
+          "code": "YUMC",
+          "quote_symbol": "usYUMC"
+        }
+      ]
+    }
+  ]
+}

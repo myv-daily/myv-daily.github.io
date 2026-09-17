@@ -1,0 +1,27 @@
+{
+  "id": "cn-689009",
+  "name": "九号公司",
+  "market": "cn",
+  "order": 40,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "689009",
+      "quote_symbol": "sh689009"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-689009",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +7.63%",
+      "quote_symbol": "sh689009",
+      "quote_time": "20260811135036",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-11"
+    }
+  ]
+}

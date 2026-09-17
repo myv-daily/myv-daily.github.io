@@ -1,0 +1,32 @@
+{
+  "id": "hk-01060",
+  "name": "大麦娱乐",
+  "market": "hk",
+  "order": 54,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "01060",
+      "quote_symbol": "hk01060"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-01060",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.36%",
+      "quote_symbol": "hk01060",
+      "quote_time": "2026/08/13 16:08:17",
+      "first_seen_date": "2026-08-14",
+      "last_seen_date": "2026-08-14"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-14T05:30:17+08:00",
+    "focus_start": "2026-07-15T05:30:17+08:00",
+    "end": "2026-08-14T05:30:17+08:00"
+  }
+}

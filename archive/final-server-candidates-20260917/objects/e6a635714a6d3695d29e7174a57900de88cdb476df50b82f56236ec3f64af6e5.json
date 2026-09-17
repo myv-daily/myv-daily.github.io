@@ -1,0 +1,43 @@
+{
+  "id": "us-amzn",
+  "name": "亚马逊",
+  "market": "us",
+  "order": 103,
+  "securities": [
+    {
+      "market": "us",
+      "code": "AMZN",
+      "quote_symbol": "usAMZN"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-amzn",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.97%",
+      "quote_symbol": "usAMZN",
+      "quote_time": "2026-08-28 16:00:01",
+      "first_seen_date": "2026-08-29",
+      "last_seen_date": "2026-08-29"
+    },
+    {
+      "company_id": "us-amzn",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-31，AWS确认沙特首个云区域将于2026年12月上线，并与HUMAIN扩大合作，承诺到2028年为沙特首个AI Zone提供最高50MW容量；该区域对应逾53亿美元计划投资。项目进度与新增AI容量具业务意义，但收入贡献仍待验证，列为弱信号。",
+      "sources": [
+        "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia"
+      ],
+      "first_seen_date": "2026-09-01",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-09-01T05:30:17+08:00",
+    "focus_start": "2026-08-02T05:30:17+08:00",
+    "end": "2026-09-01T05:30:17+08:00"
+  }
+}

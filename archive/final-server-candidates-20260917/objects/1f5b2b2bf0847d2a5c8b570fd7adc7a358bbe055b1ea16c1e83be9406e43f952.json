@@ -1,0 +1,33 @@
+{
+  "id": "us-googl",
+  "name": "谷歌 A",
+  "market": "us",
+  "order": 101,
+  "securities": [
+    {
+      "market": "us",
+      "code": "GOOGL",
+      "quote_symbol": "usGOOGL"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-googl",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-02美国联邦法院在广告技术反垄断案中拒绝司法部要求剥离AdX等结构性拆分方案，仅要求行为性整改；该裁定显著降低核心广告技术资产被强制出售的尾部风险，但完整意见仍将封存14天，具体整改及收入影响待复核。",
+      "sources": [
+        "https://apnews.com/article/google-advertising-technology-monopoly-penalties-d294d31fee27c45b14d5ce2196cdd80a",
+        "https://www.investing.com/news/stock-market-news/google-defeats-us-bid-to-force-ad-tech-sale-4886463"
+      ],
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-31T05:30:17+08:00",
+    "end": "2026-09-03T05:30:17+08:00"
+  }
+}

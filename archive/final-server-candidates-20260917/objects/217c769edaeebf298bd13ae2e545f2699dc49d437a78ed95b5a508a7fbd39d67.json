@@ -1,0 +1,32 @@
+{
+  "id": "hk-01211",
+  "name": "比亚迪股份",
+  "market": "hk",
+  "order": 60,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "01211",
+      "quote_symbol": "hk01211"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-01211",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.17%",
+      "quote_symbol": "hk01211",
+      "quote_time": "2026/08/31 16:08:51",
+      "first_seen_date": "2026-09-01",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-09-01T05:30:17+08:00",
+    "focus_start": "2026-08-02T05:30:17+08:00",
+    "end": "2026-09-01T05:30:17+08:00"
+  }
+}

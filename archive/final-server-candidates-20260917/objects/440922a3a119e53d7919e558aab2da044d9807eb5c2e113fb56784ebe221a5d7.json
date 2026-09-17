@@ -1,0 +1,22 @@
+{
+  "id": "cn-600548",
+  "name": "深高速",
+  "market": "cn",
+  "order": 4,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "600548",
+      "quote_symbol": "sh600548"
+    }
+  ],
+  "selection_reason": "rotation-schedule",
+  "signals": [],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-17T05:30:12+08:00",
+    "focus_start": "2026-07-18T05:30:12+08:00",
+    "end": "2026-08-17T05:30:12+08:00"
+  }
+}

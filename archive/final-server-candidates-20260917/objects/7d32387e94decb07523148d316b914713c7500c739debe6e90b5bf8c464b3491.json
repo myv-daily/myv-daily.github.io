@@ -1,0 +1,31 @@
+{
+  "id": "us-momo",
+  "name": "挚文集团",
+  "market": "us",
+  "order": 87,
+  "securities": [
+    {
+      "market": "us",
+      "code": "MOMO",
+      "quote_symbol": "usMOMO"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-momo",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.29%",
+      "quote_symbol": "usMOMO",
+      "quote_time": "2026-09-04 16:00:01",
+      "first_seen_date": "2026-09-05",
+      "last_seen_date": "2026-09-05"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-04T05:30:06+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

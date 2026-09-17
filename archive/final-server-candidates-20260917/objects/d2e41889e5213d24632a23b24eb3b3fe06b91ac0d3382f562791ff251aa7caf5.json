@@ -1,0 +1,44 @@
+{
+  "id": "cn-603288",
+  "name": "海天味业",
+  "market": "cn",
+  "order": 30,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "603288",
+      "quote_symbol": "sh603288"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-603288",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.09%",
+      "quote_symbol": "sh603288",
+      "quote_time": "20260827161446",
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-08-28"
+    },
+    {
+      "company_id": "cn-603288",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "海天味业在窗口内披露半年报及经营数据：上半年收入 161.46 亿元、归母净利润 41.90 亿元，同比分别增长 6.01% 和 7.13%，但经营现金流下降 18.7%；线上渠道收入增长 15.45%，显著快于线下的 4.81%。业绩温和增长与窗口内股价大跌并存，值得复核市场预期差及现金流质量。",
+      "sources": [
+        "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12546865&stockid=603288"
+      ],
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-08-28"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-28T05:30:16+08:00",
+    "focus_start": "2026-07-29T05:30:16+08:00",
+    "end": "2026-08-28T05:30:16+08:00"
+  }
+}

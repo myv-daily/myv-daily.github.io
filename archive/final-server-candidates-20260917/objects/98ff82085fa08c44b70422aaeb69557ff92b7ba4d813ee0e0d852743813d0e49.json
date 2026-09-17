@@ -1,0 +1,42 @@
+{
+  "id": "hk-03600",
+  "name": "现代牙科",
+  "market": "hk",
+  "order": 48,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "03600",
+      "quote_symbol": "hk03600"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-03600",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +10.74%",
+      "quote_symbol": "hk03600",
+      "quote_time": "2026/08/20 16:09:12",
+      "first_seen_date": "2026-08-18",
+      "last_seen_date": "2026-08-21"
+    },
+    {
+      "company_id": "hk-03600",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "现代牙科于 2026-08-27 18:46 发布中期业绩：收入创纪录至 20.32 亿港元，同比增长 10.8%；净利润增长 30.8%，毛利率由 54.8% 升至 58.1%，中期股息由 10.7 港仙提高至 14 港仙。数字化病例量增长 29.2%，但北美收入下滑 9.4%，构成强劲盈利改善与区域分化并存的正式信号。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0827/2026082701151.pdf"
+      ],
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-08-28"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-15T05:30:17+08:00",
+    "end": "2026-08-28T05:30:16+08:00"
+  }
+}

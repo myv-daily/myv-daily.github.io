@@ -1,0 +1,44 @@
+{
+  "id": "us-bidu",
+  "name": "百度",
+  "market": "us",
+  "order": 86,
+  "securities": [
+    {
+      "market": "us",
+      "code": "BIDU",
+      "quote_symbol": "usBIDU"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -12.73%；最近 5 个采样点累计 -14.23%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-18 16:00:02",
+      "first_seen_date": "2026-08-12",
+      "last_seen_date": "2026-08-19"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "百度于2026年8月18日美股盘前发布二季度业绩并召开业绩会；公司总收入约46.17亿美元、同比仅增约1%，净利润同比下降约68%至23亿元人民币，低于市场预期，而AI云基础设施收入同比增长约50%、GPU云收入同比增长约283%。传统业务与AI投入的盈利压力、以及AI云高增并存，可能改变对其增长结构和盈利拐点的判断，叠加当日股价显著下跌，属于需复核的强信号。",
+      "sources": [
+        "https://ir.baidu.com/events/event-details/q2-2026-baidu-earnings-conference-call",
+        "https://ir.baidu.com/"
+      ],
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-19"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-19T05:30:16+08:00",
+    "focus_start": "2026-07-20T05:30:16+08:00",
+    "end": "2026-08-19T05:30:16+08:00"
+  }
+}

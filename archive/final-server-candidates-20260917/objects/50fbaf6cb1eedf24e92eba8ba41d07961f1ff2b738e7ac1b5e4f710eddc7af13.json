@@ -1,0 +1,34 @@
+{
+  "id": "cn-600900",
+  "name": "长江电力",
+  "market": "cn",
+  "order": 22,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "600900",
+      "quote_symbol": "sh600900"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-600900",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "长江电力于窗口内披露2026年半年报：上半年营业收入379.29亿元，同比增长3.36%；归母净利润147.56亿元，同比增长13.02%，利润增速明显高于收入增速。正式业绩披露显示盈利弹性发生积极变化，值得进一步核查来水、发电量、财务费用及一次性因素对增长的贡献和持续性。",
+      "sources": [
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/600900_20260831_E20Y.pdf"
+      ],
+      "first_seen_date": "2026-08-31",
+      "last_seen_date": "2026-08-31"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-31T05:30:17+08:00",
+    "focus_start": "2026-08-01T05:30:17+08:00",
+    "end": "2026-08-31T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "us-mu",
+  "name": "美光科技",
+  "market": "us",
+  "order": 97,
+  "securities": [
+    {
+      "market": "us",
+      "code": "MU",
+      "quote_symbol": "usMU"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-mu",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.10%；最近 5 个采样点累计 +8.98%",
+      "quote_symbol": "usMU",
+      "quote_time": "2026-09-04 16:00:01",
+      "first_seen_date": "2026-09-05",
+      "last_seen_date": "2026-09-05"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-25T05:30:17+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

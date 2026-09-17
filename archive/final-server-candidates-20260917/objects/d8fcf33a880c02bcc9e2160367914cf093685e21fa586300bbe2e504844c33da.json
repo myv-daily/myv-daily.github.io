@@ -1,0 +1,26 @@
+{
+  "id": "hk-00837",
+  "name": "谭木匠",
+  "market": "hk",
+  "order": 43,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "00837",
+      "quote_symbol": "hk00837"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "hk-00837",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.39%",
+      "quote_symbol": "hk00837",
+      "quote_time": "2026/08/11 16:08:17",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-12"
+    }
+  ]
+}

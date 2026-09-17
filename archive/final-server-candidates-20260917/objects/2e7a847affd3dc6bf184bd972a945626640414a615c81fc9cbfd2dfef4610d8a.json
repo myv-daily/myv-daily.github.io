@@ -1,0 +1,32 @@
+{
+  "id": "hk-03600",
+  "name": "现代牙科",
+  "market": "hk",
+  "order": 48,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "03600",
+      "quote_symbol": "hk03600"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-03600",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +11.89%；最近 5 个采样点累计 +12.04%",
+      "quote_symbol": "hk03600",
+      "quote_time": "2026/08/14 16:08:39",
+      "first_seen_date": "2026-08-15",
+      "last_seen_date": "2026-08-15"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-15T05:30:17+08:00",
+    "focus_start": "2026-07-16T05:30:17+08:00",
+    "end": "2026-08-15T05:30:17+08:00"
+  }
+}

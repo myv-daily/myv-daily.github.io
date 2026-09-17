@@ -1,0 +1,3853 @@
+[
+  {
+    "sha256": "1e5b7bf1fe53567bd808025811572994dbc6252e2cd770ae4861dbb9affaaadd",
+    "bytes": 9348,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600887-2026-09-04-1788473740609/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1e5b7bf1fe53567bd808025811572994dbc6252e2cd770ae4861dbb9affaaadd.md"
+  },
+  {
+    "sha256": "535c1f2576935561481222c92eeddf983a45c49d5f3cce4be55f57d04113dea4",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600887-2026-09-04-1788473740609/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/535c1f2576935561481222c92eeddf983a45c49d5f3cce4be55f57d04113dea4.json"
+  },
+  {
+    "sha256": "ad5a5d3597b0a8792318b43e08f065c8537bd92a46fe36295e051aa23a4ab445",
+    "bytes": 1401,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601012-2026-08-31-1788126068666/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ad5a5d3597b0a8792318b43e08f065c8537bd92a46fe36295e051aa23a4ab445.json"
+  },
+  {
+    "sha256": "7a3205418725eca80bade6392fcfdc7ad9f395ec268d377ca2acbdbaab48f4c6",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600025-2026-09-04-1788473001342/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7a3205418725eca80bade6392fcfdc7ad9f395ec268d377ca2acbdbaab48f4c6.json"
+  },
+  {
+    "sha256": "a6004c64af5ee154aca54d62a665ad1d909bf75262bb9e10da27d8b84a072d5d",
+    "bytes": 728,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-12-1786500441548/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a6004c64af5ee154aca54d62a665ad1d909bf75262bb9e10da27d8b84a072d5d.json"
+  },
+  {
+    "sha256": "233b43c65ce30d6a7e492dfce72e111d7557a98d26ede96ab8ebfc1972068078",
+    "bytes": 1050,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000651-2026-08-28-1787868448979/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/233b43c65ce30d6a7e492dfce72e111d7557a98d26ede96ab8ebfc1972068078.json"
+  },
+  {
+    "sha256": "6cf0731dbbebe19d31790743fa6c57b07e70a9190792744dfa59851e45bbc366",
+    "bytes": 460,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-301061-2026-08-17-1786916922403/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6cf0731dbbebe19d31790743fa6c57b07e70a9190792744dfa59851e45bbc366.json"
+  },
+  {
+    "sha256": "fd995e0c11654deceae69ce8b1b0411b9c360dcf32ae3ab67ec342e91da2b2bc",
+    "bytes": 14956,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-spcx-2026-08-13-1786571062546/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fd995e0c11654deceae69ce8b1b0411b9c360dcf32ae3ab67ec342e91da2b2bc.md"
+  },
+  {
+    "sha256": "bf16acda704e261d731226c2f7cd36c2150f91fcf27f645589f077ba9b9bbc0f",
+    "bytes": 721,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-spcx-2026-08-13-1786571062546/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/bf16acda704e261d731226c2f7cd36c2150f91fcf27f645589f077ba9b9bbc0f.json"
+  },
+  {
+    "sha256": "dfcbd9a7dca951e043d9fef88e52c681be008978d14780c2dac4a194c2ea0fdb",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603551-2026-09-04-1788472444405/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/dfcbd9a7dca951e043d9fef88e52c681be008978d14780c2dac4a194c2ea0fdb.json"
+  },
+  {
+    "sha256": "fe88f05c5c691bb55ece02f27decfbcc2c67260a32a46c75d525ac07b29c1c97",
+    "bytes": 54681,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-14-1786656898599/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fe88f05c5c691bb55ece02f27decfbcc2c67260a32a46c75d525ac07b29c1c97.json"
+  },
+  {
+    "sha256": "b7307dc9e9bc4726e5566b71b7f51be9acfb689c19d9e285cffa17baa2abc15c",
+    "bytes": 27597,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-14-1786656898599/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-19-1787088856295/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-28-1787866556786/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-25-1787607268677/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-30-1788039293072/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-24-1787520967873/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-20-1787175023026/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786484022604/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-18-1787002525365/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-21-1787261717463/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-17-1786916097048/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-26-1787693650081/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-08-1788816968268/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-04-1788471221010/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786514934268/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-15-1786743331044/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-02-1788298402964/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-09-1788903476069/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-03-1788384816351/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-01-1788212355985/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786437081255/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-27-1787780120958/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-29-1787952854226/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-06-1788644130255/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786434723993/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-10-1788989803750/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786500361279/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-23-1787434514495/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786427440495/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-22-1787348068751/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-31-1788125685870/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-05-1788557688832/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-07-1788730223134/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-13-1786570533552/workspace/inputs/universe.json",
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-16-1786829654038/workspace/inputs/universe.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b7307dc9e9bc4726e5566b71b7f51be9acfb689c19d9e285cffa17baa2abc15c.json"
+  },
+  {
+    "sha256": "0fd80c081eece5a1a99173dc651f1973daaaaa087d390a65dfe7ad81efe33922",
+    "bytes": 12888,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-ko-2026-09-04-1788476021371/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0fd80c081eece5a1a99173dc651f1973daaaaa087d390a65dfe7ad81efe33922.md"
+  },
+  {
+    "sha256": "b8cf0b27c7061de2e32d21af87a4c6849152e2fa635890f37a3956e74da14720",
+    "bytes": 425,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-ko-2026-09-04-1788476021371/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b8cf0b27c7061de2e32d21af87a4c6849152e2fa635890f37a3956e74da14720.json"
+  },
+  {
+    "sha256": "844123f93274f06af24d3dc07237e1b303a2c4af4524f047c26b37c09ce4ffb2",
+    "bytes": 1251,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600036-2026-08-30-1788039560275/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/844123f93274f06af24d3dc07237e1b303a2c4af4524f047c26b37c09ce4ffb2.json"
+  },
+  {
+    "sha256": "894f55cd4004b5347442f5674278c9f63bd2fc42c41c50a350ea2c1d88a49dcd",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-21-1787263661637/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/894f55cd4004b5347442f5674278c9f63bd2fc42c41c50a350ea2c1d88a49dcd.json"
+  },
+  {
+    "sha256": "33335296072805176e1e958f3ff5d8f34fc00483ab5047692871ffb50f683a8f",
+    "bytes": 668,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amd-2026-09-07-1788730233608/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/33335296072805176e1e958f3ff5d8f34fc00483ab5047692871ffb50f683a8f.json"
+  },
+  {
+    "sha256": "fb7b2822d9bad91570810cf5c7fc1a6e4de58aa9fd504adb6132972804d35e35",
+    "bytes": 679,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsla-2026-09-05-1788559357377/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fb7b2822d9bad91570810cf5c7fc1a6e4de58aa9fd504adb6132972804d35e35.json"
+  },
+  {
+    "sha256": "2df41a712734472f4b14cc6cb4715f6aa9154d7e303527ce6053158d4386f73f",
+    "bytes": 792,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002003-2026-08-28-1787866999806/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/2df41a712734472f4b14cc6cb4715f6aa9154d7e303527ce6053158d4386f73f.json"
+  },
+  {
+    "sha256": "720cd3f06a8eacb144b926bdb693b184e21c82ef5053c553c7ede9f1f97e4568",
+    "bytes": 714,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603393-2026-09-09-1788905454812/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/720cd3f06a8eacb144b926bdb693b184e21c82ef5053c553c7ede9f1f97e4568.json"
+  },
+  {
+    "sha256": "d6230774a09361320ac5fdf9aee5f3cdb08c9fca982dfe09ab544c63d88e0b38",
+    "bytes": 709,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-09-09-1788904547295/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d6230774a09361320ac5fdf9aee5f3cdb08c9fca982dfe09ab544c63d88e0b38.json"
+  },
+  {
+    "sha256": "7e91a2c8ba785c46b2009b7f675110c575bd4b66cfe20e88406164f5dd5fb9b3",
+    "bytes": 551,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-12-1786484285866/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7e91a2c8ba785c46b2009b7f675110c575bd4b66cfe20e88406164f5dd5fb9b3.json"
+  },
+  {
+    "sha256": "6976d4351ea15d41a4f377a1b0602b133a353c3067e1e021dc28aa257024e312",
+    "bytes": 1125,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-003816-2026-08-23-1787434761352/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6976d4351ea15d41a4f377a1b0602b133a353c3067e1e021dc28aa257024e312.json"
+  },
+  {
+    "sha256": "6a7bd005a46e6d81ceffa7ec1d0e3d0d32015add959045d288b8a5542b2c0537",
+    "bytes": 1082,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000651-2026-08-27-1787780759358/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6a7bd005a46e6d81ceffa7ec1d0e3d0d32015add959045d288b8a5542b2c0537.json"
+  },
+  {
+    "sha256": "9b0a35922f13f62509f0afc87c1875747defaa11fd72abbb2fa8816265a26998",
+    "bytes": 677,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nflx-2026-09-05-1788557975168/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9b0a35922f13f62509f0afc87c1875747defaa11fd72abbb2fa8816265a26998.json"
+  },
+  {
+    "sha256": "591fd4c9cfd1c96a4b22166a525698f0f0072d54182da8f3a9da446d30e4c00e",
+    "bytes": 737,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01209-2026-08-27-1787781291201/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/591fd4c9cfd1c96a4b22166a525698f0f0072d54182da8f3a9da446d30e4c00e.json"
+  },
+  {
+    "sha256": "4dc02b8d3d9b3eeb2ee23ad7ff5f1cddc75a5e69c50ddd53b23130ff418c46d1",
+    "bytes": 773,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09618-2026-08-15-1786743833092/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4dc02b8d3d9b3eeb2ee23ad7ff5f1cddc75a5e69c50ddd53b23130ff418c46d1.json"
+  },
+  {
+    "sha256": "3ead40511a8c5add42ed37348463ac0308b44199ba83028559d7a3488dcd0583",
+    "bytes": 726,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09896-2026-09-01-1788214047093/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3ead40511a8c5add42ed37348463ac0308b44199ba83028559d7a3488dcd0583.json"
+  },
+  {
+    "sha256": "6e8d3141f261d7a73f699ed7333e61e1d1a672cd6871eb08f6d594fc87bb71fe",
+    "bytes": 1351,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-avgo-2026-09-02-1788299385624/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6e8d3141f261d7a73f699ed7333e61e1d1a672cd6871eb08f6d594fc87bb71fe.json"
+  },
+  {
+    "sha256": "23e12514a4b1d89ce38da701f43805c2d9a624ea78108d362e9264f1138d012d",
+    "bytes": 752,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603393-2026-08-15-1786744521438/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/23e12514a4b1d89ce38da701f43805c2d9a624ea78108d362e9264f1138d012d.json"
+  },
+  {
+    "sha256": "3e7451c45e61ae123749b9b5445c58c47a1d7ae6108b86ee0194c4afd14b5d80",
+    "bytes": 1026,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00883-2026-09-10-1788991068726/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3e7451c45e61ae123749b9b5445c58c47a1d7ae6108b86ee0194c4afd14b5d80.json"
+  },
+  {
+    "sha256": "92ac1aae1204b1ad5c282533d9b2c76bed2f9465bad63b0d48b8587674789720",
+    "bytes": 54646,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-19-1787088856295/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/92ac1aae1204b1ad5c282533d9b2c76bed2f9465bad63b0d48b8587674789720.json"
+  },
+  {
+    "sha256": "ea306e2053d732b719849f38e562e1b88313ceed7847d21ac55c92e4e48c2cc1",
+    "bytes": 3854,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-19-1787088856295/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ea306e2053d732b719849f38e562e1b88313ceed7847d21ac55c92e4e48c2cc1.json"
+  },
+  {
+    "sha256": "d9774a4dde1ee0661483a009b7e468369f3386c46902bba76cce720bf893251a",
+    "bytes": 1429,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nvda-2026-08-28-1787866671763/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d9774a4dde1ee0661483a009b7e468369f3386c46902bba76cce720bf893251a.json"
+  },
+  {
+    "sha256": "5e55fc08fddc0e66b9e50f21d3ce1f44f347e4211c8501f93740e1dca9d5824a",
+    "bytes": 748,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-301061-2026-09-05-1788558885470/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5e55fc08fddc0e66b9e50f21d3ce1f44f347e4211c8501f93740e1dca9d5824a.json"
+  },
+  {
+    "sha256": "6381f99cfb6efc950de1e8cecb6ec6e54a40c5f0dbb5b8d549074e7cfd69f0be",
+    "bytes": 711,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-001328-2026-08-14-1786657975190/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6381f99cfb6efc950de1e8cecb6ec6e54a40c5f0dbb5b8d549074e7cfd69f0be.json"
+  },
+  {
+    "sha256": "38034940663879dda6db5b9115a7136aa1daa676247f1818fc86dddaea5c937d",
+    "bytes": 1048,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600886-2026-09-02-1788298622641/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/38034940663879dda6db5b9115a7136aa1daa676247f1818fc86dddaea5c937d.json"
+  },
+  {
+    "sha256": "2002b5eec9b2afa6457709b4d3d0a8e0ed64ac6248ce04385083933911b476ae",
+    "bytes": 1067,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300705-2026-08-23-1787434974340/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/2002b5eec9b2afa6457709b4d3d0a8e0ed64ac6248ce04385083933911b476ae.json"
+  },
+  {
+    "sha256": "157fe6ac507396189e4a98a5f4567f09dde14491324616b9ff775767258adac3",
+    "bytes": 13223,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-beke-2026-08-22-1787348153045/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/157fe6ac507396189e4a98a5f4567f09dde14491324616b9ff775767258adac3.md"
+  },
+  {
+    "sha256": "aa40702419a73f20b95056085c8b5095da021d0c186be234d3c4a439d46422c9",
+    "bytes": 1590,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-beke-2026-08-22-1787348153045/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/aa40702419a73f20b95056085c8b5095da021d0c186be234d3c4a439d46422c9.json"
+  },
+  {
+    "sha256": "6aa98776cfecce899685122653d47bd31822c0b4dffd10117fd43ea1ebd492c7",
+    "bytes": 10316,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-689009-2026-08-11-1786427584349/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6aa98776cfecce899685122653d47bd31822c0b4dffd10117fd43ea1ebd492c7.md"
+  },
+  {
+    "sha256": "30484c1c3e8ed2a894ac38093e5cdc4e2c862c64d2a3fdd6b6cc060728a065e0",
+    "bytes": 575,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-689009-2026-08-11-1786427584349/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/30484c1c3e8ed2a894ac38093e5cdc4e2c862c64d2a3fdd6b6cc060728a065e0.json"
+  },
+  {
+    "sha256": "5de6463c13fe61541ed4cca67f5d16c2f12ef67e76c79e89a17709526459d879",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-pdd-2026-08-14-1786657514620/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5de6463c13fe61541ed4cca67f5d16c2f12ef67e76c79e89a17709526459d879.json"
+  },
+  {
+    "sha256": "e097198180e5aa9a6557d5fce1301fcf858928d911335555c405b10115a9a6d2",
+    "bytes": 685,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-22-1787348986653/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e097198180e5aa9a6557d5fce1301fcf858928d911335555c405b10115a9a6d2.json"
+  },
+  {
+    "sha256": "c9088cfd8218b63aebc414b8cff97d89909e4614c94c7334467d87580597b3a6",
+    "bytes": 1049,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nvda-2026-09-02-1788299180611/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c9088cfd8218b63aebc414b8cff97d89909e4614c94c7334467d87580597b3a6.json"
+  },
+  {
+    "sha256": "d8bd7384fb549bb8065ac4ba6d583c09c475f3d3e9bcebb7bfd9b29fae116f2b",
+    "bytes": 724,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01837-2026-09-02-1788299021920/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d8bd7384fb549bb8065ac4ba6d583c09c475f3d3e9bcebb7bfd9b29fae116f2b.json"
+  },
+  {
+    "sha256": "5f85e2c0f17402329f201e5f7fe8b722e99dbba7ba5eae6d66e69a7226fb856c",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06055-2026-08-21-1787262899824/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5f85e2c0f17402329f201e5f7fe8b722e99dbba7ba5eae6d66e69a7226fb856c.json"
+  },
+  {
+    "sha256": "a523c72cf50f65074f7bbca717496eabc595c5c0dd43e50dd6962cdef33cc3fa",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01837-2026-08-29-1787953125056/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a523c72cf50f65074f7bbca717496eabc595c5c0dd43e50dd6962cdef33cc3fa.json"
+  },
+  {
+    "sha256": "5733c6dc67b516bd73f6afad19886440fbe1ce936712fd3433510f40d5ce6884",
+    "bytes": 550,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600660-2026-08-16-1786830365194/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5733c6dc67b516bd73f6afad19886440fbe1ce936712fd3433510f40d5ce6884.json"
+  },
+  {
+    "sha256": "bca8888f28bcccaf9e88b7dfc6f34c84738c660193c3871eb90be530d0c63c2a",
+    "bytes": 724,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00288-2026-09-01-1788214784837/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/bca8888f28bcccaf9e88b7dfc6f34c84738c660193c3871eb90be530d0c63c2a.json"
+  },
+  {
+    "sha256": "5ce16e068a2c8fa9e606902788e6c6a2bc9ad9d27f75296870f79e9187acbe41",
+    "bytes": 810,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600660-2026-09-10-1788991678827/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5ce16e068a2c8fa9e606902788e6c6a2bc9ad9d27f75296870f79e9187acbe41.json"
+  },
+  {
+    "sha256": "55cc1cef74a6fa2d96329d2d784b5c741efcdfac12e7057af2e93ca4e94f0c38",
+    "bytes": 1076,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-aapl-2026-09-03-1788384905352/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/55cc1cef74a6fa2d96329d2d784b5c741efcdfac12e7057af2e93ca4e94f0c38.json"
+  },
+  {
+    "sha256": "0d7af04520882a3c3a3b71c19bd9eb51e597057e52b6ed959480d15333df44d5",
+    "bytes": 1383,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nvda-2026-09-01-1788213439519/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0d7af04520882a3c3a3b71c19bd9eb51e597057e52b6ed959480d15333df44d5.json"
+  },
+  {
+    "sha256": "1df505c2a339597d27146a0b71d9b3ad9a47198def135ca90e52d416f658b1d4",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-edu-2026-08-30-1788040029647/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1df505c2a339597d27146a0b71d9b3ad9a47198def135ca90e52d416f658b1d4.json"
+  },
+  {
+    "sha256": "7d1a1ea4eec573ea0c17734695376f682e344a112714c4d139db5f02d196b725",
+    "bytes": 54672,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-28-1787866556786/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7d1a1ea4eec573ea0c17734695376f682e344a112714c4d139db5f02d196b725.json"
+  },
+  {
+    "sha256": "5d989c5c98f4069f97f293717e31ed8e8c9cd5fa4b83d87e023cdb58dbfee879",
+    "bytes": 4674,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-28-1787866556786/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5d989c5c98f4069f97f293717e31ed8e8c9cd5fa4b83d87e023cdb58dbfee879.json"
+  },
+  {
+    "sha256": "561b7db6f8b9590c58c7282ee5095fd7827ed59af292b4f6620dcc4f57043a44",
+    "bytes": 14480,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002572-2026-08-18-1787003171314/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/561b7db6f8b9590c58c7282ee5095fd7827ed59af292b4f6620dcc4f57043a44.md"
+  },
+  {
+    "sha256": "dbfb8780b3bcc2a609a3b218b32787f0f436ee04fcf3341376d5e6e7dcba85a7",
+    "bytes": 752,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002572-2026-08-18-1787003171314/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/dbfb8780b3bcc2a609a3b218b32787f0f436ee04fcf3341376d5e6e7dcba85a7.json"
+  },
+  {
+    "sha256": "452d67def568f762dc4484d7b552478b594dcf715666730bb331c2881bb91c1b",
+    "bytes": 1335,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601857-2026-08-31-1788126325646/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/452d67def568f762dc4484d7b552478b594dcf715666730bb331c2881bb91c1b.json"
+  },
+  {
+    "sha256": "de2a80efe3c6515b975edbea07c541e0d4b5445fafb01ff9665f6a866e5b2366",
+    "bytes": 752,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601360-2026-08-21-1787264069245/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/de2a80efe3c6515b975edbea07c541e0d4b5445fafb01ff9665f6a866e5b2366.json"
+  },
+  {
+    "sha256": "cf7442f1bd05aca1654db3b6d99bcfacc7fb50874b2d95496bd15ce7fbd2a569",
+    "bytes": 11688,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02145-2026-08-28-1787867517873/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/cf7442f1bd05aca1654db3b6d99bcfacc7fb50874b2d95496bd15ce7fbd2a569.md"
+  },
+  {
+    "sha256": "c51cb6496658791d012b734bd7231b94a09b6b2bbd0090b8f727668cb64211b6",
+    "bytes": 1371,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02145-2026-08-28-1787867517873/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c51cb6496658791d012b734bd7231b94a09b6b2bbd0090b8f727668cb64211b6.json"
+  },
+  {
+    "sha256": "dacded519cde046533ef91da712c658e3db1e71f134b83eaa341337cd57a9ead",
+    "bytes": 387,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00837-2026-09-06-1788644228417/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/dacded519cde046533ef91da712c658e3db1e71f134b83eaa341337cd57a9ead.json"
+  },
+  {
+    "sha256": "4b3abeea4feb4439117cd164d50c88575cce44d88c86ad8814e1ca9df24877d1",
+    "bytes": 690,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09618-2026-09-07-1788730230054/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4b3abeea4feb4439117cd164d50c88575cce44d88c86ad8814e1ca9df24877d1.json"
+  },
+  {
+    "sha256": "b6b4aca01a306f9b2ce1ddba1b4ec4fca9d525163dd0f5c022fb074067e88804",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601985-2026-09-04-1788474331291/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b6b4aca01a306f9b2ce1ddba1b4ec4fca9d525163dd0f5c022fb074067e88804.json"
+  },
+  {
+    "sha256": "7fc5d0e2a01d999403af3112880559e74a34b51ebecad8b605224316e6a21b3d",
+    "bytes": 1059,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-aapl-2026-09-10-1788990284066/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7fc5d0e2a01d999403af3112880559e74a34b51ebecad8b605224316e6a21b3d.json"
+  },
+  {
+    "sha256": "e2aa543a0d8fcdcc1e3c48a3c18b005a2fcff1ebe0c1f5199a828f37fb07a57b",
+    "bytes": 1485,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09988-2026-08-21-1787262178818/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e2aa543a0d8fcdcc1e3c48a3c18b005a2fcff1ebe0c1f5199a828f37fb07a57b.json"
+  },
+  {
+    "sha256": "530517c04c4fab6ed15f27b58ec961880e93d2a4fd130f2df64c40da4a87e3ce",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300755-2026-08-20-1787175028810/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/530517c04c4fab6ed15f27b58ec961880e93d2a4fd130f2df64c40da4a87e3ce.json"
+  },
+  {
+    "sha256": "997a01e8bb65e3369e0bc9a9cd81512418d1ad15ddb4afa8965944a3a859bc7e",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03690-2026-08-26-1787693876118/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/997a01e8bb65e3369e0bc9a9cd81512418d1ad15ddb4afa8965944a3a859bc7e.json"
+  },
+  {
+    "sha256": "939f8b4d30d9a7e299e737715a8feb123a265d8512bfd80ae9f2c429c00f1b03",
+    "bytes": 1419,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-003816-2026-09-05-1788557821524/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/939f8b4d30d9a7e299e737715a8feb123a265d8512bfd80ae9f2c429c00f1b03.json"
+  },
+  {
+    "sha256": "df630c67e47ed8fe598418bdb3f83463b432b3b7ceac995ceb7b49aadf1ce1ee",
+    "bytes": 806,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300750-2026-09-10-1788991420590/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/df630c67e47ed8fe598418bdb3f83463b432b3b7ceac995ceb7b49aadf1ce1ee.json"
+  },
+  {
+    "sha256": "7f119a86bb432cc68535cfa0322adbd73e0df2a91c2913cc75984eacbaf71af6",
+    "bytes": 681,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-18-1787002743754/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7f119a86bb432cc68535cfa0322adbd73e0df2a91c2913cc75984eacbaf71af6.json"
+  },
+  {
+    "sha256": "8645be6d8610639d87322aa9b86fab7b74570aa408b9824b41a5b5c74703e770",
+    "bytes": 1321,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09988-2026-09-10-1788991946180/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8645be6d8610639d87322aa9b86fab7b74570aa408b9824b41a5b5c74703e770.json"
+  },
+  {
+    "sha256": "9370f79d984580746fbde8ffbc4421d151cdecce2afd0ee16c3a4a22a3776d98",
+    "bytes": 54667,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-25-1787607268677/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9370f79d984580746fbde8ffbc4421d151cdecce2afd0ee16c3a4a22a3776d98.json"
+  },
+  {
+    "sha256": "46954b7e78525ee797026d9d446f426ee527699886a4d49df2f10649b449434d",
+    "bytes": 6421,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-25-1787607268677/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/46954b7e78525ee797026d9d446f426ee527699886a4d49df2f10649b449434d.json"
+  },
+  {
+    "sha256": "e191787f96c4a4fc4e350ca549515d0902efadc0b522a32551d661f2920fc97b",
+    "bytes": 721,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02390-2026-09-10-1788990794297/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e191787f96c4a4fc4e350ca549515d0902efadc0b522a32551d661f2920fc97b.json"
+  },
+  {
+    "sha256": "f2794afc3a0744ff1bf5413bda087e2780605b198fc6ddfa5c331f4cba7bef43",
+    "bytes": 54624,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-30-1788039293072/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f2794afc3a0744ff1bf5413bda087e2780605b198fc6ddfa5c331f4cba7bef43.json"
+  },
+  {
+    "sha256": "0f78989c22dd717ce3083b2425f855ff869252f8074dd96afa06b7efc5003381",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03306-2026-09-10-1788990458210/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0f78989c22dd717ce3083b2425f855ff869252f8074dd96afa06b7efc5003381.json"
+  },
+  {
+    "sha256": "1f5b2b2bf0847d2a5c8b570fd7adc7a358bbe055b1ea16c1e83be9406e43f952",
+    "bytes": 1131,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-googl-2026-09-03-1788385402176/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1f5b2b2bf0847d2a5c8b570fd7adc7a358bbe055b1ea16c1e83be9406e43f952.json"
+  },
+  {
+    "sha256": "8037c65176ea163a526a6a4e7f78f1705b74d0151851cf08dc137791af22d888",
+    "bytes": 54624,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-24-1787520967873/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8037c65176ea163a526a6a4e7f78f1705b74d0151851cf08dc137791af22d888.json"
+  },
+  {
+    "sha256": "d790080d9bcc06d53b4f73a6b33e94c32b4e5992cd3489c0042ced330662d91e",
+    "bytes": 733,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-lmt-2026-09-04-1788471913067/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d790080d9bcc06d53b4f73a6b33e94c32b4e5992cd3489c0042ced330662d91e.json"
+  },
+  {
+    "sha256": "a57390c0de66b022fcee1c2e37e3a0edb3db87bee9d2fb2989a439ef78ede78a",
+    "bytes": 1014,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09626-2026-08-28-1787868143456/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a57390c0de66b022fcee1c2e37e3a0edb3db87bee9d2fb2989a439ef78ede78a.json"
+  },
+  {
+    "sha256": "c1aacfc003300a3c2411d530fe6380dc2b454797ebcac5f535586de0cc2b6bd8",
+    "bytes": 457,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000726-2026-09-04-1788472715873/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c1aacfc003300a3c2411d530fe6380dc2b454797ebcac5f535586de0cc2b6bd8.json"
+  },
+  {
+    "sha256": "258f7e06440b7e85f8858a3bd93ecdbca3892b6abf07f044fda460a20e792640",
+    "bytes": 928,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-bidu-2026-09-08-1788817810937/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/258f7e06440b7e85f8858a3bd93ecdbca3892b6abf07f044fda460a20e792640.json"
+  },
+  {
+    "sha256": "2e7a847affd3dc6bf184bd972a945626640414a615c81fc9cbfd2dfef4610d8a",
+    "bytes": 770,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03600-2026-08-15-1786743665403/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/2e7a847affd3dc6bf184bd972a945626640414a615c81fc9cbfd2dfef4610d8a.json"
+  },
+  {
+    "sha256": "7a7357915ed6d4bacf0209a83c0dc23e08b39ab03d30c8526a0b1234d6304314",
+    "bytes": 676,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-ntes-2026-08-22-1787349131432/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7a7357915ed6d4bacf0209a83c0dc23e08b39ab03d30c8526a0b1234d6304314.json"
+  },
+  {
+    "sha256": "551c8063ee1a83b73cfe482bb56b43a98cccd19ef2c064a4681f45f6f7a1244d",
+    "bytes": 10981,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002244-2026-09-01-1788213142832/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/551c8063ee1a83b73cfe482bb56b43a98cccd19ef2c064a4681f45f6f7a1244d.md"
+  },
+  {
+    "sha256": "772f1d5532f33931af69954b23ff324b925362e72c472cc47f29a716fd879812",
+    "bytes": 711,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002244-2026-09-01-1788213142832/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/772f1d5532f33931af69954b23ff324b925362e72c472cc47f29a716fd879812.json"
+  },
+  {
+    "sha256": "7a0dcbb4e949fcbec21602615dd2d97df468193ef7f75a40a0329a8f26ee1ad7",
+    "bytes": 841,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300750-2026-09-07-1788730237295/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7a0dcbb4e949fcbec21602615dd2d97df468193ef7f75a40a0329a8f26ee1ad7.json"
+  },
+  {
+    "sha256": "57392fd7f5b0933bca56dec83375e365200cdb766047e5838f68bdb40c766b87",
+    "bytes": 1139,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600519-2026-09-09-1788904269133/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/57392fd7f5b0933bca56dec83375e365200cdb766047e5838f68bdb40c766b87.json"
+  },
+  {
+    "sha256": "e6a635714a6d3695d29e7174a57900de88cdb476df50b82f56236ec3f64af6e5",
+    "bytes": 1322,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amzn-2026-09-01-1788212536566/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e6a635714a6d3695d29e7174a57900de88cdb476df50b82f56236ec3f64af6e5.json"
+  },
+  {
+    "sha256": "36a64c6b11f4f0e3929b7bdd8e7162db30d056f586b33d6c49747d24b13b7da2",
+    "bytes": 54652,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-20-1787175023026/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/36a64c6b11f4f0e3929b7bdd8e7162db30d056f586b33d6c49747d24b13b7da2.json"
+  },
+  {
+    "sha256": "fcf4931774df30fd393c55925b1fa95a05d46e3b3e2061c100b4d7a56c2fc69f",
+    "bytes": 6509,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-20-1787175023026/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fcf4931774df30fd393c55925b1fa95a05d46e3b3e2061c100b4d7a56c2fc69f.json"
+  },
+  {
+    "sha256": "68a8d378d2dd9f4f40daee754e6841746d46d9635b8379dac9097bd434452110",
+    "bytes": 685,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-25-1787608199757/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/68a8d378d2dd9f4f40daee754e6841746d46d9635b8379dac9097bd434452110.json"
+  },
+  {
+    "sha256": "9ab797f69d4e1d693a9cf85f4c973bda52e3a5105d7db345a742b7b405725b02",
+    "bytes": 8381,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsla-2026-09-01-1788214584377/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9ab797f69d4e1d693a9cf85f4c973bda52e3a5105d7db345a742b7b405725b02.md"
+  },
+  {
+    "sha256": "7845ba0afe979b62d6ed591e70ff8cc415247cd14bd4a9cedd5130734fd4b13b",
+    "bytes": 679,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsla-2026-09-01-1788214584377/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7845ba0afe979b62d6ed591e70ff8cc415247cd14bd4a9cedd5130734fd4b13b.json"
+  },
+  {
+    "sha256": "1ba31bbf5f5b847687efffa9c5cbfb14f37fabd7b62d930bf325a55e4b82afd4",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02020-2026-08-27-1787780480340/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1ba31bbf5f5b847687efffa9c5cbfb14f37fabd7b62d930bf325a55e4b82afd4.json"
+  },
+  {
+    "sha256": "b702ac3d6b8a8750a4630cb7728fdaa04152a752d48a7ce3db6dfbf6d9d2fef5",
+    "bytes": 575,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-001328-2026-08-11-1786428747337/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b702ac3d6b8a8750a4630cb7728fdaa04152a752d48a7ce3db6dfbf6d9d2fef5.json"
+  },
+  {
+    "sha256": "c886f487e6182febbf80a9b951445b2db3882dc8e8b57341e931f660d886b21b",
+    "bytes": 728,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00285-2026-09-01-1788215341301/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c886f487e6182febbf80a9b951445b2db3882dc8e8b57341e931f660d886b21b.json"
+  },
+  {
+    "sha256": "1fa6cbf4c4c29c0e5f4c513b57a39615e9bb5d13992fc4ddd7368069df138df3",
+    "bytes": 760,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02390-2026-09-05-1788559018860/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1fa6cbf4c4c29c0e5f4c513b57a39615e9bb5d13992fc4ddd7368069df138df3.json"
+  },
+  {
+    "sha256": "a2836deb2e693601a2869695f74096451b6062087a1984f07f768eb4f9829778",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-16-1786829895560/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a2836deb2e693601a2869695f74096451b6062087a1984f07f768eb4f9829778.json"
+  },
+  {
+    "sha256": "e1b8a7a7bfa2eb1d08c6981d99d3faddd47615eadb2a6ba8aab55c177cd869d2",
+    "bytes": 1078,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601857-2026-09-10-1788990083275/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e1b8a7a7bfa2eb1d08c6981d99d3faddd47615eadb2a6ba8aab55c177cd869d2.json"
+  },
+  {
+    "sha256": "03c868a41ef5d7012e7352466e7060237bf0090616153e4c849d1ffccad77230",
+    "bytes": 434,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00669-2026-09-04-1788475179341/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/03c868a41ef5d7012e7352466e7060237bf0090616153e4c849d1ffccad77230.json"
+  },
+  {
+    "sha256": "98ff82085fa08c44b70422aaeb69557ff92b7ba4d813ee0e0d852743813d0e49",
+    "bytes": 1340,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03600-2026-08-28-1787867362414/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/98ff82085fa08c44b70422aaeb69557ff92b7ba4d813ee0e0d852743813d0e49.json"
+  },
+  {
+    "sha256": "d54310cf1a3add06f098d010d8e0c9ea5db49b26e8faff4a987514f5d2968d3b",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tal-2026-08-21-1787263515626/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d54310cf1a3add06f098d010d8e0c9ea5db49b26e8faff4a987514f5d2968d3b.json"
+  },
+  {
+    "sha256": "0e41961d93e62feb1ee6058ff1c4491d515898bb7c1742429e0b90b1e63de708",
+    "bytes": 722,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-14-1786657865038/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0e41961d93e62feb1ee6058ff1c4491d515898bb7c1742429e0b90b1e63de708.json"
+  },
+  {
+    "sha256": "9a0433ae32495efd6df3cbf78440e3bbda54ebdd5cb9af6c175981dd57dbae3e",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00700-2026-08-17-1786916644658/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9a0433ae32495efd6df3cbf78440e3bbda54ebdd5cb9af6c175981dd57dbae3e.json"
+  },
+  {
+    "sha256": "766cbaf890bcd79c9cd13f0b94c430c4bdda56c0f0932e08ae09ab60b76a4455",
+    "bytes": 1472,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09988-2026-08-26-1787693754758/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/766cbaf890bcd79c9cd13f0b94c430c4bdda56c0f0932e08ae09ab60b76a4455.json"
+  },
+  {
+    "sha256": "ffc942999fa60fba39c025151c38d0bf5bbc2c13ee3c45f693a8f1588d0a3bb2",
+    "bytes": 748,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300705-2026-08-25-1787608493651/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ffc942999fa60fba39c025151c38d0bf5bbc2c13ee3c45f693a8f1588d0a3bb2.json"
+  },
+  {
+    "sha256": "6c7f922c292ef658f5c90f26179c7efca93b395d5ab55a1085473e0b59bd70e4",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600795-2026-09-03-1788385681288/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6c7f922c292ef658f5c90f26179c7efca93b395d5ab55a1085473e0b59bd70e4.json"
+  },
+  {
+    "sha256": "3969f571c16eadc2f723bb55ce165312335b45c392995d5a2b54a59dcab5af46",
+    "bytes": 1033,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09898-2026-08-21-1787263072457/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3969f571c16eadc2f723bb55ce165312335b45c392995d5a2b54a59dcab5af46.json"
+  },
+  {
+    "sha256": "f2db9361a9123305d3627218836b10dc653c534a0abfe901864348acc5d61499",
+    "bytes": 54701,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786484022604/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f2db9361a9123305d3627218836b10dc653c534a0abfe901864348acc5d61499.json"
+  },
+  {
+    "sha256": "400094905fcf5c1235f017ae56377f1449aaf31515ea4ace9cd3ef513860c7f9",
+    "bytes": 4059,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786484022604/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/400094905fcf5c1235f017ae56377f1449aaf31515ea4ace9cd3ef513860c7f9.json"
+  },
+  {
+    "sha256": "40830887947222986383c4d64cc67c4e54181b6f5c18062a1862aa71dca896a6",
+    "bytes": 1479,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nvda-2026-09-04-1788471747034/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/40830887947222986383c4d64cc67c4e54181b6f5c18062a1862aa71dca896a6.json"
+  },
+  {
+    "sha256": "8fb4b966383910fa39949d6a9ac31c1642b8b482f81182dfed14a0d111e6d20d",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-14-1786657401336/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8fb4b966383910fa39949d6a9ac31c1642b8b482f81182dfed14a0d111e6d20d.json"
+  },
+  {
+    "sha256": "09e50f142b28fa31550096a5c90ad9d8a046c4de1530783f92c4283074cab078",
+    "bytes": 768,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09896-2026-08-18-1787002586586/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/09e50f142b28fa31550096a5c90ad9d8a046c4de1530783f92c4283074cab078.json"
+  },
+  {
+    "sha256": "c70159d79b7660c9f9268b69311e9b09e3f75b5d220771633a766a9e93ea3fa5",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000651-2026-08-22-1787349237398/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c70159d79b7660c9f9268b69311e9b09e3f75b5d220771633a766a9e93ea3fa5.json"
+  },
+  {
+    "sha256": "dc9eef461e6420c1effd84edb78c484d52ae793094672738e635a2fa282b1eca",
+    "bytes": 1295,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-bidu-2026-09-09-1788903822518/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/dc9eef461e6420c1effd84edb78c484d52ae793094672738e635a2fa282b1eca.json"
+  },
+  {
+    "sha256": "16a43f8dcc83ccff77b824e5c4e0c3b6e60c6294144e4c8c7156115190fbb6df",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002415-2026-09-04-1788473933134/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/16a43f8dcc83ccff77b824e5c4e0c3b6e60c6294144e4c8c7156115190fbb6df.json"
+  },
+  {
+    "sha256": "4f981481099e2d8efe4213c77f4f91cb791c9ed3eb69e9e1ba7998abaa85a7cf",
+    "bytes": 54612,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-18-1787002525365/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4f981481099e2d8efe4213c77f4f91cb791c9ed3eb69e9e1ba7998abaa85a7cf.json"
+  },
+  {
+    "sha256": "a15d0ad8caa5ef458288b63cabe8fcbef7f0448d78011d77d615b4b76920af1b",
+    "bytes": 1218,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000858-2026-08-29-1787952953941/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a15d0ad8caa5ef458288b63cabe8fcbef7f0448d78011d77d615b4b76920af1b.json"
+  },
+  {
+    "sha256": "e9a2bebbd4fceb365f031ea59370c935c2d3c484e4dca198402abda348237764",
+    "bytes": 54625,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-21-1787261717463/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e9a2bebbd4fceb365f031ea59370c935c2d3c484e4dca198402abda348237764.json"
+  },
+  {
+    "sha256": "a47f9d6ffb5772db0dba04e2020845dd9c451aed0ca6bd9f372e789b2b733ee5",
+    "bytes": 5522,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-21-1787261717463/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a47f9d6ffb5772db0dba04e2020845dd9c451aed0ca6bd9f372e789b2b733ee5.json"
+  },
+  {
+    "sha256": "9982409da1529bb6a1622ca8e8752218362a53f4b58b6f5f5b2bc7e5a7c0b598",
+    "bytes": 54662,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-17-1786916097048/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9982409da1529bb6a1622ca8e8752218362a53f4b58b6f5f5b2bc7e5a7c0b598.json"
+  },
+  {
+    "sha256": "56e545ec87af4ffc59d37521dab7753dce7b330cb2f8470e3ca69a24e8844065",
+    "bytes": 752,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002714-2026-09-01-1788215915488/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/56e545ec87af4ffc59d37521dab7753dce7b330cb2f8470e3ca69a24e8844065.json"
+  },
+  {
+    "sha256": "28047b6d37bbbec278d1098fd473049f41de3a0aca7df0f0de71448bfc86a941",
+    "bytes": 9407,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/general-2026-09-09-1788903008466/workspace/checkpoint.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/28047b6d37bbbec278d1098fd473049f41de3a0aca7df0f0de71448bfc86a941.md"
+  },
+  {
+    "sha256": "a5b4d8165eff8d8f6164d94c35bcd085fa0e5a9e8fbe7149766dffe1d60047b5",
+    "bytes": 677,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-spcx-2026-09-04-1788471605637/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a5b4d8165eff8d8f6164d94c35bcd085fa0e5a9e8fbe7149766dffe1d60047b5.json"
+  },
+  {
+    "sha256": "7d32387e94decb07523148d316b914713c7500c739debe6e90b5bf8c464b3491",
+    "bytes": 682,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-momo-2026-09-05-1788559219666/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7d32387e94decb07523148d316b914713c7500c739debe6e90b5bf8c464b3491.json"
+  },
+  {
+    "sha256": "5162cea7babba46d66b4d25569c3b1f8e21da1baf89f18c0bf19773ffcd2f54b",
+    "bytes": 54591,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-26-1787693650081/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5162cea7babba46d66b4d25569c3b1f8e21da1baf89f18c0bf19773ffcd2f54b.json"
+  },
+  {
+    "sha256": "ec92cfe717a33c25d9c83369c4ff01d404dc30dbdd26357eea75c3f1fe15cca7",
+    "bytes": 4071,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-26-1787693650081/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ec92cfe717a33c25d9c83369c4ff01d404dc30dbdd26357eea75c3f1fe15cca7.json"
+  },
+  {
+    "sha256": "6e1010fbf3e456747f7af97abab962dcd828267b099d347298fff3539e81ce4b",
+    "bytes": 54659,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-08-1788816968268/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6e1010fbf3e456747f7af97abab962dcd828267b099d347298fff3539e81ce4b.json"
+  },
+  {
+    "sha256": "d838d45ad5b86269b8ac8a254d75f67c4c5eea8664d370e6f196eaaec799c274",
+    "bytes": 2954,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-08-1788816968268/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d838d45ad5b86269b8ac8a254d75f67c4c5eea8664d370e6f196eaaec799c274.json"
+  },
+  {
+    "sha256": "49ae823fa0cc5b622e534374fd2598e13b7dea73e8b64f413b8d2c2cf8350e0c",
+    "bytes": 9748,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01211-2026-09-03-1788385113394/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/49ae823fa0cc5b622e534374fd2598e13b7dea73e8b64f413b8d2c2cf8350e0c.md"
+  },
+  {
+    "sha256": "404f7a289208b67381eae1b58a2bb21a6a3697ff9b324bb77044638245620a56",
+    "bytes": 1284,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01211-2026-09-03-1788385113394/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/404f7a289208b67381eae1b58a2bb21a6a3697ff9b324bb77044638245620a56.json"
+  },
+  {
+    "sha256": "a2d04fbc5211b79f60888f7e4eb8fe96daa6345beab24d6ab9ec2f4bcf985b67",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00288-2026-08-24-1787521230368/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a2d04fbc5211b79f60888f7e4eb8fe96daa6345beab24d6ab9ec2f4bcf985b67.json"
+  },
+  {
+    "sha256": "33b2aeaf474f447e307785039f8a459d94346cd7ea33711583e0b259a78509c9",
+    "bytes": 458,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600710-2026-09-04-1788473501325/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/33b2aeaf474f447e307785039f8a459d94346cd7ea33711583e0b259a78509c9.json"
+  },
+  {
+    "sha256": "161bed16fdf3e7ba24b454e2ac36a1c2a89f9d139064f2e73f63521c56a8600c",
+    "bytes": 54636,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-04-1788471221010/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/161bed16fdf3e7ba24b454e2ac36a1c2a89f9d139064f2e73f63521c56a8600c.json"
+  },
+  {
+    "sha256": "faed77ba0e2deae6e58babf065140a5845a3266cc2f921df49a0bdc372895409",
+    "bytes": 4276,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-04-1788471221010/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/faed77ba0e2deae6e58babf065140a5845a3266cc2f921df49a0bdc372895409.json"
+  },
+  {
+    "sha256": "abc3a9a703d970d098a5168e93a38867f1f11eb13470dcfe7c90bd41ab575f1f",
+    "bytes": 119,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/games-2026-08-11-1786435015779/workspace/game-observation/catalog.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/abc3a9a703d970d098a5168e93a38867f1f11eb13470dcfe7c90bd41ab575f1f.md"
+  },
+  {
+    "sha256": "5c696dbb797b10a5b8a84066033ab5a74fa7a0ba73a61b80c05ec1b5f5a6682f",
+    "bytes": 1401,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01024-2026-08-21-1787261828216/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5c696dbb797b10a5b8a84066033ab5a74fa7a0ba73a61b80c05ec1b5f5a6682f.json"
+  },
+  {
+    "sha256": "58d73afcad5023ac80e69c374bbbf1f2a614552f929423865b32147ba46690d0",
+    "bytes": 1480,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-08-19-1787089100399/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/58d73afcad5023ac80e69c374bbbf1f2a614552f929423865b32147ba46690d0.json"
+  },
+  {
+    "sha256": "0034ef1ea4e2659870353879889592df69155cb864fadb0e4d56a0151ee91564",
+    "bytes": 723,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsla-2026-08-22-1787348492156/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0034ef1ea4e2659870353879889592df69155cb864fadb0e4d56a0151ee91564.json"
+  },
+  {
+    "sha256": "4552ed1e16659a9460dcbe61e5db5d15f255769d6680914619e4ef2eda5a85f5",
+    "bytes": 434,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03306-2026-09-04-1788474800505/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4552ed1e16659a9460dcbe61e5db5d15f255769d6680914619e4ef2eda5a85f5.json"
+  },
+  {
+    "sha256": "f84ba41d21b37e13239c1c5e9399f662031c5dfb4653161fa4b9d47e8789be24",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02660-2026-08-23-1787435321336/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f84ba41d21b37e13239c1c5e9399f662031c5dfb4653161fa4b9d47e8789be24.json"
+  },
+  {
+    "sha256": "a124b06eebef61da38ec41f711c881e8400007ee8a973355e3317657be4b5c02",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-12-1786500701244/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a124b06eebef61da38ec41f711c881e8400007ee8a973355e3317657be4b5c02.json"
+  },
+  {
+    "sha256": "831f029512bb25b3d5b5d8e281835f2e1b9bbc3162605ed184594a4584c3a571",
+    "bytes": 1346,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-ntes-2026-08-21-1787262013451/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/831f029512bb25b3d5b5d8e281835f2e1b9bbc3162605ed184594a4584c3a571.json"
+  },
+  {
+    "sha256": "fb958e88387dbc1ea7d21492e18320f7e29df7830bfa9b7b488024f54303fa82",
+    "bytes": 708,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603393-2026-09-07-1788730226746/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fb958e88387dbc1ea7d21492e18320f7e29df7830bfa9b7b488024f54303fa82.json"
+  },
+  {
+    "sha256": "056323f719929d2e0520378c5fbe7264f12cb7bab1b07207e8ad22780d874727",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-ddl-2026-08-30-1788039833644/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/056323f719929d2e0520378c5fbe7264f12cb7bab1b07207e8ad22780d874727.json"
+  },
+  {
+    "sha256": "4122f06aa753d7f1455ad7842fa14b12e4434d6de43139608c3e082403d83215",
+    "bytes": 9603,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-2026-09-06-1788644129798/workspace/exploration-checkpoint.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4122f06aa753d7f1455ad7842fa14b12e4434d6de43139608c3e082403d83215.md"
+  },
+  {
+    "sha256": "de27ecc2236c153524d935ba97add25f25f164e96f4c7d54cd8afb63c7a70676",
+    "bytes": 737,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00883-2026-08-24-1787521616298/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/de27ecc2236c153524d935ba97add25f25f164e96f4c7d54cd8afb63c7a70676.json"
+  },
+  {
+    "sha256": "e0c480997a51faf159a299d647cd8c167b298eed899cff85723556a179c0ff13",
+    "bytes": 748,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-689009-2026-09-03-1788385262451/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e0c480997a51faf159a299d647cd8c167b298eed899cff85723556a179c0ff13.json"
+  },
+  {
+    "sha256": "653a01f903e502567a3fa0bddc31b9a6b141313d5bd36375824b744551909d19",
+    "bytes": 54627,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786514934268/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/653a01f903e502567a3fa0bddc31b9a6b141313d5bd36375824b744551909d19.json"
+  },
+  {
+    "sha256": "1046cd0625392a648075dfb045dd796e556816f184908274ef10e8180b2d2db3",
+    "bytes": 734,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00285-2026-08-24-1787521435096/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1046cd0625392a648075dfb045dd796e556816f184908274ef10e8180b2d2db3.json"
+  },
+  {
+    "sha256": "87aaf170aa8671d6517cb670310a8bd2289f4177d43d5b7ac2047e0c3f81a487",
+    "bytes": 724,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02097-2026-08-29-1787953650265/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/87aaf170aa8671d6517cb670310a8bd2289f4177d43d5b7ac2047e0c3f81a487.json"
+  },
+  {
+    "sha256": "07679cf29e9c128156aff4766ad7ee49173aaa51864d046c491e690e104c182b",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01114-2026-08-12-1786501231283/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/07679cf29e9c128156aff4766ad7ee49173aaa51864d046c491e690e104c182b.json"
+  },
+  {
+    "sha256": "7f2763612e66161b775d314d48bd9522d749ecf9f06eb2de3d24c87f797f9d16",
+    "bytes": 945,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amzn-2026-09-02-1788299278569/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7f2763612e66161b775d314d48bd9522d749ecf9f06eb2de3d24c87f797f9d16.json"
+  },
+  {
+    "sha256": "309f1ec6e319b123e42cdb573db61c43a4abf020dc71cd334c74e6cc34a64963",
+    "bytes": 707,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-08-28-1787867695795/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/309f1ec6e319b123e42cdb573db61c43a4abf020dc71cd334c74e6cc34a64963.json"
+  },
+  {
+    "sha256": "b4a12136d67672ae98e33c93b0bf0572b9d9865e18df65ee2412059317d6876c",
+    "bytes": 1111,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-li-2026-09-05-1788558678936/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b4a12136d67672ae98e33c93b0bf0572b9d9865e18df65ee2412059317d6876c.json"
+  },
+  {
+    "sha256": "0d4bfbc859c763984cfcbbdf79ed1a476a0a010d97cd0a45da3ff129499f9a95",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601857-2026-08-13-1786571443155/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0d4bfbc859c763984cfcbbdf79ed1a476a0a010d97cd0a45da3ff129499f9a95.json"
+  },
+  {
+    "sha256": "a8e0ec67f593de61cf74e4dfe4a640b0357e97ce3499fd8475d0707515148365",
+    "bytes": 460,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600104-2026-08-17-1786916464883/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a8e0ec67f593de61cf74e4dfe4a640b0357e97ce3499fd8475d0707515148365.json"
+  },
+  {
+    "sha256": "d08e06d73cf9f2f019494f676a1f014bbf92a283dee8738234539bf81dc4142f",
+    "bytes": 12149,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002244-2026-08-13-1786570628214/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d08e06d73cf9f2f019494f676a1f014bbf92a283dee8738234539bf81dc4142f.md"
+  },
+  {
+    "sha256": "463d13932e71a91a14072e613a4412300f26407ecc073a968926222382b34eca",
+    "bytes": 793,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002244-2026-08-13-1786570628214/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/463d13932e71a91a14072e613a4412300f26407ecc073a968926222382b34eca.json"
+  },
+  {
+    "sha256": "56d4415aff57e9e97fe4bed276c261797747cf63db24543b0ed8b05aa04d1574",
+    "bytes": 550,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600036-2026-08-16-1786830026209/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/56d4415aff57e9e97fe4bed276c261797747cf63db24543b0ed8b05aa04d1574.json"
+  },
+  {
+    "sha256": "0bce0445c24b90d2053f6d1d1328083c122181e768aa097bc8ae2d4888aaf5ce",
+    "bytes": 804,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600660-2026-09-07-1788730240851/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0bce0445c24b90d2053f6d1d1328083c122181e768aa097bc8ae2d4888aaf5ce.json"
+  },
+  {
+    "sha256": "0e6ab2274d05a6193830ca5a8347984dd77d7b299290c4b3a0e476e36a8da3f9",
+    "bytes": 575,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-689009-2026-08-12-1786484189694/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0e6ab2274d05a6193830ca5a8347984dd77d7b299290c4b3a0e476e36a8da3f9.json"
+  },
+  {
+    "sha256": "28f6afdedacdf56561945976c81fc1d4ba4161771ce2723580add6b5d5ddee50",
+    "bytes": 681,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-29-1787953773390/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/28f6afdedacdf56561945976c81fc1d4ba4161771ce2723580add6b5d5ddee50.json"
+  },
+  {
+    "sha256": "7373179ed2c0c06de2d39d99b9c749a282cf5eeacf6efeb22caa2789cda3820d",
+    "bytes": 11152,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09626-2026-08-25-1787608621460/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7373179ed2c0c06de2d39d99b9c749a282cf5eeacf6efeb22caa2789cda3820d.md"
+  },
+  {
+    "sha256": "9e969eccc05dc43d5702f09242d91c15865de1412e74e08cb0b4008077354f2c",
+    "bytes": 733,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09626-2026-08-25-1787608621460/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9e969eccc05dc43d5702f09242d91c15865de1412e74e08cb0b4008077354f2c.json"
+  },
+  {
+    "sha256": "d8fcf33a880c02bcc9e2160367914cf093685e21fa586300bbe2e504844c33da",
+    "bytes": 548,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00837-2026-08-12-1786484722898/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d8fcf33a880c02bcc9e2160367914cf093685e21fa586300bbe2e504844c33da.json"
+  },
+  {
+    "sha256": "bb69c7c4bc96c107cb03618af870785de0f56ff3e873bd32b7cbe1301515370b",
+    "bytes": 708,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-09-10-1788991238756/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/bb69c7c4bc96c107cb03618af870785de0f56ff3e873bd32b7cbe1301515370b.json"
+  },
+  {
+    "sha256": "0161573c51559b5357a61ad7c7d555d9b01cd9956117f208c985699a5aea8134",
+    "bytes": 1084,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02660-2026-08-27-1787781042935/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0161573c51559b5357a61ad7c7d555d9b01cd9956117f208c985699a5aea8134.json"
+  },
+  {
+    "sha256": "edef49d5ec2136bb84a9497eb9f13b9d3ac8801d55296546b5a8fecc1b9d4bcb",
+    "bytes": 1483,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09988-2026-08-25-1787607374377/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/edef49d5ec2136bb84a9497eb9f13b9d3ac8801d55296546b5a8fecc1b9d4bcb.json"
+  },
+  {
+    "sha256": "4f14d04fdf635ccc97c3dc0be06ae7ca407fe20cb0d4668454745b5ec219fa59",
+    "bytes": 1578,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-bidu-2026-08-19-1787088940383/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4f14d04fdf635ccc97c3dc0be06ae7ca407fe20cb0d4668454745b5ec219fa59.json"
+  },
+  {
+    "sha256": "aa8035dddcf2e50adfad97fff558d9b81eee7276a9fdbbd0cd2c862bc029e536",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01114-2026-08-25-1787607500813/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/aa8035dddcf2e50adfad97fff558d9b81eee7276a9fdbbd0cd2c862bc029e536.json"
+  },
+  {
+    "sha256": "50fbaf6cb1eedf24e92eba8ba41d07961f1ff2b738e7ac1b5e4f710eddc7af13",
+    "bytes": 1148,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600900-2026-08-31-1788125906591/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/50fbaf6cb1eedf24e92eba8ba41d07961f1ff2b738e7ac1b5e4f710eddc7af13.json"
+  },
+  {
+    "sha256": "436edcad2202df99c68b08fb804c16e71b803f40cf6df905987ce2550ab785cf",
+    "bytes": 54663,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-15-1786743331044/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/436edcad2202df99c68b08fb804c16e71b803f40cf6df905987ce2550ab785cf.json"
+  },
+  {
+    "sha256": "769cb353a4ce80eebe42783b16373c039891b9d0002495bd5290c7a896e48638",
+    "bytes": 696,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09618-2026-09-09-1788905708274/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/769cb353a4ce80eebe42783b16373c039891b9d0002495bd5290c7a896e48638.json"
+  },
+  {
+    "sha256": "f5526f1b056d970576510fb1532e8bb6f72c0b83357dddfa099f042741e2bc9c",
+    "bytes": 709,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-mu-2026-09-05-1788558371038/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f5526f1b056d970576510fb1532e8bb6f72c0b83357dddfa099f042741e2bc9c.json"
+  },
+  {
+    "sha256": "b9189ebe5b057533a786bcd5f2a60986af400554f45e96b4f10dd96754b4b4c3",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00175-2026-08-26-1787694134789/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b9189ebe5b057533a786bcd5f2a60986af400554f45e96b4f10dd96754b4b4c3.json"
+  },
+  {
+    "sha256": "fb77d779cdc4ace7d07d44742fe3ecbc6c39dfaeb5da5fad77ff8c4ef370ceeb",
+    "bytes": 54615,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-02-1788298402964/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fb77d779cdc4ace7d07d44742fe3ecbc6c39dfaeb5da5fad77ff8c4ef370ceeb.json"
+  },
+  {
+    "sha256": "fb759d6d3dcc065ea6d1942fb5442ba127d1891cea5dfd2caa3aabb8b8df89bc",
+    "bytes": 4189,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-02-1788298402964/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fb759d6d3dcc065ea6d1942fb5442ba127d1891cea5dfd2caa3aabb8b8df89bc.json"
+  },
+  {
+    "sha256": "8eb326528ef580e5e331ca09a8d99fe06149a879be6e68fb390d09a0241a6e93",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-28-1787868299759/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8eb326528ef580e5e331ca09a8d99fe06149a879be6e68fb390d09a0241a6e93.json"
+  },
+  {
+    "sha256": "eac060a8cb33411d4ae3f6f3d58f137ff3a8563adbdc3376dd94998398127ef7",
+    "bytes": 711,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-001328-2026-09-06-1788644570597/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/eac060a8cb33411d4ae3f6f3d58f137ff3a8563adbdc3376dd94998398127ef7.json"
+  },
+  {
+    "sha256": "56b8c4773dfc8a5a83883a41bb4f269a0aa832ccd16278374b489274200bc50b",
+    "bytes": 668,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amd-2026-09-09-1788903608402/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/56b8c4773dfc8a5a83883a41bb4f269a0aa832ccd16278374b489274200bc50b.json"
+  },
+  {
+    "sha256": "fa9de30f2481f0f5107d28b4af9ee9d492b747226e9d050cbd6a5f43884f3e54",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601012-2026-08-16-1786829748066/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fa9de30f2481f0f5107d28b4af9ee9d492b747226e9d050cbd6a5f43884f3e54.json"
+  },
+  {
+    "sha256": "d21b802fdbb7647d6771816e3c26e418ad0266802731c321e4d61a6632506568",
+    "bytes": 54620,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-09-1788903476069/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d21b802fdbb7647d6771816e3c26e418ad0266802731c321e4d61a6632506568.json"
+  },
+  {
+    "sha256": "25f504f3218c50324e63c7c167cf2a3beb5b68ad17934f631bfea44b55517c97",
+    "bytes": 5121,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-09-1788903476069/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/25f504f3218c50324e63c7c167cf2a3beb5b68ad17934f631bfea44b55517c97.json"
+  },
+  {
+    "sha256": "f41acda2a9317f77438299fd451a2034374d6f77605e65114d65f43c46a15ecc",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02145-2026-08-20-1787175047438/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f41acda2a9317f77438299fd451a2034374d6f77605e65114d65f43c46a15ecc.json"
+  },
+  {
+    "sha256": "6bc4b9806f2bddfd549e2d9f10f73cfa320bf21929c37aba82dcf8e36138f4c7",
+    "bytes": 54679,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-03-1788384816351/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6bc4b9806f2bddfd549e2d9f10f73cfa320bf21929c37aba82dcf8e36138f4c7.json"
+  },
+  {
+    "sha256": "bff6e516321cea6c815ae755e80bdb5d875f14a58b5446954adf177d91b2398e",
+    "bytes": 5896,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-03-1788384816351/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/bff6e516321cea6c815ae755e80bdb5d875f14a58b5446954adf177d91b2398e.json"
+  },
+  {
+    "sha256": "52b7142269f336329f2f29b3b815c1a6ea7e7b6e58d881248fc83341f9b94b70",
+    "bytes": 54676,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-01-1788212355985/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/52b7142269f336329f2f29b3b815c1a6ea7e7b6e58d881248fc83341f9b94b70.json"
+  },
+  {
+    "sha256": "b68de66acbd822ecd1817d008e51860e5a116af65ea29ce27fc21f03e50d3767",
+    "bytes": 5423,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-01-1788212355985/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/b68de66acbd822ecd1817d008e51860e5a116af65ea29ce27fc21f03e50d3767.json"
+  },
+  {
+    "sha256": "c092836846a9bd14b4ae1494bc1a2f90b978058c541c6c4d78ed84a4fd82711d",
+    "bytes": 1064,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09988-2026-08-24-1787521068097/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c092836846a9bd14b4ae1494bc1a2f90b978058c541c6c4d78ed84a4fd82711d.json"
+  },
+  {
+    "sha256": "1a0f97703b57a63a60b699859532d56211e96a990861d531efc7d2e35a99f2b5",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-25-1787608350812/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1a0f97703b57a63a60b699859532d56211e96a990861d531efc7d2e35a99f2b5.json"
+  },
+  {
+    "sha256": "4ab5f6cf93683af267787e077674565d3d94c42165d6152ae12e2f6e86988a38",
+    "bytes": 677,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-spcx-2026-08-17-1786916796764/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4ab5f6cf93683af267787e077674565d3d94c42165d6152ae12e2f6e86988a38.json"
+  },
+  {
+    "sha256": "bad7760921ae747b1e9927efdf42df436d1cce790727186fe507e65a5228ce5e",
+    "bytes": 674,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-pdd-2026-09-06-1788644932478/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/bad7760921ae747b1e9927efdf42df436d1cce790727186fe507e65a5228ce5e.json"
+  },
+  {
+    "sha256": "05e554007f1a0a10c554b6082e589a5e5d327dd70093f594fe249617f8b3fb7f",
+    "bytes": 1272,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000333-2026-08-30-1788039383048/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/05e554007f1a0a10c554b6082e589a5e5d327dd70093f594fe249617f8b3fb7f.json"
+  },
+  {
+    "sha256": "41d343e8d91d25369c63bce593fe27b6065d8be8df3b073ea7158dd7f08c0e22",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601318-2026-09-04-1788473194211/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/41d343e8d91d25369c63bce593fe27b6065d8be8df3b073ea7158dd7f08c0e22.json"
+  },
+  {
+    "sha256": "9e5c280160a4dbd193fb626328303100d40f942b2997f2f98e2eb64aefc8581c",
+    "bytes": 710,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601600-2026-08-14-1786656945240/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9e5c280160a4dbd193fb626328303100d40f942b2997f2f98e2eb64aefc8581c.json"
+  },
+  {
+    "sha256": "7cdc4799173d0abf35114608a82524acc1e89bcf1bcf3bf03a070eeff9ddea22",
+    "bytes": 770,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02145-2026-08-19-1787089258797/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7cdc4799173d0abf35114608a82524acc1e89bcf1bcf3bf03a070eeff9ddea22.json"
+  },
+  {
+    "sha256": "f26f01364671f8b3d138a35ff2ffc1ef2ea1c03da6ab9ed55156e7ad6d455931",
+    "bytes": 1397,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-bidu-2026-09-05-1788558207263/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f26f01364671f8b3d138a35ff2ffc1ef2ea1c03da6ab9ed55156e7ad6d455931.json"
+  },
+  {
+    "sha256": "6efb6658e9410499ef7cc903d6b4de155e227161b1e7d58b4fa49c3db671f23d",
+    "bytes": 8403,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-11-1786427879536/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6efb6658e9410499ef7cc903d6b4de155e227161b1e7d58b4fa49c3db671f23d.md"
+  },
+  {
+    "sha256": "370eadd1b570b9c6e9122c022a18122bd8d41b21bb0ba67e5c02b0198b2a3c6f",
+    "bytes": 551,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-11-1786427879536/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/370eadd1b570b9c6e9122c022a18122bd8d41b21bb0ba67e5c02b0198b2a3c6f.json"
+  },
+  {
+    "sha256": "eb95718f7c2fbd2dc685e0959d3792e15723fb175600893135fa0220a5594437",
+    "bytes": 721,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-msft-2026-08-31-1788126659922/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/eb95718f7c2fbd2dc685e0959d3792e15723fb175600893135fa0220a5594437.json"
+  },
+  {
+    "sha256": "926ebfde4d47807c4727620c9c3d6936fe5092eb48b8bd239939a9e03d1629ec",
+    "bytes": 722,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-20-1787175034561/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/926ebfde4d47807c4727620c9c3d6936fe5092eb48b8bd239939a9e03d1629ec.json"
+  },
+  {
+    "sha256": "6779577d83a5f06cde8a99eaeef27cace07dba52a60374beb71de18440c3f53d",
+    "bytes": 54685,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786437081255/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6779577d83a5f06cde8a99eaeef27cace07dba52a60374beb71de18440c3f53d.json"
+  },
+  {
+    "sha256": "0919940d8df12c8be005ec9bc8993a54d277caa619a0532c9796506e715373f1",
+    "bytes": 9671,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-2026-08-12-1786500360925/workspace/exploration-checkpoint.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0919940d8df12c8be005ec9bc8993a54d277caa619a0532c9796506e715373f1.md"
+  },
+  {
+    "sha256": "89a443e737456787947e74e947cbd1b23105cce1cb9c528662f28f6698bceb97",
+    "bytes": 676,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-beke-2026-09-01-1788214363018/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/89a443e737456787947e74e947cbd1b23105cce1cb9c528662f28f6698bceb97.json"
+  },
+  {
+    "sha256": "980a2eb5275e52e79c208fb8f683f02c52a56442ffc085f9a07810c3a83a05d4",
+    "bytes": 1414,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601600-2026-08-28-1787867192360/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/980a2eb5275e52e79c208fb8f683f02c52a56442ffc085f9a07810c3a83a05d4.json"
+  },
+  {
+    "sha256": "22c3ff7fc47383abab629225b4fac1316a3bdb1f962794b52e1c2c43c8a9a7d7",
+    "bytes": 425,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-joyy-2026-09-04-1788475359552/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/22c3ff7fc47383abab629225b4fac1316a3bdb1f962794b52e1c2c43c8a9a7d7.json"
+  },
+  {
+    "sha256": "781d55c754f2c15d0e7b06bdb0ce749f653b425b74e5455ea2024f0ce45c0766",
+    "bytes": 1245,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsm-2026-08-12-1786484419567/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/781d55c754f2c15d0e7b06bdb0ce749f653b425b74e5455ea2024f0ce45c0766.json"
+  },
+  {
+    "sha256": "d6454348e3602f7f9e4c53a39fd0921967412faf1f012d6524e8c8eb8805f8f5",
+    "bytes": 54602,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-27-1787780120958/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d6454348e3602f7f9e4c53a39fd0921967412faf1f012d6524e8c8eb8805f8f5.json"
+  },
+  {
+    "sha256": "266318f180985773e300c68d8eadbb35cc672f5f8c887b04b234c62ddd8af135",
+    "bytes": 3448,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-27-1787780120958/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/266318f180985773e300c68d8eadbb35cc672f5f8c887b04b234c62ddd8af135.json"
+  },
+  {
+    "sha256": "338e31c89d93b90d9fae71fda1b5ce9d4d2102f284617d39e8a921302a1f0385",
+    "bytes": 1020,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00700-2026-08-13-1786570803304/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/338e31c89d93b90d9fae71fda1b5ce9d4d2102f284617d39e8a921302a1f0385.json"
+  },
+  {
+    "sha256": "98da36248ae3b2a12720d3ac0edf42a2cb71e376c78967e751539dfda88d3977",
+    "bytes": 683,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03690-2026-09-05-1788558503680/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/98da36248ae3b2a12720d3ac0edf42a2cb71e376c78967e751539dfda88d3977.json"
+  },
+  {
+    "sha256": "98a95b16e6b3cd9711f034c68de62575d0abc1a95cd192aec40445f00e9018eb",
+    "bytes": 541,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-uvv-2026-08-12-1786484563842/workspace/inputs/company.json",
+      "/root/aicode/runs/daily-report/stocks-review-us-uvv-2026-08-11-1786428462650/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/98a95b16e6b3cd9711f034c68de62575d0abc1a95cd192aec40445f00e9018eb.json"
+  },
+  {
+    "sha256": "440922a3a119e53d7919e558aab2da044d9807eb5c2e113fb56784ebe221a5d7",
+    "bytes": 457,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600548-2026-08-17-1786916194742/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/440922a3a119e53d7919e558aab2da044d9807eb5c2e113fb56784ebe221a5d7.json"
+  },
+  {
+    "sha256": "fb933bcc9e19c0a0642c2354356024ea92137bd013915a122d2add836fe0d462",
+    "bytes": 690,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00285-2026-08-29-1787953460970/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fb933bcc9e19c0a0642c2354356024ea92137bd013915a122d2add836fe0d462.json"
+  },
+  {
+    "sha256": "ebc11318a5faa78db0ed4ccc1f1140a0e815bf1af16138fbac76319cd0c8fab1",
+    "bytes": 10179,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/games-2026-08-22-1787349669245/workspace/exploration-checkpoint.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ebc11318a5faa78db0ed4ccc1f1140a0e815bf1af16138fbac76319cd0c8fab1.md"
+  },
+  {
+    "sha256": "0a9cbcdfc6680facd96b5afa6f34ef8e46ac7654bebb62f3e873c76038568e38",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-22-1787348858667/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0a9cbcdfc6680facd96b5afa6f34ef8e46ac7654bebb62f3e873c76038568e38.json"
+  },
+  {
+    "sha256": "d2e41889e5213d24632a23b24eb3b3fe06b91ac0d3382f562791ff251aa7caf5",
+    "bytes": 1439,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603288-2026-08-28-1787866844104/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d2e41889e5213d24632a23b24eb3b3fe06b91ac0d3382f562791ff251aa7caf5.json"
+  },
+  {
+    "sha256": "5f36805c9d41e53c614bc4062519f5c5c4ff3e7c624e00fbe29dab595c731596",
+    "bytes": 728,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-googl-2026-08-31-1788126486496/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5f36805c9d41e53c614bc4062519f5c5c4ff3e7c624e00fbe29dab595c731596.json"
+  },
+  {
+    "sha256": "fa26cb05973c90f78839cb420cd699e69970d10723147342ed7831eae0913533",
+    "bytes": 765,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02390-2026-09-02-1788298839988/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fa26cb05973c90f78839cb420cd699e69970d10723147342ed7831eae0913533.json"
+  },
+  {
+    "sha256": "90754e79a03c92a89921bf58d4fe2ad1e02e16197e887db05841cd1dc86d122a",
+    "bytes": 727,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01810-2026-08-24-1787521771604/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/90754e79a03c92a89921bf58d4fe2ad1e02e16197e887db05841cd1dc86d122a.json"
+  },
+  {
+    "sha256": "621b979495fb5669c50bcbb25582586e4ff036eaf90784410e6cdedf9b0dea07",
+    "bytes": 1222,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00883-2026-09-09-1788905927886/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/621b979495fb5669c50bcbb25582586e4ff036eaf90784410e6cdedf9b0dea07.json"
+  },
+  {
+    "sha256": "f934bd15990dbdeacd0e3d2af123d01da3ea2d4c7a482b72f0abc8f8003b8e6d",
+    "bytes": 54626,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-29-1787952854226/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f934bd15990dbdeacd0e3d2af123d01da3ea2d4c7a482b72f0abc8f8003b8e6d.json"
+  },
+  {
+    "sha256": "99fd6dd51edc93a2b193ed4dc9f2f56ca5cd9bbf25acab9cad591dd32d20df90",
+    "bytes": 4813,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-29-1787952854226/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/99fd6dd51edc93a2b193ed4dc9f2f56ca5cd9bbf25acab9cad591dd32d20df90.json"
+  },
+  {
+    "sha256": "586bd5715b97ca246c2579f6af925cfd00f0cf72884fd22f605918b9096a02a7",
+    "bytes": 1103,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09992-2026-08-21-1787263305755/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/586bd5715b97ca246c2579f6af925cfd00f0cf72884fd22f605918b9096a02a7.json"
+  },
+  {
+    "sha256": "7e795185f21e621ebf03da1fadd2b27c70c81c024c18c487c6737df32c2eca80",
+    "bytes": 1253,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-09992-2026-09-08-1788818022210/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7e795185f21e621ebf03da1fadd2b27c70c81c024c18c487c6737df32c2eca80.json"
+  },
+  {
+    "sha256": "97122ca478ec1adf72a4493f8017d016588f4c2257a735c8796c6519f73d66d1",
+    "bytes": 54583,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-06-1788644130255/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/97122ca478ec1adf72a4493f8017d016588f4c2257a735c8796c6519f73d66d1.json"
+  },
+  {
+    "sha256": "9a2e6aa61327e4242d53a1eb80674297b7a6de7635cdf4f569e347b2cddeb68f",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02097-2026-08-28-1787867965955/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9a2e6aa61327e4242d53a1eb80674297b7a6de7635cdf4f569e347b2cddeb68f.json"
+  },
+  {
+    "sha256": "844240eb9eded5c9cdca918e643cd5eb5a3dc59ef55aa41643d4aebb16cfa09c",
+    "bytes": 813,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsm-2026-08-11-1786428106901/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/844240eb9eded5c9cdca918e643cd5eb5a3dc59ef55aa41643d4aebb16cfa09c.json"
+  },
+  {
+    "sha256": "7255a76e5ce0d3a0b2dbbdd0181a3390a442bd1b8c018514f8f32bb00b319d04",
+    "bytes": 54684,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786434723993/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7255a76e5ce0d3a0b2dbbdd0181a3390a442bd1b8c018514f8f32bb00b319d04.json"
+  },
+  {
+    "sha256": "8044c7ac716d506cd5822fdf46ae39a699634337f5e60698366a494b328f7254",
+    "bytes": 718,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-09-03-1788385520710/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8044c7ac716d506cd5822fdf46ae39a699634337f5e60698366a494b328f7254.json"
+  },
+  {
+    "sha256": "d3c94e331ab6f98b646d5f345c924fcaa3b71727060b581ac3edb37040cd0b3e",
+    "bytes": 54681,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-10-1788989803750/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d3c94e331ab6f98b646d5f345c924fcaa3b71727060b581ac3edb37040cd0b3e.json"
+  },
+  {
+    "sha256": "10cf41d0bc19fe579a142a6e88be8d7deba28890a9eb4a23c07d033a0bb79630",
+    "bytes": 4869,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-10-1788989803750/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/10cf41d0bc19fe579a142a6e88be8d7deba28890a9eb4a23c07d033a0bb79630.json"
+  },
+  {
+    "sha256": "0daaf42b28e7fd377790cf73973f9d64f3e9171af44040405c7eab0f5e69b630",
+    "bytes": 1475,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-meta-2026-09-10-1788989921925/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0daaf42b28e7fd377790cf73973f9d64f3e9171af44040405c7eab0f5e69b630.json"
+  },
+  {
+    "sha256": "97172ef836de2b623e322ec313c864475bea5c42bc4622f026c1abe7c6db26be",
+    "bytes": 729,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00285-2026-09-08-1788817363594/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/97172ef836de2b623e322ec313c864475bea5c42bc4622f026c1abe7c6db26be.json"
+  },
+  {
+    "sha256": "ac363cf141d75569dd03cc925217630a9addef7263594b91bf0be21589b355e3",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600030-2026-09-04-1788474156450/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ac363cf141d75569dd03cc925217630a9addef7263594b91bf0be21589b355e3.json"
+  },
+  {
+    "sha256": "79e896d505b438ea3a1d139b8b34f09698491dcae090a8f2a70413472ba6533e",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01060-2026-08-14-1786657246389/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/79e896d505b438ea3a1d139b8b34f09698491dcae090a8f2a70413472ba6533e.json"
+  },
+  {
+    "sha256": "a6f307e9fc5ab5f77212a4fc82e8ec6fc1ae9fecfe40ed8315eabcc3f5e62b2f",
+    "bytes": 1471,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-li-2026-08-27-1787780252193/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a6f307e9fc5ab5f77212a4fc82e8ec6fc1ae9fecfe40ed8315eabcc3f5e62b2f.json"
+  },
+  {
+    "sha256": "f93e90d8fa2abd38079b0b036a7bfec198162f98e9ebc2f48bb8cf0f4600cb1e",
+    "bytes": 759,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-09-09-1788905235992/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f93e90d8fa2abd38079b0b036a7bfec198162f98e9ebc2f48bb8cf0f4600cb1e.json"
+  },
+  {
+    "sha256": "5c0b4c1ed7375fddc5fd4f9f7aafc32279043ad0e6d3f065d29272517bb5b000",
+    "bytes": 1454,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsla-2026-09-04-1788471507868/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/5c0b4c1ed7375fddc5fd4f9f7aafc32279043ad0e6d3f065d29272517bb5b000.json"
+  },
+  {
+    "sha256": "6768cf6c8a81437af6d8cea2a30017846389829c75e99efb13eba59d0d2cd111",
+    "bytes": 1236596,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/_state/earnings-calendar/business-profiles.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6768cf6c8a81437af6d8cea2a30017846389829c75e99efb13eba59d0d2cd111.json"
+  },
+  {
+    "sha256": "3ca41a85fb6d137a260a36487bbe558c4d971aaea49a65e344e84485d5a858ac",
+    "bytes": 278361,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/_state/earnings-calendar/eligibility-seed/a.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3ca41a85fb6d137a260a36487bbe558c4d971aaea49a65e344e84485d5a858ac.json"
+  },
+  {
+    "sha256": "db1aeae77bdd653084f4c02f476b087733b14a0b8b2ef487a40e852ae63c7497",
+    "bytes": 54628,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-12-1786500361279/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/db1aeae77bdd653084f4c02f476b087733b14a0b8b2ef487a40e852ae63c7497.json"
+  },
+  {
+    "sha256": "988eae8516ecc0fa02192d788aca38ae468711d04d6b3306034b382c1e3a9cc3",
+    "bytes": 723,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-09-01-1788215077497/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/988eae8516ecc0fa02192d788aca38ae468711d04d6b3306034b382c1e3a9cc3.json"
+  },
+  {
+    "sha256": "44a992ef709fa14325b64dd06167363ccfe60ec8197b48840379b2a3d4376be8",
+    "bytes": 721,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-13-1786571304838/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/44a992ef709fa14325b64dd06167363ccfe60ec8197b48840379b2a3d4376be8.json"
+  },
+  {
+    "sha256": "ca40c2be4335d1f3fd2ddf77e53e9f2de1f41a66be669d922ac5a00874d9df1e",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600987-2026-09-04-1788472305138/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ca40c2be4335d1f3fd2ddf77e53e9f2de1f41a66be669d922ac5a00874d9df1e.json"
+  },
+  {
+    "sha256": "41cb6ad3ea6409671deab56f700805fc26114fc11df70f3aa3cda558a8913fde",
+    "bytes": 54624,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-23-1787434514495/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/41cb6ad3ea6409671deab56f700805fc26114fc11df70f3aa3cda558a8913fde.json"
+  },
+  {
+    "sha256": "85dff2802a4be59349a172316b686f819ad83180e4a9468e3d1951442faefda6",
+    "bytes": 384,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-uvv-2026-09-06-1788644418453/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/85dff2802a4be59349a172316b686f819ad83180e4a9468e3d1951442faefda6.json"
+  },
+  {
+    "sha256": "7e76a062aed05429d7b6c4e91ffd990c28b392a10b49fdb215a5c7752c6bf891",
+    "bytes": 674,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-tsm-2026-09-05-1788559486505/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7e76a062aed05429d7b6c4e91ffd990c28b392a10b49fdb215a5c7752c6bf891.json"
+  },
+  {
+    "sha256": "ba6333350da0cda9e6339a507f6bd1013754ae87c6e2114e7e06015240aaa5e5",
+    "bytes": 12754,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01211-2026-09-01-1788212848866/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ba6333350da0cda9e6339a507f6bd1013754ae87c6e2114e7e06015240aaa5e5.md"
+  },
+  {
+    "sha256": "217c769edaeebf298bd13ae2e545f2699dc49d437a78ed95b5a508a7fbd39d67",
+    "bytes": 734,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01211-2026-09-01-1788212848866/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/217c769edaeebf298bd13ae2e545f2699dc49d437a78ed95b5a508a7fbd39d67.json"
+  },
+  {
+    "sha256": "628492fb0e20faa1790f1e523e8b2e9b3cf0f4ec573cd91bc83116c9dbe0146b",
+    "bytes": 681,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-26-1787694004012/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/628492fb0e20faa1790f1e523e8b2e9b3cf0f4ec573cd91bc83116c9dbe0146b.json"
+  },
+  {
+    "sha256": "9ce6232d63a6ace34547d9cb205abec5e5eba921912c48cf380e92de3e238b29",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06181-2026-08-18-1787002883903/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/9ce6232d63a6ace34547d9cb205abec5e5eba921912c48cf380e92de3e238b29.json"
+  },
+  {
+    "sha256": "559ca453ec780069cb138ceb4ad06a749aef54868c7e28cf1f6dbe39b5ff8ade",
+    "bytes": 724,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02097-2026-08-25-1787607894817/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/559ca453ec780069cb138ceb4ad06a749aef54868c7e28cf1f6dbe39b5ff8ade.json"
+  },
+  {
+    "sha256": "70dbaeb6173f8df48f00fd23cd930ddfa81186f56d14b9753ad7a22c774646c0",
+    "bytes": 707,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-08-21-1787263916283/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/70dbaeb6173f8df48f00fd23cd930ddfa81186f56d14b9753ad7a22c774646c0.json"
+  },
+  {
+    "sha256": "a29c1b4fe9e18c6a49af51f62097e65e65a441447ed521cfba7120e962f31975",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-06055-2026-08-25-1787607998378/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a29c1b4fe9e18c6a49af51f62097e65e65a441447ed521cfba7120e962f31975.json"
+  },
+  {
+    "sha256": "08141438ac7b5e63a8ed5368980b0cbeffc3b2fca87d1bfe71f42c4dfd0c5dbf",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-22-1787348678336/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/08141438ac7b5e63a8ed5368980b0cbeffc3b2fca87d1bfe71f42c4dfd0c5dbf.json"
+  },
+  {
+    "sha256": "30bc3e83a4f6f1298aa71c5d72ec6438a3c17a249d7d71ee5cb7756e95d31e03",
+    "bytes": 730,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-yumc-2026-09-04-1788472116197/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/30bc3e83a4f6f1298aa71c5d72ec6438a3c17a249d7d71ee5cb7756e95d31e03.json"
+  },
+  {
+    "sha256": "c4cccecc3e747eaa9c7d0074a1d6069c46598dc2aa7dd60ab15a4546f2207381",
+    "bytes": 719,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-09-01-1788215561994/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/c4cccecc3e747eaa9c7d0074a1d6069c46598dc2aa7dd60ab15a4546f2207381.json"
+  },
+  {
+    "sha256": "648c90a7845793c39828fcbf013b1fb3227c8f098447bdf868aba07153637709",
+    "bytes": 54656,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786427440495/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/648c90a7845793c39828fcbf013b1fb3227c8f098447bdf868aba07153637709.json"
+  },
+  {
+    "sha256": "59f87f28730c4a836d32159ca4e15cc9485f73df0688046bf9572c32a65f0176",
+    "bytes": 2267,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-11-1786427440495/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/59f87f28730c4a836d32159ca4e15cc9485f73df0688046bf9572c32a65f0176.json"
+  },
+  {
+    "sha256": "6e4d39642f949a0e0ca472ccfb060ea0044110b03908121574419b312f9f4fe7",
+    "bytes": 710,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-301061-2026-09-01-1788213721094/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/6e4d39642f949a0e0ca472ccfb060ea0044110b03908121574419b312f9f4fe7.json"
+  },
+  {
+    "sha256": "d61713cd3e78c4ab6597909388413517a71591b68faacf0e3997a5cac05add9a",
+    "bytes": 753,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-000100-2026-08-23-1787435143161/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d61713cd3e78c4ab6597909388413517a71591b68faacf0e3997a5cac05add9a.json"
+  },
+  {
+    "sha256": "48fd77ebb5f81c994d3093a59b7d69d565ed1c90bead422f9b09b53723f92675",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01114-2026-08-28-1787867822857/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/48fd77ebb5f81c994d3093a59b7d69d565ed1c90bead422f9b09b53723f92675.json"
+  },
+  {
+    "sha256": "31edf9c0d70729fcf66ea1a833db2997e2f5fe23d0a2a435e7f7e6c7f1c3b69f",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00743-2026-08-23-1787435532988/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/31edf9c0d70729fcf66ea1a833db2997e2f5fe23d0a2a435e7f7e6c7f1c3b69f.json"
+  },
+  {
+    "sha256": "76d714c3e07cdb49a02cc39120576917622820b525d6bfd567a37bccda12ae9b",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01114-2026-08-14-1786657111099/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/76d714c3e07cdb49a02cc39120576917622820b525d6bfd567a37bccda12ae9b.json"
+  },
+  {
+    "sha256": "caafc27b941be655eb3ffa39f01e25843b48f8f8023b801547312ee3b0ca347c",
+    "bytes": 54624,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-22-1787348068751/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/caafc27b941be655eb3ffa39f01e25843b48f8f8023b801547312ee3b0ca347c.json"
+  },
+  {
+    "sha256": "1f161cfc9dd03c6b82dcb7e4a5c43260f7aae875abe1f07f35d302d0c4faae12",
+    "bytes": 4682,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-22-1787348068751/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1f161cfc9dd03c6b82dcb7e4a5c43260f7aae875abe1f07f35d302d0c4faae12.json"
+  },
+  {
+    "sha256": "da86f71c76aa435e000740fcdb05f844747d8d1980654cb878dd5d60e27879bb",
+    "bytes": 725,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02145-2026-08-21-1787263791780/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/da86f71c76aa435e000740fcdb05f844747d8d1980654cb878dd5d60e27879bb.json"
+  },
+  {
+    "sha256": "fd56b0277fbb497f5646d0bdd1f54655b79d9c01f24f86fe8e8ebfe639eaafd9",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601163-2026-08-28-1787868540142/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fd56b0277fbb497f5646d0bdd1f54655b79d9c01f24f86fe8e8ebfe639eaafd9.json"
+  },
+  {
+    "sha256": "ef093ce6ad7bd98f1dc005b5107ef2f3617cc429c6980a633c81768a06a7da0f",
+    "bytes": 9190,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/games-2026-08-28-1787869088940/workspace/exploration-checkpoint.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ef093ce6ad7bd98f1dc005b5107ef2f3617cc429c6980a633c81768a06a7da0f.md"
+  },
+  {
+    "sha256": "66f49e3c94f98e74d5c65d9644a5011155dbe0a13a039583623756688cdff377",
+    "bytes": 461,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-603195-2026-09-04-1788474581660/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/66f49e3c94f98e74d5c65d9644a5011155dbe0a13a039583623756688cdff377.json"
+  },
+  {
+    "sha256": "caf56c7a8c21ea4a3df62f8e93d8b68fcf5c8358a9f24b32ccad70de2395c713",
+    "bytes": 754,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601600-2026-08-12-1786500995179/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/caf56c7a8c21ea4a3df62f8e93d8b68fcf5c8358a9f24b32ccad70de2395c713.json"
+  },
+  {
+    "sha256": "e02a4e21684069f319e17376e01bea0b4f56823f5ef460ff0eaf37ef187f40e1",
+    "bytes": 710,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-mu-2026-08-25-1787607739197/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e02a4e21684069f319e17376e01bea0b4f56823f5ef460ff0eaf37ef187f40e1.json"
+  },
+  {
+    "sha256": "8e8eb0aa604925067bcb1b8b4105a3678eddb286501e9775d136e06a1b25cfdb",
+    "bytes": 684,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-09-09-1788904797479/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8e8eb0aa604925067bcb1b8b4105a3678eddb286501e9775d136e06a1b25cfdb.json"
+  },
+  {
+    "sha256": "f8d57f3db7283fba4338bc035627a44d53b883fe93ee7f4785cb92c49602a180",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02097-2026-08-21-1787262577026/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f8d57f3db7283fba4338bc035627a44d53b883fe93ee7f4785cb92c49602a180.json"
+  },
+  {
+    "sha256": "66f3ab46fde3ef918b3f7ba037159d99fe2cfea61b6584b064f3abd693e2e852",
+    "bytes": 550,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300750-2026-08-16-1786830179064/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/66f3ab46fde3ef918b3f7ba037159d99fe2cfea61b6584b064f3abd693e2e852.json"
+  },
+  {
+    "sha256": "d0b1a5448bab21fc829c5b2737c1f4f85d3d16d28ec9335b18e87a1fc3e4ff34",
+    "bytes": 707,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-iq-2026-08-20-1787175053609/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/d0b1a5448bab21fc829c5b2737c1f4f85d3d16d28ec9335b18e87a1fc3e4ff34.json"
+  },
+  {
+    "sha256": "aed438420bdd7acd831742984b204ad237b1b236d5c5ed19a032571bfa79588a",
+    "bytes": 1303,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-bidu-2026-09-04-1788476202982/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/aed438420bdd7acd831742984b204ad237b1b236d5c5ed19a032571bfa79588a.json"
+  },
+  {
+    "sha256": "01a66a0a16388c52f2f48740cffd8ceefb244686f2ed0e3f41dd94a017ec99cc",
+    "bytes": 54624,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-31-1788125685870/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/01a66a0a16388c52f2f48740cffd8ceefb244686f2ed0e3f41dd94a017ec99cc.json"
+  },
+  {
+    "sha256": "fbd3d7dbba09dda66c2c077bd374505a7da51c1c1759d5d978eb2defcf125b68",
+    "bytes": 758,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-09-08-1788817583592/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fbd3d7dbba09dda66c2c077bd374505a7da51c1c1759d5d978eb2defcf125b68.json"
+  },
+  {
+    "sha256": "11c0dab55d1974e623099f7c485fc3964036a2b3ba1aa6d73668817542898def",
+    "bytes": 710,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-002003-2026-09-08-1788817133152/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/11c0dab55d1974e623099f7c485fc3964036a2b3ba1aa6d73668817542898def.json"
+  },
+  {
+    "sha256": "f4bc73709725a03ace0217957e0705170a5dd70459ce42bdfece977aecbe857a",
+    "bytes": 764,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-momo-2026-09-04-1788471322457/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/f4bc73709725a03ace0217957e0705170a5dd70459ce42bdfece977aecbe857a.json"
+  },
+  {
+    "sha256": "a482e80642771c656694a52b6e058ea3ab15aafd121e8f99475cd9eeec0d0711",
+    "bytes": 722,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-21-1787262764850/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a482e80642771c656694a52b6e058ea3ab15aafd121e8f99475cd9eeec0d0711.json"
+  },
+  {
+    "sha256": "7c132359e72389453978cb9cc4e29f8ade773f077433196ce74f9a0ef4a54eaa",
+    "bytes": 708,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601360-2026-08-29-1787953330013/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/7c132359e72389453978cb9cc4e29f8ade773f077433196ce74f9a0ef4a54eaa.json"
+  },
+  {
+    "sha256": "a86fd98ab8f21211e420c61f994e2d0cfff733aab15865c12f1b6cefc683d835",
+    "bytes": 792,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300705-2026-08-15-1786743480993/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a86fd98ab8f21211e420c61f994e2d0cfff733aab15865c12f1b6cefc683d835.json"
+  },
+  {
+    "sha256": "3745bf2688de2d6bb21269dacafa204c12b1e6a2715b610c6da19cfbc205ed5a",
+    "bytes": 747,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300705-2026-08-22-1787348348788/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3745bf2688de2d6bb21269dacafa204c12b1e6a2715b610c6da19cfbc205ed5a.json"
+  },
+  {
+    "sha256": "758144eba38d6f73be5bf6859563ace974855085600438ce0db2af189af56fe2",
+    "bytes": 752,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-601360-2026-08-20-1787175058977/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/758144eba38d6f73be5bf6859563ace974855085600438ce0db2af189af56fe2.json"
+  },
+  {
+    "sha256": "ee6e26b703a7c453d653d641a619b5410b33a9db69661119c7d7721cf3b5351f",
+    "bytes": 753,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-mu-2026-08-19-1787089402249/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ee6e26b703a7c453d653d641a619b5410b33a9db69661119c7d7721cf3b5351f.json"
+  },
+  {
+    "sha256": "22bf41f454cff4ab5a8efbe414acea34ea309dfca1e57d9b971d09e876daf685",
+    "bytes": 721,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-nflx-2026-08-14-1786657679743/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/22bf41f454cff4ab5a8efbe414acea34ea309dfca1e57d9b971d09e876daf685.json"
+  },
+  {
+    "sha256": "e871a247f0831596650a7068fd2e143d196c35c17dabd3f6afd45e94f837360e",
+    "bytes": 437,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00388-2026-09-04-1788474976658/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e871a247f0831596650a7068fd2e143d196c35c17dabd3f6afd45e94f837360e.json"
+  },
+  {
+    "sha256": "08d1b33e4d3f44673d400c2137a15fdd90065d0e326da4c4154517a03370af57",
+    "bytes": 687,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01060-2026-09-06-1788644756409/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/08d1b33e4d3f44673d400c2137a15fdd90065d0e326da4c4154517a03370af57.json"
+  },
+  {
+    "sha256": "2e781cdf3d059576e210872bc674b610bccbd4c8161cc9a5574458f8207fed86",
+    "bytes": 447,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-brk-b-2026-09-04-1788475541685/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/2e781cdf3d059576e210872bc674b610bccbd4c8161cc9a5574458f8207fed86.json"
+  },
+  {
+    "sha256": "cc5d2b16c674aec5eb8d487fdf6f6e14d9bee9c9fe671711f91216d546679cdd",
+    "bytes": 54583,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-05-1788557688832/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/cc5d2b16c674aec5eb8d487fdf6f6e14d9bee9c9fe671711f91216d546679cdd.json"
+  },
+  {
+    "sha256": "baeb85da0a8e5f94e41938866e87257e59677713b907bce64f29db7ba0dfe386",
+    "bytes": 6308,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-05-1788557688832/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/baeb85da0a8e5f94e41938866e87257e59677713b907bce64f29db7ba0dfe386.json"
+  },
+  {
+    "sha256": "2d5e50568530f6300e99a741772bef48e063f4e292419711f06d67aaec46a7a0",
+    "bytes": 711,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-689009-2026-08-30-1788040252843/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/2d5e50568530f6300e99a741772bef48e063f4e292419711f06d67aaec46a7a0.json"
+  },
+  {
+    "sha256": "37d86eeb2befdee945a332133c573b3fe88be7e98d4a8760d2cceb2c68ff61fd",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-avgo-2026-08-15-1786744050239/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/37d86eeb2befdee945a332133c573b3fe88be7e98d4a8760d2cceb2c68ff61fd.json"
+  },
+  {
+    "sha256": "1a26471024130fd4991b4cb5a7a1f625fe083b2f2af90ffbfdc5bd8b174d8bed",
+    "bytes": 54583,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-09-07-1788730223134/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/1a26471024130fd4991b4cb5a7a1f625fe083b2f2af90ffbfdc5bd8b174d8bed.json"
+  },
+  {
+    "sha256": "0765acd1a7ebf608b3c848bbf7b608e9c291b928eae77ce6cb5f2dbcb7f8898a",
+    "bytes": 15328,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600519-2026-08-18-1787002993608/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/0765acd1a7ebf608b3c848bbf7b608e9c291b928eae77ce6cb5f2dbcb7f8898a.md"
+  },
+  {
+    "sha256": "4dd59b64221b0b8b2ec684c06de023ea660e3da05407f78ba03c8d9ed786e92d",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-600519-2026-08-18-1787002993608/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/4dd59b64221b0b8b2ec684c06de023ea660e3da05407f78ba03c8d9ed786e92d.json"
+  },
+  {
+    "sha256": "67b3126b8bcc90e29324e9189c812a72793b6a05e530a054dc243be1e93aac08",
+    "bytes": 54625,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-13-1786570533552/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/67b3126b8bcc90e29324e9189c812a72793b6a05e530a054dc243be1e93aac08.json"
+  },
+  {
+    "sha256": "ba63ec5c9943b7dedc3d08ca6b860ee03dc329348abaff124f5a95fd2e3d096e",
+    "bytes": 2780,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-13-1786570533552/workspace/inputs/system-signals.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ba63ec5c9943b7dedc3d08ca6b860ee03dc329348abaff124f5a95fd2e3d096e.json"
+  },
+  {
+    "sha256": "09401524aa0911f947083fad5329dc35f99c37865deb5709772332ba97922412",
+    "bytes": 731,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03316-2026-08-26-1787694353462/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/09401524aa0911f947083fad5329dc35f99c37865deb5709772332ba97922412.json"
+  },
+  {
+    "sha256": "a7500083b3d88de4ad9eea59ab5b91ddb4b51d85af0684624e2dbb595a2419b2",
+    "bytes": 755,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-cn-300755-2026-08-21-1787262436294/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a7500083b3d88de4ad9eea59ab5b91ddb4b51d85af0684624e2dbb595a2419b2.json"
+  },
+  {
+    "sha256": "e0075e609477bd47ff537d05f07e1081f79e4c1ffd516ce6edf76d490d06501f",
+    "bytes": 11450,
+    "review_group": "historical_financial_fact_or_draft",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amd-2026-08-15-1786744214506/workspace/review.md"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e0075e609477bd47ff537d05f07e1081f79e4c1ffd516ce6edf76d490d06501f.md"
+  },
+  {
+    "sha256": "a12514f3d99d15ffd5680adfd2d2c36a246b0540a58750a2e058915017330499",
+    "bytes": 712,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-amd-2026-08-15-1786744214506/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a12514f3d99d15ffd5680adfd2d2c36a246b0540a58750a2e058915017330499.json"
+  },
+  {
+    "sha256": "a0092d9e6fba3d7c8f5f03281fdc2cc890fb4b694e8426f26b1270691863e5a6",
+    "bytes": 720,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-02513-2026-08-19-1787089565983/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/a0092d9e6fba3d7c8f5f03281fdc2cc890fb4b694e8426f26b1270691863e5a6.json"
+  },
+  {
+    "sha256": "425dcb54ebff7fc640ec4c78b6970eb2b6bf21bb9ee17dc0a414fe04945d2b4f",
+    "bytes": 428,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-unh-2026-09-04-1788475860088/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/425dcb54ebff7fc640ec4c78b6970eb2b6bf21bb9ee17dc0a414fe04945d2b4f.json"
+  },
+  {
+    "sha256": "e3ae0b5959203ea48c07cb0c464734193f2934e77e35c84fa0000488d5a9effa",
+    "bytes": 690,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00285-2026-09-09-1788905052515/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/e3ae0b5959203ea48c07cb0c464734193f2934e77e35c84fa0000488d5a9effa.json"
+  },
+  {
+    "sha256": "586e659dec822634667c87d4b10942462bc8b4e8fdeabda0e2a8653138824455",
+    "bytes": 727,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-03690-2026-08-19-1787089699365/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/586e659dec822634667c87d4b10942462bc8b4e8fdeabda0e2a8653138824455.json"
+  },
+  {
+    "sha256": "3ef587b12bbd272f03c083efe5293f5e9f29661db81f750fca318d4c1ac489e3",
+    "bytes": 715,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-meta-2026-08-29-1787953930429/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/3ef587b12bbd272f03c083efe5293f5e9f29661db81f750fca318d4c1ac489e3.json"
+  },
+  {
+    "sha256": "ccea111d25994ac505d777c1dfc31d363aea68546f0006371455fd7bba5716e4",
+    "bytes": 685,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-00100-2026-08-15-1786744411859/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/ccea111d25994ac505d777c1dfc31d363aea68546f0006371455fd7bba5716e4.json"
+  },
+  {
+    "sha256": "fce3de9338828588080658620b925760862be31eb287048e543b62d48a01d507",
+    "bytes": 1433,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-us-meta-2026-09-09-1788904078622/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/fce3de9338828588080658620b925760862be31eb287048e543b62d48a01d507.json"
+  },
+  {
+    "sha256": "8411e9c2dac15c499d80fbe250e7f4fb4c7b17d417a11774fd85fe9d7c992324",
+    "bytes": 54662,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-discovery-2026-08-16-1786829654038/workspace/inputs/market-snapshot.json"
+    ],
+    "schema": 1,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/8411e9c2dac15c499d80fbe250e7f4fb4c7b17d417a11774fd85fe9d7c992324.json"
+  },
+  {
+    "sha256": "641a042f9566cf7a3a0e6b6e1dc387bc9788ff4897c1670139beed4b26d7e11b",
+    "bytes": 733,
+    "review_group": "dated_selection_or_classification_snapshot",
+    "paths": [
+      "/root/aicode/runs/daily-report/stocks-review-hk-01810-2026-08-12-1786501456110/workspace/inputs/company.json"
+    ],
+    "schema": null,
+    "recorded_status": null,
+    "existing_proof": null,
+    "object": "objects/641a042f9566cf7a3a0e6b6e1dc387bc9788ff4897c1670139beed4b26d7e11b.json"
+  }
+]

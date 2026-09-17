@@ -1,0 +1,43 @@
+{
+  "id": "cn-601600",
+  "name": "中国铝业",
+  "market": "cn",
+  "order": 8,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "601600",
+      "quote_symbol": "sh601600"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-601600",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.02%",
+      "quote_symbol": "sh601600",
+      "quote_time": "20260817161455",
+      "first_seen_date": "2026-08-18",
+      "last_seen_date": "2026-08-18"
+    },
+    {
+      "company_id": "cn-601600",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "中国铝业在窗口内披露 2026 年半年报：收入 1,254.13 亿元，同比增长 7.74%；归母净利润 118.71 亿元，同比增长 67.91%，经营现金流增长 84.11%，并拟派中期股息约 47.35 亿元。利润与现金流同步大幅改善且电解铝产量创历史新高，属于需要核验周期价格、成本压降和可持续性的强信号。",
+      "sources": [
+        "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12559748&stockid=601600"
+      ],
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-08-28"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-14T05:30:17+08:00",
+    "end": "2026-08-28T05:30:16+08:00"
+  }
+}

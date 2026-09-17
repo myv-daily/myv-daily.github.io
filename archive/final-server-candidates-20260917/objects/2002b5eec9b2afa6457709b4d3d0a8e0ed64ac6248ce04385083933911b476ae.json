@@ -1,0 +1,33 @@
+{
+  "id": "cn-300705",
+  "name": "九典制药",
+  "market": "cn",
+  "order": 7,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sz",
+      "code": "300705",
+      "quote_symbol": "sz300705"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-300705",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月22日披露半年报：上半年营业收入12.87亿元，同比下降14.89%；归母净利润1.60亿元，同比下降45.21%；扣非归母净利润1.49亿元，同比下降47.29%。收入与利润同步明显下滑，且利润降幅远高于收入，需进一步核查集采降价、产品结构和成本费用对盈利能力的持续影响。",
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2026-08-22/1225490434.PDF"
+      ],
+      "first_seen_date": "2026-08-23",
+      "last_seen_date": "2026-08-23"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-22T05:30:17+08:00",
+    "end": "2026-08-23T05:30:11+08:00"
+  }
+}

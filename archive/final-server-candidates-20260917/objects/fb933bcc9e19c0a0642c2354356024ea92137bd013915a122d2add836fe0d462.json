@@ -1,0 +1,31 @@
+{
+  "id": "hk-00285",
+  "name": "比亚迪电子",
+  "market": "hk",
+  "order": 61,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "00285",
+      "quote_symbol": "hk00285"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-00285",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.27%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/08/28 16:08:37",
+      "first_seen_date": "2026-08-29",
+      "last_seen_date": "2026-08-29"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-24T05:30:16+08:00",
+    "end": "2026-08-29T05:30:17+08:00"
+  }
+}

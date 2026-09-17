@@ -1,0 +1,42 @@
+{
+  "id": "us-nvda",
+  "name": "英伟达",
+  "market": "us",
+  "order": 84,
+  "securities": [
+    {
+      "market": "us",
+      "code": "NVDA",
+      "quote_symbol": "usNVDA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-nvda",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.57%",
+      "quote_symbol": "usNVDA",
+      "quote_time": "2026-08-28 16:00:01",
+      "first_seen_date": "2026-08-29",
+      "last_seen_date": "2026-08-29"
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-31，英伟达与联发科宣布把合作扩展至云端AI工厂、本地AI计算和汽车平台；联发科将采用NVLink Fusion，英伟达并投资35亿美元认购联发科可转债。数十亿美元级资本投入及跨多代平台合作可能改变英伟达定制XPU、边缘计算与汽车业务预期，列为强信号。",
+      "sources": [
+        "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms"
+      ],
+      "first_seen_date": "2026-09-01",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-28T05:30:16+08:00",
+    "end": "2026-09-01T05:30:17+08:00"
+  }
+}

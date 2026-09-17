@@ -1,0 +1,43 @@
+{
+  "id": "hk-09988",
+  "name": "阿里巴巴-W",
+  "market": "hk",
+  "order": 49,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09988",
+      "quote_symbol": "hk09988"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-09988",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -8.54%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/08/24 16:08:26",
+      "first_seen_date": "2026-08-25",
+      "last_seen_date": "2026-08-25"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月23日（窗口内）阿里巴巴签订配售协议，并于8月24日公布定价：按每股112.70港元配售7.10亿股新股，预计募资总额约800亿港元；公司拟将净募集资金100%用于全栈AI能力（包括扩建和增强AI基础设施）。这是规模显著、带来股权摊薄并强化AI资本开支方向的正式融资披露，可能改变市场对其资本配置与短期每股价值的理解。",
+      "sources": [
+        "https://alihome.alibaba-inc.com/en-US/document-2028384807859257344",
+        "https://www.alibabagroup.com/zh-HK/ir-filings-hkex"
+      ],
+      "first_seen_date": "2026-08-25",
+      "last_seen_date": "2026-08-25"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-24T05:30:16+08:00",
+    "end": "2026-08-25T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hk-09988",
+  "name": "阿里巴巴-W",
+  "market": "hk",
+  "order": 49,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09988",
+      "quote_symbol": "hk09988"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.33%",
+      "quote_symbol": "hk09988",
+      "quote_time": "2026/09/01 16:08:18",
+      "first_seen_date": "2026-08-28",
+      "last_seen_date": "2026-09-02"
+    },
+    {
+      "company_id": "hk-09988",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "2026-09-08 美国政府公开指控包括阿里巴巴在内的六家中国 AI 企业利用美国模型变体加速训练，虽尚非制裁或执法结论，但可能加大中美 AI 技术、知识产权与监管摩擦，构成需进一步确认后续政策动作的风险信号。",
+      "sources": [
+        "https://www.marketscreener.com/news/us-accuses-chinese-ai-firms-of-malicious-copying-of-ai-technology-ce785bd8d088f424"
+      ],
+      "first_seen_date": "2026-09-09",
+      "last_seen_date": "2026-09-09"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-26T05:30:07+08:00",
+    "end": "2026-09-10T05:30:19+08:00"
+  }
+}

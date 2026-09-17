@@ -1,0 +1,33 @@
+{
+  "id": "hk-09898",
+  "name": "微博-SW",
+  "market": "hk",
+  "order": 64,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09898",
+      "quote_symbol": "hk09898"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-09898",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月19日公布二季度业绩：收入同比增2%但按固定汇率降4%，广告收入按固定汇率降6%；成本费用增12%，归母净利润从1.257亿美元降至6740万美元，经营利润率由33%降至26%，盈利能力明显转弱。",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/weibo-announces-second-quarter-2026-unaudited-financial-results-302855055.html"
+      ],
+      "first_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-21"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-21T05:30:17+08:00",
+    "focus_start": "2026-07-22T05:30:17+08:00",
+    "end": "2026-08-21T05:30:17+08:00"
+  }
+}

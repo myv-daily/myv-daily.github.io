@@ -1,0 +1,33 @@
+{
+  "id": "cn-002572",
+  "name": "索菲亚",
+  "market": "cn",
+  "order": 38,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sz",
+      "code": "002572",
+      "quote_symbol": "sz002572"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "cn-002572",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.02%",
+      "quote_symbol": "sz002572",
+      "quote_time": "20260812161500",
+      "first_seen_date": "2026-08-12",
+      "last_seen_date": "2026-08-13"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-18T05:30:17+08:00",
+    "focus_start": "2026-07-19T05:30:17+08:00",
+    "end": "2026-08-18T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hk-00837",
+  "name": "谭木匠",
+  "market": "hk",
+  "order": 43,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "00837",
+      "quote_symbol": "hk00837"
+    }
+  ],
+  "selection_reason": "rotation-deadline",
+  "signals": [],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-12T00:00:00+08:00",
+    "end": "2026-09-06T05:30:16+08:00"
+  }
+}

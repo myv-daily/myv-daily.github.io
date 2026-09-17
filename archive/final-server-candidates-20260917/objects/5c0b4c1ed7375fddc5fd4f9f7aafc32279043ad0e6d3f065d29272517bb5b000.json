@@ -1,0 +1,43 @@
+{
+  "id": "us-tsla",
+  "name": "特斯拉",
+  "market": "us",
+  "order": 95,
+  "securities": [
+    {
+      "market": "us",
+      "code": "TSLA",
+      "quote_symbol": "usTSLA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.42%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-09-03 16:00:01",
+      "first_seen_date": "2026-09-02",
+      "last_seen_date": "2026-09-04"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "截至2026年9月3日20:59 UTC（北京时间9月4日04:59，仍在扫描窗口内），美联社报道特斯拉已将数十辆无方向盘、无制动踏板的Cybercab投入奥斯汀街道运行，并准备随后举行发布活动。由量产/测试走向真实道路部署是公司自动驾驶与Robotaxi商业化的重要里程碑，但公众服务节奏、监管许可、安全表现及经济性仍需进一步核验，属于强信号。",
+      "sources": [
+        "https://apnews.com/article/8791add840f4debbc41bcaa9d1e64561",
+        "https://www.tesla.com/robotaxi"
+      ],
+      "first_seen_date": "2026-09-04",
+      "last_seen_date": "2026-09-04"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-01T05:30:17+08:00",
+    "end": "2026-09-04T05:30:06+08:00"
+  }
+}

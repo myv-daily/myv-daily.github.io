@@ -1,0 +1,26 @@
+{
+  "id": "hk-06181",
+  "name": "老铺黄金",
+  "market": "hk",
+  "order": 56,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "06181",
+      "quote_symbol": "hk06181"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-06181",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -8.49%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/11 16:08:17",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-12"
+    }
+  ]
+}

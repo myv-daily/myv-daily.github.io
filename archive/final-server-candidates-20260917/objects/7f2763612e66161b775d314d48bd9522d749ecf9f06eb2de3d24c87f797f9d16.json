@@ -1,0 +1,32 @@
+{
+  "id": "us-amzn",
+  "name": "亚马逊",
+  "market": "us",
+  "order": 103,
+  "securities": [
+    {
+      "market": "us",
+      "code": "AMZN",
+      "quote_symbol": "usAMZN"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-amzn",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "美国联邦贸易委员会与22个州在扫描窗口内对亚马逊提起诉讼，指控其在数字广告竞价中秘密加收费用并欺骗广告客户；案件直接针对亚马逊增长较快的广告业务，存在监管、赔偿及业务模式调整风险。",
+      "sources": [
+        "https://www.ftc.gov/legal-library/browse/cases-proceedings/amazon"
+      ],
+      "first_seen_date": "2026-09-02",
+      "last_seen_date": "2026-09-02"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-01T05:30:17+08:00",
+    "end": "2026-09-02T05:30:17+08:00"
+  }
+}

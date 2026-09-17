@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-002003",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 +15.33%",
+      "quote_symbol": "sz002003",
+      "quote_time": "20260903161421"
+    },
+    {
+      "company_id": "cn-689009",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.53%",
+      "quote_symbol": "sh689009",
+      "quote_time": "20260903161439"
+    },
+    {
+      "company_id": "hk-03690",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -16.64%",
+      "quote_symbol": "hk03690",
+      "quote_time": "2026/09/03 16:08:24"
+    },
+    {
+      "company_id": "hk-02097",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -9.39%",
+      "quote_symbol": "hk02097",
+      "quote_time": "2026/09/03 16:08:25"
+    },
+    {
+      "company_id": "hk-02145",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.15%；最近 20 个采样点累计 -28.14%",
+      "quote_symbol": "hk02145",
+      "quote_time": "2026/09/03 16:08:24"
+    },
+    {
+      "company_id": "hk-02390",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.37%；最近 5 个采样点累计 -18.36%；最近 20 个采样点累计 -22.75%",
+      "quote_symbol": "hk02390",
+      "quote_time": "2026/09/03 16:08:25"
+    },
+    {
+      "company_id": "hk-09896",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -12.13%；最近 20 个采样点累计 -20.91%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/09/03 16:08:25"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.10%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/09/03 16:08:22"
+    },
+    {
+      "company_id": "hk-00100",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.62%；最近 5 个采样点累计 +12.84%",
+      "quote_symbol": "hk00100",
+      "quote_time": "2026/09/03 16:08:24"
+    },
+    {
+      "company_id": "hk-09618",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -15.09%",
+      "quote_symbol": "hk09618",
+      "quote_time": "2026/09/03 16:08:24"
+    },
+    {
+      "company_id": "hk-09626",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -16.70%",
+      "quote_symbol": "hk09626",
+      "quote_time": "2026/09/03 16:08:24"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 20 个采样点累计 -23.21%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/09/03 16:08:23"
+    },
+    {
+      "company_id": "hk-01209",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.59%",
+      "quote_symbol": "hk01209",
+      "quote_time": "2026/09/03 16:08:23"
+    },
+    {
+      "company_id": "hk-01837",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -14.88%",
+      "quote_symbol": "hk01837",
+      "quote_time": "2026/09/03 16:08:25"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.01%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-09-03 16:00:01"
+    },
+    {
+      "company_id": "us-momo",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -7.02%；最近 5 个采样点累计 -10.68%",
+      "quote_symbol": "usMOMO",
+      "quote_time": "2026-09-03 16:00:01"
+    },
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.42%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-09-03 16:00:01"
+    },
+    {
+      "company_id": "us-spcx",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.42%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-09-03 16:00:01"
+    }
+  ]
+}

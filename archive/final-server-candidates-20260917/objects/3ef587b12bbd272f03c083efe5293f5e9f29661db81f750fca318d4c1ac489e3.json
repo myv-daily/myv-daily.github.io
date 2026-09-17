@@ -1,0 +1,32 @@
+{
+  "id": "us-meta",
+  "name": "Meta",
+  "market": "us",
+  "order": 80,
+  "securities": [
+    {
+      "market": "us",
+      "code": "META",
+      "quote_symbol": "usMETA"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "us-meta",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 -8.26%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-08-20 16:00:01",
+      "first_seen_date": "2026-08-13",
+      "last_seen_date": "2026-08-21"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-29T05:30:17+08:00",
+    "focus_start": "2026-07-30T05:30:17+08:00",
+    "end": "2026-08-29T05:30:17+08:00"
+  }
+}

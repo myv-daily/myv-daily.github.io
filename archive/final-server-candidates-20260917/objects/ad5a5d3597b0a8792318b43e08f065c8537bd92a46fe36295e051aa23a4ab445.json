@@ -1,0 +1,43 @@
+{
+  "id": "cn-601012",
+  "name": "隆基绿能",
+  "market": "cn",
+  "order": 27,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "601012",
+      "quote_symbol": "sh601012"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-601012",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.04%",
+      "quote_symbol": "sh601012",
+      "quote_time": "20260819161453",
+      "first_seen_date": "2026-08-20",
+      "last_seen_date": "2026-08-20"
+    },
+    {
+      "company_id": "cn-601012",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "隆基绿能于窗口内披露2026年半年报：上半年营业收入270.45亿元，同比下降17.58%；归母净亏损36.84亿元，较上年同期亏损25.69亿元进一步扩大。光伏龙头收入收缩且亏损扩大属于可能改变既有理解的正式披露，值得进一步核查产品价格、产能减值、技术迭代及现金流压力。",
+      "sources": [
+        "https://www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-08-31/601012_20260831_AH8U.pdf"
+      ],
+      "first_seen_date": "2026-08-31",
+      "last_seen_date": "2026-08-31"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-16T05:30:17+08:00",
+    "end": "2026-08-31T05:30:17+08:00"
+  }
+}

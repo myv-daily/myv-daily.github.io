@@ -1,0 +1,42 @@
+{
+  "id": "hk-09992",
+  "name": "泡泡玛特",
+  "market": "hk",
+  "order": 65,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09992",
+      "quote_symbol": "hk09992"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.05%",
+      "quote_symbol": "hk09992",
+      "quote_time": "2026/08/28 16:08:38",
+      "first_seen_date": "2026-08-22",
+      "last_seen_date": "2026-08-29"
+    },
+    {
+      "company_id": "hk-09992",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "东方明珠于2026年9月7日披露与泡泡玛特国际集团首次深度合作，城市乐园嘉年华巡展覆盖8月31日至11月1日并融合游乐、餐饮、零售和观光；该线下IP场景扩张仍需观察客流、转化与复制性，暂列弱信号。",
+      "sources": [
+        "https://www.opg.cn/cn/newsCenter/newsInfo/2096852476636106752.html"
+      ],
+      "first_seen_date": "2026-09-08",
+      "last_seen_date": "2026-09-08"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-21T05:30:17+08:00",
+    "end": "2026-09-08T05:30:10+08:00"
+  }
+}

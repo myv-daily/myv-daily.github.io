@@ -1,0 +1,31 @@
+{
+  "id": "us-tsm",
+  "name": "台积电",
+  "market": "us",
+  "order": 79,
+  "securities": [
+    {
+      "market": "us",
+      "code": "TSM",
+      "quote_symbol": "usTSM"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "us-tsm",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.07%",
+      "quote_symbol": "usTSM",
+      "quote_time": "2026-08-18 16:05:13",
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-19"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-12T00:00:00+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "hk-01024",
+  "name": "快手-W",
+  "market": "hk",
+  "order": 73,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "01024",
+      "quote_symbol": "hk01024"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-01024",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -11.01%；最近 5 个采样点累计 -17.59%",
+      "quote_symbol": "hk01024",
+      "quote_time": "2026/08/20 16:09:12",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-21"
+    },
+    {
+      "company_id": "hk-01024",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月19日公布二季度及中期业绩：二季度收入仅增1.4%，毛利率由55.7%降至51.6%，利润由49亿元降至32亿元；与此同时可灵AI收入超过8.5亿元、同比增长逾200%，新业务高增长与主业利润承压并存。",
+      "sources": [
+        "https://www.prnewswire.com/news-releases/kuaishou-technology-announces-second-quarter-and-interim-2026-unaudited-financial-results-302855081.html"
+      ],
+      "first_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-21"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-21T05:30:17+08:00",
+    "focus_start": "2026-07-22T05:30:17+08:00",
+    "end": "2026-08-21T05:30:17+08:00"
+  }
+}

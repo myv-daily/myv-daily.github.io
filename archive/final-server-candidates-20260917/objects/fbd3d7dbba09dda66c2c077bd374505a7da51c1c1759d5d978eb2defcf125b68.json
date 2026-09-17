@@ -1,0 +1,31 @@
+{
+  "id": "hk-02513",
+  "name": "智谱",
+  "market": "hk",
+  "order": 67,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "02513",
+      "quote_symbol": "hk02513"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-02513",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -5.30%；最近 5 个采样点累计 -14.81%；最近 20 个采样点累计 -19.08%",
+      "quote_symbol": "hk02513",
+      "quote_time": "2026/09/07 16:08:23",
+      "first_seen_date": "2026-09-08",
+      "last_seen_date": "2026-09-08"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-03T05:30:17+08:00",
+    "end": "2026-09-08T05:30:10+08:00"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cn-601360",
+  "name": "三六零",
+  "market": "cn",
+  "order": 12,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "601360",
+      "quote_symbol": "sh601360"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-601360",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +6.65%",
+      "quote_symbol": "sh601360",
+      "quote_time": "20260828161446",
+      "first_seen_date": "2026-08-25",
+      "last_seen_date": "2026-08-29"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-21T05:30:17+08:00",
+    "end": "2026-08-29T05:30:17+08:00"
+  }
+}

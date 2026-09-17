@@ -1,0 +1,42 @@
+{
+  "id": "us-bidu",
+  "name": "百度",
+  "market": "us",
+  "order": 86,
+  "securities": [
+    {
+      "market": "us",
+      "code": "BIDU",
+      "quote_symbol": "usBIDU"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.95%",
+      "quote_symbol": "usBIDU",
+      "quote_time": "2026-08-27 16:00:01",
+      "first_seen_date": "2026-08-20",
+      "last_seen_date": "2026-08-28"
+    },
+    {
+      "company_id": "us-bidu",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "百度由香港第二上市转为香港与纳斯达克双重主要上市的安排于2026年9月1日正式生效，港股简称移除“S”标记，并开始适用双重主要上市发行人的相关港交所规则；虽不涉及新股发行或融资，但上市地位与持续合规框架发生明确变化。",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1329099/000119312526369462/d117226dex991.htm"
+      ],
+      "first_seen_date": "2026-09-02",
+      "last_seen_date": "2026-09-02"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-19T05:30:16+08:00",
+    "end": "2026-09-04T05:30:06+08:00"
+  }
+}

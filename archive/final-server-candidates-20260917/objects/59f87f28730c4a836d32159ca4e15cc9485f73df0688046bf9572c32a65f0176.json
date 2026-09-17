@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "signals": [
+    {
+      "company_id": "cn-001328",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.18%",
+      "quote_symbol": "sz001328",
+      "quote_time": "20260811135036"
+    },
+    {
+      "company_id": "cn-689009",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +7.63%",
+      "quote_symbol": "sh689009",
+      "quote_time": "20260811135036"
+    },
+    {
+      "company_id": "hk-06181",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.22%",
+      "quote_symbol": "hk06181",
+      "quote_time": "2026/08/11 13:35:37"
+    },
+    {
+      "company_id": "hk-00285",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.28%",
+      "quote_symbol": "hk00285",
+      "quote_time": "2026/08/11 13:35:07"
+    },
+    {
+      "company_id": "hk-00883",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.42%",
+      "quote_symbol": "hk00883",
+      "quote_time": "2026/08/11 13:35:32"
+    },
+    {
+      "company_id": "hk-00175",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.73%",
+      "quote_symbol": "hk00175",
+      "quote_time": "2026/08/11 13:35:02"
+    },
+    {
+      "company_id": "us-uvv",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -6.77%",
+      "quote_symbol": "usUVV",
+      "quote_time": "2026-08-10 16:05:10"
+    },
+    {
+      "company_id": "us-ddl",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.04%",
+      "quote_symbol": "usDDL",
+      "quote_time": "2026-08-10 16:05:10"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.58%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-10 16:05:10"
+    },
+    {
+      "company_id": "us-spcx",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.23%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-08-10 16:00:02"
+    }
+  ]
+}

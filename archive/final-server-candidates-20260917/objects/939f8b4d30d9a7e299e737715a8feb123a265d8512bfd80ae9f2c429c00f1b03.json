@@ -1,0 +1,44 @@
+{
+  "id": "cn-003816",
+  "name": "中国广核",
+  "market": "cn",
+  "order": 36,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sz",
+      "code": "003816",
+      "quote_symbol": "sz003816"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "cn-003816",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近 5 个采样点累计 +8.84%",
+      "quote_symbol": "sz003816",
+      "quote_time": "20260901161409",
+      "first_seen_date": "2026-08-27",
+      "last_seen_date": "2026-09-02"
+    },
+    {
+      "company_id": "cn-003816",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年9月4日晚，中国广核公告控股子公司山东招远核电的招远2号机组将于9月5日完成核反应堆主厂房第一罐混凝土浇筑，标志机组进入全面建设和土建施工阶段；机组采用华龙一号技术，单机装机容量1214MW，属于项目建设里程碑。",
+      "sources": [
+        "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_AllBulletin/stockid/003816.phtml",
+        "https://finance.sina.com.cn/stock/zqgd/2026-09-04/doc-iniqskus6016343.shtml"
+      ],
+      "first_seen_date": "2026-09-05",
+      "last_seen_date": "2026-09-05"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-23T05:30:11+08:00",
+    "end": "2026-09-05T05:30:17+08:00"
+  }
+}

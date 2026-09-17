@@ -1,0 +1,21 @@
+{
+  "id": "hk-00388",
+  "name": "香港交易所",
+  "market": "hk",
+  "order": 63,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "00388",
+      "quote_symbol": "hk00388"
+    }
+  ],
+  "selection_reason": "rotation-deadline",
+  "signals": [],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-09-04T05:30:06+08:00",
+    "focus_start": "2026-08-05T05:30:06+08:00",
+    "end": "2026-09-04T05:30:06+08:00"
+  }
+}

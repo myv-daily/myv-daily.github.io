@@ -1,0 +1,31 @@
+{
+  "id": "hk-09896",
+  "name": "名创优品",
+  "market": "hk",
+  "order": 58,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09896",
+      "quote_symbol": "hk09896"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-09896",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -12.57%；最近 5 个采样点累计 -13.63%",
+      "quote_symbol": "hk09896",
+      "quote_time": "2026/08/31 16:08:51",
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-18T05:30:17+08:00",
+    "end": "2026-09-01T05:30:17+08:00"
+  }
+}

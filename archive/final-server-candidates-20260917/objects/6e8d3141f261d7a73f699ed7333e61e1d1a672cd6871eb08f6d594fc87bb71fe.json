@@ -1,0 +1,42 @@
+{
+  "id": "us-avgo",
+  "name": "博通",
+  "market": "us",
+  "order": 82,
+  "securities": [
+    {
+      "market": "us",
+      "code": "AVGO",
+      "quote_symbol": "usAVGO"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.49%",
+      "quote_symbol": "usAVGO",
+      "quote_time": "2026-08-27 16:00:01",
+      "first_seen_date": "2026-08-19",
+      "last_seen_date": "2026-08-28"
+    },
+    {
+      "company_id": "us-avgo",
+      "level": "soft",
+      "kind": "current-event",
+      "reason": "2026-08-31，博通在VMware Explore正式推出VMware Private AI Cloud及其AI Factory、AgentMinder和Tanzu AI数据基础等配套能力，形成从基础设施部署到智能体治理的生产级私有AI产品组合。该发布扩展VMware商业化边界，但尚无订单或财务量化，列为弱信号。",
+      "sources": [
+        "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-vmware-private-ai-cloud-enabling-enterprises"
+      ],
+      "first_seen_date": "2026-09-01",
+      "last_seen_date": "2026-09-01"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-15T05:30:17+08:00",
+    "end": "2026-09-02T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hk-00883",
+  "name": "中国海洋石油",
+  "market": "hk",
+  "order": 70,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "00883",
+      "quote_symbol": "hk00883"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-00883",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-09-09，受中东局势升级和供应担忧推动，布伦特原油突破每桶 100 美元。中国海洋石油以上游勘探开发为主，盈利和现金流对油价变化较敏感，本次关键价位突破构成需复查的强行业信号。",
+      "sources": [
+        "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"
+      ],
+      "first_seen_date": "2026-09-10",
+      "last_seen_date": "2026-09-10"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-09T05:30:08+08:00",
+    "end": "2026-09-10T05:30:19+08:00"
+  }
+}

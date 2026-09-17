@@ -1,0 +1,32 @@
+{
+  "id": "hk-02660",
+  "name": "禅游科技",
+  "market": "hk",
+  "order": 53,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "02660",
+      "quote_symbol": "hk02660"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-02660",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-26 21:24，禅游科技在港交所发布2026年中期业绩：收入约8.05亿元、同比增长13.4%，但净利润约1.69亿元、同比下降7.8%，主要因销售及分销开支和所得税开支增加；收入增长主要来自棋牌类游戏付费用户与ARPPU提升。收入恢复而利润仍下滑，显示获客成本及盈利转化存在需进一步核验的分化。",
+      "sources": [
+        "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0826/2026082601701.pdf"
+      ],
+      "first_seen_date": "2026-08-27",
+      "last_seen_date": "2026-08-27"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-23T05:30:11+08:00",
+    "end": "2026-08-27T05:30:17+08:00"
+  }
+}

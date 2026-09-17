@@ -1,0 +1,31 @@
+{
+  "id": "us-spcx",
+  "name": "SpaceX",
+  "market": "us",
+  "order": 100,
+  "securities": [
+    {
+      "market": "us",
+      "code": "SPCX",
+      "quote_symbol": "usSPCX"
+    }
+  ],
+  "selection_reason": "soft-signal",
+  "signals": [
+    {
+      "company_id": "us-spcx",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -3.33%",
+      "quote_symbol": "usSPCX",
+      "quote_time": "2026-08-13 16:00:01",
+      "first_seen_date": "2026-08-14",
+      "last_seen_date": "2026-08-14"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-13T05:30:17+08:00",
+    "end": "2026-08-17T05:30:12+08:00"
+  }
+}

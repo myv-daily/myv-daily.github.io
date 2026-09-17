@@ -1,0 +1,44 @@
+{
+  "id": "us-beke",
+  "name": "贝壳",
+  "market": "us",
+  "order": 89,
+  "securities": [
+    {
+      "market": "us",
+      "code": "BEKE",
+      "quote_symbol": "usBEKE"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-beke",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +4.47%",
+      "quote_symbol": "usBEKE",
+      "quote_time": "2026-08-21 16:04:47",
+      "first_seen_date": "2026-08-11",
+      "last_seen_date": "2026-08-22"
+    },
+    {
+      "company_id": "us-beke",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "贝壳于2026-08-21发布2026年二季度未经审计业绩：净收入约245亿元，调整后经营利润约35.9亿元，调整后经营利润率14.6%、同比提升8.5个百分点，调整后净利润约31.9亿元、同比增长约74.9%。在收入偏软背景下盈利能力显著改善，且为近三年最强季度表现，属于需要进一步核验其成本优化可持续性及楼市交易复苏贡献的强信号。",
+      "sources": [
+        "https://finance.yahoo.com/real-estate/articles/ke-holdings-inc-announces-second-100000977.html",
+        "https://investors.ke.com/events/event-details/ke-holdings-inc-second-quarter-2026-earnings-conference-call"
+      ],
+      "first_seen_date": "2026-08-22",
+      "last_seen_date": "2026-08-22"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-22T05:30:17+08:00",
+    "focus_start": "2026-07-23T05:30:17+08:00",
+    "end": "2026-08-22T05:30:17+08:00"
+  }
+}

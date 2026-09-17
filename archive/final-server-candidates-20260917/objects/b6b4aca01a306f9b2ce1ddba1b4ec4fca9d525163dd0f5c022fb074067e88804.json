@@ -1,0 +1,22 @@
+{
+  "id": "cn-601985",
+  "name": "中国核电",
+  "market": "cn",
+  "order": 33,
+  "securities": [
+    {
+      "market": "cn",
+      "exchange": "sh",
+      "code": "601985",
+      "quote_symbol": "sh601985"
+    }
+  ],
+  "selection_reason": "rotation-deadline",
+  "signals": [],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-09-04T05:30:06+08:00",
+    "focus_start": "2026-08-05T05:30:06+08:00",
+    "end": "2026-09-04T05:30:06+08:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "us-meta",
+  "name": "Meta",
+  "market": "us",
+  "order": 80,
+  "securities": [
+    {
+      "market": "us",
+      "code": "META",
+      "quote_symbol": "usMETA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-meta",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "Meta 于 2026-09-08 在美国正式推出个人 AI 智能体 Muse，可通过独立应用及 WhatsApp 代用户发送邮件、预订旅行和付款，并计划扩展到 AI 眼镜；这是公司面向消费者的重大 AI 产品落地，可能影响产品变现、生态黏性及隐私合规风险，值得深研。",
+      "sources": [
+        "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "https://www.marketscreener.com/news/meta-launches-ai-agent-that-can-access-other-apps-to-send-emails-make-payments-ce785bd8d08af726"
+      ],
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-09"
+    },
+    {
+      "company_id": "us-meta",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.01%",
+      "quote_symbol": "usMETA",
+      "quote_time": "2026-09-03 16:00:01",
+      "first_seen_date": "2026-09-04",
+      "last_seen_date": "2026-09-04"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-08-29T05:30:17+08:00",
+    "end": "2026-09-09T05:30:08+08:00"
+  }
+}

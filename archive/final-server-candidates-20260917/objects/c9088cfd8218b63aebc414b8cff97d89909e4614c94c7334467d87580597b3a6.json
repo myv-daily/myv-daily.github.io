@@ -1,0 +1,32 @@
+{
+  "id": "us-nvda",
+  "name": "英伟达",
+  "market": "us",
+  "order": 84,
+  "securities": [
+    {
+      "market": "us",
+      "code": "NVDA",
+      "quote_symbol": "usNVDA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "英伟达与联发科宣布深化从边缘到云端的AI计算合作，英伟达同时认购联发科发行的35亿美元可转债；投资规模与战略合作范围均可能改变市场对其资本配置、生态绑定及消费级/汽车AI平台布局的理解。",
+      "sources": [
+        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-MediaTek-Deepen-Long-Standing-Partnership-to-Build-AI-Edge-to-Cloud-Computing-Platforms/default.aspx"
+      ],
+      "first_seen_date": "2026-09-02",
+      "last_seen_date": "2026-09-02"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-01T05:30:17+08:00",
+    "end": "2026-09-02T05:30:17+08:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "us-nvda",
+  "name": "英伟达",
+  "market": "us",
+  "order": 84,
+  "securities": [
+    {
+      "market": "us",
+      "code": "NVDA",
+      "quote_symbol": "usNVDA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-nvda",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +3.21%",
+      "quote_symbol": "usNVDA",
+      "quote_time": "2026-09-02 16:00:01",
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-03"
+    },
+    {
+      "company_id": "us-nvda",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "英伟达于美东时间2026年9月3日向SEC提交8-K，披露已签署收购Hugging Face的最终协议：股东对价约119亿美元，另设最高约10亿美元员工股权留任计划，预计2027年上半年完成并需监管批准。交易规模及其对开源AI生态、软件平台布局和监管风险的潜在影响，足以改变市场对公司战略边界的理解，属于需深研的强信号。",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+        "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+      ],
+      "first_seen_date": "2026-09-03",
+      "last_seen_date": "2026-09-04"
+    }
+  ],
+  "research_window": {
+    "mode": "incremental",
+    "start": "2026-09-02T05:30:17+08:00",
+    "end": "2026-09-04T05:30:06+08:00"
+  }
+}

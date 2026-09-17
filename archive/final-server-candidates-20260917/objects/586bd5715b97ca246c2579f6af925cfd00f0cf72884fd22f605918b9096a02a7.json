@@ -1,0 +1,34 @@
+{
+  "id": "hk-09992",
+  "name": "泡泡玛特",
+  "market": "hk",
+  "order": 65,
+  "securities": [
+    {
+      "market": "hk",
+      "code": "09992",
+      "quote_symbol": "hk09992"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "hk-09992",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026年8月20日公布2026年上半年业绩并披露未来回购计划：收入171.7亿元、同比增23.8%，经调整净利润51.6亿元、利润率30%；公司拟未来六个月回购20亿至50亿元股份，属于显著资本配置变化。",
+      "sources": [
+        "https://www.popmart.com.cn/home/investor",
+        "https://www.prnewswire.com/news-releases/pop-mart-reports-first-half-2026-financial-results-announces-future-stock-buyback-plan-302856357.html"
+      ],
+      "first_seen_date": "2026-08-21",
+      "last_seen_date": "2026-08-21"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-21T05:30:17+08:00",
+    "focus_start": "2026-07-22T05:30:17+08:00",
+    "end": "2026-08-21T05:30:17+08:00"
+  }
+}

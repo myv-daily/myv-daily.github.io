@@ -1,0 +1,43 @@
+{
+  "id": "us-li",
+  "name": "理想汽车",
+  "market": "us",
+  "order": 77,
+  "securities": [
+    {
+      "market": "us",
+      "code": "LI",
+      "quote_symbol": "usLI"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-li",
+      "level": "soft",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 -4.37%",
+      "quote_symbol": "usLI",
+      "quote_time": "2026-08-24 16:00:01",
+      "first_seen_date": "2026-08-20",
+      "last_seen_date": "2026-08-25"
+    },
+    {
+      "company_id": "us-li",
+      "level": "hard",
+      "kind": "current-event",
+      "reason": "2026-08-26，理想汽车披露2026年第二季度未经审计业绩：交付98,330辆，同比下降11.5%；汽车销售收入同比下降16.7%，整车毛利率由上年同期19.4%降至9.4%，总收入同比下降15.1%，毛利同比下降53.3%。正式季报显示销量、收入和盈利能力均明显承压，值得进一步复查产品换代、价格竞争及下半年毛利修复假设。",
+      "sources": [
+        "https://ir.lixiang.com/zh-hant/news-releases/news-release-details/li-auto-inc-announces-unaudited-second-quarter-2026-financial"
+      ],
+      "first_seen_date": "2026-08-27",
+      "last_seen_date": "2026-08-27"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-27T05:30:17+08:00",
+    "focus_start": "2026-07-28T05:30:17+08:00",
+    "end": "2026-08-27T05:30:17+08:00"
+  }
+}

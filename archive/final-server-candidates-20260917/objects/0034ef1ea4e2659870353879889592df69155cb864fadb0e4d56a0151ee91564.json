@@ -1,0 +1,32 @@
+{
+  "id": "us-tsla",
+  "name": "特斯拉",
+  "market": "us",
+  "order": 95,
+  "securities": [
+    {
+      "market": "us",
+      "code": "TSLA",
+      "quote_symbol": "usTSLA"
+    }
+  ],
+  "selection_reason": "hard-signal",
+  "signals": [
+    {
+      "company_id": "us-tsla",
+      "level": "hard",
+      "kind": "market",
+      "reason": "最近行情时点单日涨跌 +5.14%",
+      "quote_symbol": "usTSLA",
+      "quote_time": "2026-08-21 16:00:01",
+      "first_seen_date": "2026-08-14",
+      "last_seen_date": "2026-08-22"
+    }
+  ],
+  "research_window": {
+    "mode": "initial",
+    "start": "2025-08-22T05:30:17+08:00",
+    "focus_start": "2026-07-23T05:30:17+08:00",
+    "end": "2026-08-22T05:30:17+08:00"
+  }
+}
